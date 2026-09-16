@@ -3756,6 +3756,120 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
 Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-1_iphoneos-arm64_601222fd5db6edc3f29f3ec0d8dd9f805af33895efe24fb8c2521830b39a3094.deb
+Size: 670124
+MD5sum: 37f7fb43c9e5acf041fce4846ff07c5b
+SHA1: f687843c30f331cafd22fb234c66601478384c0e
+SHA256: 601222fd5db6edc3f29f3ec0d8dd9f805af33895efe24fb8c2521830b39a3094
+SHA512: 5430cdddeb2e10c5dd9b3db6750ddcd26b47b82551b183dfa29f85ec9e0ae5f48e2e6d6947d5febfa0414ac8ed390916d97c9720723b6169b6f48d7722b043eb
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-2_iphoneos-arm64_7b10af4b86f6986627081ff6414736cd8bcfd22832e840cb9fdf1e8629961e4d.deb
+Size: 669852
+MD5sum: f9b3049eae0f17558d3764ef03b98c1d
+SHA1: 0b925bef8e22042961ba0e608fb0ec06d5581a66
+SHA256: 7b10af4b86f6986627081ff6414736cd8bcfd22832e840cb9fdf1e8629961e4d
+SHA512: a6c7d81d4cbd43414675d064c303e2d10cfd768259242c9bfe67171968934a7bc1847d9022d55c45410c6ef84c97438f19d0b6dc6513fe49b941be15552a4a6c
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-3_iphoneos-arm64_6f02f865f681234c2c360975630427e016b19662265b77fb06db0023fd12e3b3.deb
+Size: 669928
+MD5sum: cf6cc104816ef3cd0c62a608753cdd46
+SHA1: 9fcd8da1d68c9566448a04e6cda28886d4e7a4f9
+SHA256: 6f02f865f681234c2c360975630427e016b19662265b77fb06db0023fd12e3b3
+SHA512: d0467e7901c804a87f2c9682f743a5acdf17fb241ee060ec744f70bdfa4341fb2b4dc36a8269dbd806ca56ea5a584a902842092616b873bcf141f1f4019f0b37
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-4_iphoneos-arm64_8bd2ab13ba47bb80f57edf0adf469a563ebdaa91888f297320371da51a13be49.deb
+Size: 668772
+MD5sum: 3fdb4c82b342e3f612cce5b2db6fd5e3
+SHA1: 77fa68b129e7cc63d67124e3b37963575f4f7a13
+SHA256: 8bd2ab13ba47bb80f57edf0adf469a563ebdaa91888f297320371da51a13be49
+SHA512: 6ad8eb363e67cd63a51c6a85ed940f22cd2bc1a32a792a55df6579c86c52a27176f9d9b067f75a5146fb90e8741d0a2f3740ae8f2b2515ba60fa4a0f9185a4ba
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-5_iphoneos-arm64_a2c9be0d150986ac1421fef38b2e0a4f7d45db5f5aa797b4b8141490dfce3f7d.deb
+Size: 669944
+MD5sum: ae55d2a87dc3d325fa982bc0fbcbbc7a
+SHA1: 0c7d5c5c91e1c90b1fac1a4f46087912397f4dc9
+SHA256: a2c9be0d150986ac1421fef38b2e0a4f7d45db5f5aa797b4b8141490dfce3f7d
+SHA512: 398f56c9d07040768b81532efb4f9c733323d3d3f35e9e80592c3e5d9c62d48af11cb7c7d42ee633e8994418549998238e6f2fa1b5c1f06f1186b0ab46738d70
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64_b31c8b215c4fee108954b18f4e78660eedbfdd8da3b59d041b3fbf917d3611e6.deb
+Size: 669852
+MD5sum: a40467359edb468b850c9496ad0cb33e
+SHA1: 8c95801f84d3da3cbead7b23cc2b74332c07488f
+SHA256: b31c8b215c4fee108954b18f4e78660eedbfdd8da3b59d041b3fbf917d3611e6
+SHA512: ed5fc69499a1697998d50e5b7a7aa7f80090aa91add727dc46acb2c55487bbe2d1a8726f4dff9667487fc7822c38ba4aaee41fd0255bbd634677059232fb01e9
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64e
 Version: 1.4.6
 Section: 插件
@@ -5715,3 +5829,1724 @@ Name: floatingView
 Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-1
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-1_iphoneos-arm64e_c6b4edb9cc70663c59d3545ada67f6dd83d4bdb9cac5520df27bcc63a1cc9d78.deb
+Size: 1796570
+MD5sum: edee521f78341f8ed04bcb06c6ee65ee
+SHA1: 8f3f9ed0b47a22c5141c0ddabdfd598db828fa10
+SHA256: c6b4edb9cc70663c59d3545ada67f6dd83d4bdb9cac5520df27bcc63a1cc9d78
+SHA512: 0c7fb42c0fc3dd99f904fd20a0ebc791b3d069555e21a79c1357d9822d15db5eaca64a99f268d40e4063a391ea4552ac5c67bd4ed099919de3082501fc543466
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-2
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-2_iphoneos-arm64e_291a33627b9cb1d76ea2481679e317103cb515859bf8e3247306d2275bb10be2.deb
+Size: 1797482
+MD5sum: 0bf84415a2520ee2b0073e2f9fb569fc
+SHA1: 60a16fc8270271efd8a2b49fd63631934b9b92f8
+SHA256: 291a33627b9cb1d76ea2481679e317103cb515859bf8e3247306d2275bb10be2
+SHA512: 1965c34696222aced719e0c196adeb267d50cbeb8dafe01f3e78bb923227151e4b6c37fe15c7eee7f7cbbfec000e1376a984dc80a69c17849805196b9792b701
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-3
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-3_iphoneos-arm64e_42f4ea7f5bad92b23738e1efcf9351d254f437c7be3880de9aaa97c4d0008274.deb
+Size: 1799406
+MD5sum: fe4901158fc635afa8c7fd9b62ec6470
+SHA1: 9a25e484df609b930a53163e4b6469d833cd2259
+SHA256: 42f4ea7f5bad92b23738e1efcf9351d254f437c7be3880de9aaa97c4d0008274
+SHA512: 3d169cc31ee7addc19eddb1ac1f89e363d7d6b4b521d14a3375b76a70891f72739cde7826a5200974bc14306239a91ade31332ab8c32337bc689c36dc2511f83
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-4
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-4_iphoneos-arm64e_a8f56f0e6272ac6b45e4bb97ad74cd382a6e71ecd6f27f16a7f095031f541fc5.deb
+Size: 1795020
+MD5sum: 9c8b7719d9bc3ecfe119139dafdc0903
+SHA1: f40cb5254750e07890d055710651f81f8bf48ec5
+SHA256: a8f56f0e6272ac6b45e4bb97ad74cd382a6e71ecd6f27f16a7f095031f541fc5
+SHA512: 38757c136b877b9ca057ad920e8678de64848c28f921b4f87da8180c142785227b2d51e7a27e7c3d976bb6b9a8bda711dd224fd39dfda39825a93e65fa85ba6f
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-5
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-5_iphoneos-arm64e_109fe7bc9e2e43b856a0b0be1854b3ca821af5efddcbe0a0c3be8d0e3e5a25fb.deb
+Size: 1801316
+MD5sum: f2aaffc4830162f9376f8a2e46563375
+SHA1: bebaf57f8bd9beb45f32e1b2710870617cdb7a82
+SHA256: 109fe7bc9e2e43b856a0b0be1854b3ca821af5efddcbe0a0c3be8d0e3e5a25fb
+SHA512: f52c12d9054903144fbadd90b17f5fb92c501a004bcecae286f2605428054e17b629a5269bd0e43ca0c13410ca2ce43d7d2895f80bcbd90cff795914623f8a20
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 2692
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64e_ca5075a98794d8d8e49cbf84ac5d206fbadc891c030937f344f42138e1ab3845.deb
+Size: 1795960
+MD5sum: d59b9cbd5661a6cdaeb60ed38d1b7f4f
+SHA1: 53748fa13d3fb2ec126c5ff0c2c289431af574cb
+SHA256: ca5075a98794d8d8e49cbf84ac5d206fbadc891c030937f344f42138e1ab3845
+SHA512: de0a6f15b4aa2f06cce1aae20d3dee63fc0fe6c0d628f0a9285f5074242ec6473812729e1706b1b9c126efd435ff10a105073390736ce4378723d58665286397
+Description: 分屏，不必太复杂，一切从简即可。
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.blbl
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 插件
+Maintainer: 狗哥
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.blbl_1.0_iphoneos-arm64_fad10bfc153e50bc5145758359b436e46d1cf609d47572d532309b5b6ef8e74b.deb
+Size: 6714128
+MD5sum: 38e62bdde921a14caa0c995bc46cef68
+SHA1: b42871b67e17bb77c3861da43fa06ca51c364731
+SHA256: fad10bfc153e50bc5145758359b436e46d1cf609d47572d532309b5b6ef8e74b
+SHA512: f7e98c123d0947d14316f25139cd97f09c976eac1a47c2e41783a3e85ff9e21e4d7a94c1911d68e786f846c6686b7c09534307cd80dbce21dff4e9d4294ca8dc
+Description: （备份）设置里启动。如果插件无效，下载deb注入哔哩哔哩。
+Name: 哔哩哔哩净化
+Author: 狗哥
+Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
+
+Package: com.blbl
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 插件
+Maintainer: 狗哥
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.blbl_1.0_iphoneos-arm64e_8b9516f94684ad3e0dc8d70ddcd83e92cec46e6c9c79b61e8eeffb71b5eb94c1.deb
+Size: 18532218
+MD5sum: 72c31e3a2a2be4f90b48b8dcd2a58e09
+SHA1: ddac8c15aec8ba32cb6da51c6a648ba55eaced98
+SHA256: 8b9516f94684ad3e0dc8d70ddcd83e92cec46e6c9c79b61e8eeffb71b5eb94c1
+SHA512: acd46ff2bd2cfdd97c6bea89557c67a7b71dabdb086480f6ebf48f375735566453d694111663f79d40324e6dcdd30911bf86217ec35960e11f14eba4f1ab57eb
+Description: （备份）设置里启动。如果插件无效，下载deb注入哔哩哔哩。
+Name: 哔哩哔哩净化
+Author: 狗哥
+Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
+
+Package: com.creaturecoding.libcspreferences
+Architecture: iphoneos-arm64e
+Version: 1.5.8
+Section: System
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 2332
+Pre-Depends: rootless-compat(>= 0.9), firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64e_f13a27f97e10da655a47b63da24a22d64b56066e265c38197d343e0554a3fb3a.deb
+Size: 977008
+MD5sum: 0b2be5df7efc61cb3706cf652578c1fc
+SHA1: 3d62dc294837b71a05da4237c80ae00c32bc0eed
+SHA256: f13a27f97e10da655a47b63da24a22d64b56066e265c38197d343e0554a3fb3a
+SHA512: ff0b2207ee9e0108db50419bb5e7dc1af393b294c52001451b0719e0915d466ee720acc4d774ac3cd10395f5888f95ee90e57d3a953b7ca1bbc4a46538a93c48
+Homepage: https://creaturecoding.com/
+Description: A Preference Library that doesn't suck!
+Tag: compatible_min::iOS9
+Name: libCSPreferences
+Author: CreatureSurvive <support@creaturecoding.com>
+Depiction: https://creaturecoding.com/?page=depiction&id=libcspreferences
+SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=libcspreferences
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-0
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-0_iphoneos-arm64_887dcdd5645a8825261b26d89c1866c9575cf07374e6c28a05f808e9a3c99e98.deb
+Size: 815848
+MD5sum: 9c6a3e4d8dc6b1943b7f33f3c4d25904
+SHA1: bd6a4d01cca86a66924b1181dfbd759a9bbfc89f
+SHA256: 887dcdd5645a8825261b26d89c1866c9575cf07374e6c28a05f808e9a3c99e98
+SHA512: f6b3acb7b0c4ade1e0f8fd4359ab9c70de1a386191ba9fde6ff37a93677e4c7087f2974fe0b4611a031a1243856d8e4a4546cf6f190fac31a1828f400f3ebe00
+Description: 学习交流。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-1
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-1_iphoneos-arm64_d5be3620c1139f31a92163f8acb63944dacc03a0d21cd3415625f3989a81dece.deb
+Size: 818616
+MD5sum: 3312a171efd203aaf9f4a7539c1f65c1
+SHA1: f33d1343f747e1ed957e123f3589837b8df1455c
+SHA256: d5be3620c1139f31a92163f8acb63944dacc03a0d21cd3415625f3989a81dece
+SHA512: df7788cfcc53b97e7ea95a7e49dac982e24f14ffeebd0faeea792c90715a3c6b83a235b19af20897113fb5f28f0d2a0ec6a3a76839052b9d4b4af9c5b06b1f25
+Description: 学习交流。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-2
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-2_iphoneos-arm64_9eef1f7e1b2d0b4114ef32ac68ea33dc93ff464822eb39393e7e1bebb01dc6ca.deb
+Size: 819316
+MD5sum: e88196e497abbc27e552ebcde986ff96
+SHA1: af6792b254fc050f5c8a781a4c384a8df0b2906f
+SHA256: 9eef1f7e1b2d0b4114ef32ac68ea33dc93ff464822eb39393e7e1bebb01dc6ca
+SHA512: cf7b664f323dde903782d571d91547113ed6dc6891090ad5eebdf75f72ee0a270c8da00659d289bb5020f4078c81a8a3cfd6ba0a927294f08741424e8b94378c
+Description: 学习交流。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-3
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-3_iphoneos-arm64_c9c552d7674a90a9918252187c193c0b358a3a0b902345465929ddea17851481.deb
+Size: 830940
+MD5sum: 8859762be2f7226d0b88e88532daf3c8
+SHA1: adc154766e55f7325a9216994708585e6a1b7198
+SHA256: c9c552d7674a90a9918252187c193c0b358a3a0b902345465929ddea17851481
+SHA512: abd797bf017809861fa9cdb83a44a28dde24f060d2864d0b2922c6b70292aa47f766f19db52773f1c602d92056ad8d29ce8a4dd3bd3fc46a8a003a3e48e6aa0d
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC_无根
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-4
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-4_iphoneos-arm64_6c7372d4b0b42af346b09d78c2126620c33a46c9e139c67d659a61f5429e2d40.deb
+Size: 833680
+MD5sum: 2f77eacd34080e02c58719c82a939628
+SHA1: 1b3b12bc51c432e1706e20539537ac40de3cb1b5
+SHA256: 6c7372d4b0b42af346b09d78c2126620c33a46c9e139c67d659a61f5429e2d40
+SHA512: 429146f0373589bbb850cd866f15b6aad694e02c7f6f5dec42eb29450870511e3a06bc63824b5af0fa0d0080248e468238b2a901d9d4ad98b34e3ab7de08dcb3
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-5
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-5_iphoneos-arm64_a2c089788d7f467e6f6100d98c74b2e89e4d730bd499077065496af96d663e92.deb
+Size: 871728
+MD5sum: 5fca246c073a730344733e29cabaea9b
+SHA1: 064ae5b3a2c95df813fe6eac86ec494366cecc72
+SHA256: a2c089788d7f467e6f6100d98c74b2e89e4d730bd499077065496af96d663e92
+SHA512: ab35a177f301542e7472900132cf32e803ed8472d328bb0d9ec37b2092c6bd6d4d6b22c3ed110f0be5f435f90b3500d71b4696d2630e43b47f48a95c9f2aab94
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-6
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-6_iphoneos-arm64_eea8bdeca459e2fd6f4990bae39d0eb38a4b6784216137666e840a9a51cc528a.deb
+Size: 873656
+MD5sum: 478f4a43de85ae7764448a6b210361cf
+SHA1: b895b2ab1cce5c638231ef6b958723103fb40a53
+SHA256: eea8bdeca459e2fd6f4990bae39d0eb38a4b6784216137666e840a9a51cc528a
+SHA512: d47435efb81e98ead8ce259644ca50f90fbaf39aa5c22a30e63df653a510a7227fc215d3473dd61a4d6b62b4e4402f433297dc131ebea2e8003f6af855d9b4f8
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-7
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-7_iphoneos-arm64_70d6f32bd8bdc8b424d7ebb5036d81cd5cf8c99afd93e5605fa6b23e2d805e27.deb
+Size: 919400
+MD5sum: df4b04ebab9522c08b63ab2f20171544
+SHA1: 481e9fe8a9b7c37859c173a913c1e71c5994770b
+SHA256: 70d6f32bd8bdc8b424d7ebb5036d81cd5cf8c99afd93e5605fa6b23e2d805e27
+SHA512: 211aef3f9309885e205e8a66f567210fb2ed2a16ded5890871d986b3c6199842522beebd1f3db8ed5b567a3cc7cc881d182e3362ff84fc1d4320d3be69bd72e7
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-8
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-8_iphoneos-arm64_c56b4858900a3cc9e00b819c954d528ca53184212913cc033f247f98b7bd1840.deb
+Size: 919092
+MD5sum: cf69ba0e1f9520cda258479435e1e8d7
+SHA1: 18c3df7fe31c24eab9f041e6b4630f816440d7cb
+SHA256: c56b4858900a3cc9e00b819c954d528ca53184212913cc033f247f98b7bd1840
+SHA512: e2395b47a779167b33c1c4bcf9783c29b0546aca9db4955f2ccb9007bc8ef0dd4983c95a9c7083c81eafa8c834494182477fb65e5e6b9bdd60c4e52d85f94aa1
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.7-9
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.7-9_iphoneos-arm64_3071015656d8a381a599901abab22e088b0bd4b107b8a0ec724e5060f14eb248.deb
+Size: 921244
+MD5sum: 442e94513c9e8bbd754c623f866ec45b
+SHA1: 3318feebd9288cfbea87cc24bc50ca888c602014
+SHA256: 3071015656d8a381a599901abab22e088b0bd4b107b8a0ec724e5060f14eb248
+SHA512: 097e1b199bd8675d19e588c3f7d1ac10ca260a08ecffb1c382ff786b17a7bc95ce672f1284bcd567f69a0a175816c21a378e4411a6853ed973cf58e3505091c3
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-0
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-0_iphoneos-arm64_ad89049a8186fe816af49b4e3f9ed9ecdf9aed915068fb05fc85f0893f351545.deb
+Size: 926868
+MD5sum: 67e99da2fc8f097092c18e04fcc71109
+SHA1: b067e028694ec28b2266e4b78d3c63d212481784
+SHA256: ad89049a8186fe816af49b4e3f9ed9ecdf9aed915068fb05fc85f0893f351545
+SHA512: 43eb00c1c6bce8391cc5254bd1edb1821745b89bb444d6426212ae43391a5b95eadc59028344ee44cef838862877abea5f67de72497e9f4c7e9f69a7730ea165
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-2
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-2_iphoneos-arm64_4def542fc826709dcb95727ea5a83a67c566d7c1c9b74195c6169f47b4aad422.deb
+Size: 940252
+MD5sum: 8041d9ea2d6b89663ad79270e9ee6046
+SHA1: 8df7b8ec45b09b24af03a32c33785bdbb3df3e73
+SHA256: 4def542fc826709dcb95727ea5a83a67c566d7c1c9b74195c6169f47b4aad422
+SHA512: f9d10d6096ef137fcaf3eaeb9e6bf89a63b2f1c42ab7646e7c19c6778a092d099f25ed1413084d93a56df2c2411cf664acf527cb11d7dde568a87e521060273c
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-3
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-3_iphoneos-arm64_197ce2eeda25ec08893a4eb899d39923cbd0d6556757b5eb0075dc1d8eebdf25.deb
+Size: 950076
+MD5sum: 604ce911b826cb249d5f190ddb4cfc02
+SHA1: 1cb79094b05c475e8791033912e3d12d7777ca09
+SHA256: 197ce2eeda25ec08893a4eb899d39923cbd0d6556757b5eb0075dc1d8eebdf25
+SHA512: 92346640a1acc831b0cdf9ff9c8f4099b762b5b786309b92814b6492b3b5127520f51ac25249eebfe04f55bba97da7b7d8602c5aaf4e8b2bc4fe918c4cecdc24
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-4
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-4_iphoneos-arm64_777ecafa2ac83e6645f07fdc2160a5a4d3548ea88f22dbee36204de23d6bae11.deb
+Size: 956076
+MD5sum: d42a50e9a88aaacfa97905c405c61edb
+SHA1: f1d2062aac2f0023c66c5dc676c17947ff316f5d
+SHA256: 777ecafa2ac83e6645f07fdc2160a5a4d3548ea88f22dbee36204de23d6bae11
+SHA512: 137020688ae84278c994aaecdcd310155336f7b953c9014368de79f9677b510ba61a9a272e790223b54edfc2bfadc444b51cb2d6bad3f9eed071544b50a16635
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-5
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-5_iphoneos-arm64_114c359ae4140a015ff919ae066ac0572ca2da1d7568824f710de341bce109c9.deb
+Size: 977188
+MD5sum: bf3cc885b77466bee4fb75ca1b79d91e
+SHA1: 7147ad01a707fdd4a76ddcf789eea09406e3624c
+SHA256: 114c359ae4140a015ff919ae066ac0572ca2da1d7568824f710de341bce109c9
+SHA512: 832a5636634bf1a1c628ee9dca428fdf7dd18ab20d4c29a3973dea539cdac34d0d7b3df321cb9d1b32acbec2084fac4873632466f5989fa1e06346ae6960944e
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-6
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-6_iphoneos-arm64_d0969d1efc7e74593dc0bcce9f1bba23230147495aefc0cf733823a6c6508bc8.deb
+Size: 975004
+MD5sum: 19630fdd0a49faae1c8c0318feaac135
+SHA1: 26513ab72bf86992d90ea721ca75d72e5e9183b4
+SHA256: d0969d1efc7e74593dc0bcce9f1bba23230147495aefc0cf733823a6c6508bc8
+SHA512: 47f99e44841739483c88170d39155e58ca4ced1ffed573b2c2924cfb52361bd53999b9489060899065eebfdadef8441d5d60a2d4ca42d14bd22745052c9ffc0e
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-7
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-7_iphoneos-arm64_2c926448e5482c0f2faa1d7776571d924c1f0aa38112e0c764f70833378c3cf6.deb
+Size: 975076
+MD5sum: 010d96732095e0986074c9a13f626282
+SHA1: 14ca1caaf7a390307964e8d416209f0cfd7b91c6
+SHA256: 2c926448e5482c0f2faa1d7776571d924c1f0aa38112e0c764f70833378c3cf6
+SHA512: 10cbcfa8b01b8ddb5627eef0d4f29f34cdd513a467db2846bde1b16ff8c42eb827a4c207bbd3fd4ef70ce19cd9981efbe8d593411b3444b548796da53b19349c
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.8-9
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.8-9_iphoneos-arm64_8d10e21d3d2d7b9621b1d80e3705e5b615aeb4e1c81f3d1f745c728c20ace18c.deb
+Size: 955500
+MD5sum: ea383b417ae17371561a4d2fd42a53b5
+SHA1: 78f66a59f7b9d52c89b31b9244be9efda4a3e54f
+SHA256: 8d10e21d3d2d7b9621b1d80e3705e5b615aeb4e1c81f3d1f745c728c20ace18c
+SHA512: a9ea994ff36eb5b1f6e9814332aad8836bd46b2f4692edfd83c4ea551bb4b085465aa61528a052089598edb74169ed9dbe8eb8333d35bbea1d0429459680a94a
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-0
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-0_iphoneos-arm64_d83a853ae488cd6519171dcd30c42d7481998c5fdd4dd67ee2878399b7bac5ab.deb
+Size: 965544
+MD5sum: 01a504021628ef1ace41de6df385ebee
+SHA1: f652d9b5c27c81d1883c2ead1d0589ec0528861c
+SHA256: d83a853ae488cd6519171dcd30c42d7481998c5fdd4dd67ee2878399b7bac5ab
+SHA512: 5cc54e297984f9400b7dc716706342b199ba0a637e800e9dd1ea60bdcbd5994ec1e922dca7125b33763943b1d890e77834e085e53b2b3bd789731aa14167ef06
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-2
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-2_iphoneos-arm64_d8958fd42832a89a943ed4eb9405f7f97d418901ce3a0a182f318f9cbb29422d.deb
+Size: 965516
+MD5sum: ad49482355fa9e504459b18b171103b6
+SHA1: ee960a0cb6b0bb70e9faef92b68af2820056676d
+SHA256: d8958fd42832a89a943ed4eb9405f7f97d418901ce3a0a182f318f9cbb29422d
+SHA512: 3161b3474c3bc9f504d4e48770ca680027e1830f8cacfcf929d0ed88acffce0a358679243bfb32492fa0c4ad9f4b1b9fcae11110e3cf0cc669b26c654279aeb3
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-3
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-3_iphoneos-arm64_30af2d6681f4404d2717618157edd77e626cab98a5b54be94463e7df81ab7c02.deb
+Size: 964172
+MD5sum: 58d8215a09804da6064b31d2ef4929fc
+SHA1: 187a461b87bd53bac2f77e627f1bb9ee8105da2c
+SHA256: 30af2d6681f4404d2717618157edd77e626cab98a5b54be94463e7df81ab7c02
+SHA512: e34bd19777c4a106d483207e28ca51a1728daba51595953bc24e8f92bc711c21d7c35517a88b17d578154d898ae5f315d6e91b49b9d8425e1c3cd33dc6a0b3cc
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-4
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-4_iphoneos-arm64_11bf5e3306d2303079184023838ee1dd232b72df763b0b302bc02ce78f0d34f1.deb
+Size: 981848
+MD5sum: def158c06339395b1aa9908700b6ce9d
+SHA1: 8882ed0d0566ecfbf8725dc9a42bc21312dd27ab
+SHA256: 11bf5e3306d2303079184023838ee1dd232b72df763b0b302bc02ce78f0d34f1
+SHA512: dd09361bd7468d813ad073282a44ba9a7834b5fc4e14947592d0d8d47e2767f4c279ee306617fce1a4c488dbb746f0a40f735dbdb60be55723a30cfd67264d0c
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-5
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-5_iphoneos-arm64_e2c9651334bf064973f22d3d577c8dee26e381e5f69bb2e49b9e84c294225da2.deb
+Size: 1270048
+MD5sum: cdfdb6a0c2b173477be8fbf84a2b0dca
+SHA1: 1f398f745018f252327441174b1f85de28bc2863
+SHA256: e2c9651334bf064973f22d3d577c8dee26e381e5f69bb2e49b9e84c294225da2
+SHA512: a005e5f6af93965269c7d1574c8072359b82921de0ab8720a83f8c38723a32f2d00e27aee89b887b51db8ebbfd10dcbd16c36e54904bdd5a6e8778b9f2467c66
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-6
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-6_iphoneos-arm64_659a208ab2edad4d81ab053def8d19e22a0f50ba9b926827b4721fa770fce4f6.deb
+Size: 1366112
+MD5sum: 58d9d413b43209031fa7cad5b10d1823
+SHA1: 153996eeb198264dbb8be71e07064320ab9ccdf6
+SHA256: 659a208ab2edad4d81ab053def8d19e22a0f50ba9b926827b4721fa770fce4f6
+SHA512: 899094caecbc4f38b6849ded7681688b32851b0344daefb54f3a52e60feeb68d1c80863d932fc39cef4db25d446c30e271e43379d465930086ec0470783063c3
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-7
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-7_iphoneos-arm64_f037bd5cc8b241e5efe4fb5276e14f47eab674645cbce7313530a7044b554dab.deb
+Size: 1368816
+MD5sum: d1dedbd67c04fc0bef34274b2e222108
+SHA1: 18c68e075b7724395f47b93b9fc3025fe623ca1e
+SHA256: f037bd5cc8b241e5efe4fb5276e14f47eab674645cbce7313530a7044b554dab
+SHA512: c9567372ed9daf44fac359ab42ece996c3ffc00aa2b0b0060d5e97698fba5944a2fce946f0bc1d1a08528a57d7e1840109e18d44e5c7d07b5511a4b39e002b35
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64
+Version: 0.9-8
+Priority: optional
+Section: 微信插件
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.curtin.pkc_0.9-8_iphoneos-arm64_f9911df89d0045dd2482d56e969b27a0cfb25adf3bb349b89262610667df2cf4.deb
+Size: 1378848
+MD5sum: 1bd9dbebcad5f6c2efae1280c8277e8f
+SHA1: 062861aa4ad4b898a71742fae9ea96dea2755bce
+SHA256: f9911df89d0045dd2482d56e969b27a0cfb25adf3bb349b89262610667df2cf4
+SHA512: f67de7dab2759320488e555aded29018ac753a3375beea9c14d1fb6ca5582bda2a73ec39849c9afcf99a251771ee8bcb8dfc32ab9db5552e2d766a87546a7710
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-0
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-0_iphoneos-arm64e_64350cab0cae3aedd8f62d330b785f5dfa33ec6d5fda1c54f50fe9f8ff9046af.deb
+Size: 2209142
+MD5sum: d40ebcd2570ee1574ed1822f5bb501fc
+SHA1: 17315dad37c4073d4cf1566b9f8014ebd74dc1eb
+SHA256: 64350cab0cae3aedd8f62d330b785f5dfa33ec6d5fda1c54f50fe9f8ff9046af
+SHA512: cde6181bbe3c8b1a9ad751c2237dae9917e17484a6da7dca531d59222c08b9528ad6d69912a7571637ee94175867f7c157a9d9e73ecc7061f8073a3fd32c10ed
+Description: 学习交流。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-1
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-1_iphoneos-arm64e_cc706ddd212556f02461022ad4f6ed8534abc17dfffa4cdbc98c2532d98c96ad.deb
+Size: 2214180
+MD5sum: 975633382190ec3375d5f72abb7d95a9
+SHA1: 7783dcb0d01ffdcfa4868951a693776a691e51b5
+SHA256: cc706ddd212556f02461022ad4f6ed8534abc17dfffa4cdbc98c2532d98c96ad
+SHA512: b66628439796f6b763935b721b229956c9fb2bf7f980064bdb26acc2c38f323f86d33738ee64c8df47ac4edbc0679f76791e68a628be4f7b5ffdf791d856e6d9
+Description: 学习交流。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-2
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-2_iphoneos-arm64e_7e5a9e3421ee7d7b8c0aa7513cad2fb4cf00ceea313948922ea0e805230dfee2.deb
+Size: 2216694
+MD5sum: 8680955c5ef6e05a99c1c22a2f7efc54
+SHA1: cfe774d16ea37081c95481b47edfdcc1411fe55f
+SHA256: 7e5a9e3421ee7d7b8c0aa7513cad2fb4cf00ceea313948922ea0e805230dfee2
+SHA512: 8855de793b0829b61ab87bd49e0e08a93e52e908ff85fe607a4f9fe4a22bfffab9a0a71bf318e3cf4f057520ec4fdc3232758a54d646968b2714e38dee83200a
+Description: 学习交流。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-3
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-3_iphoneos-arm64e_48aaa36672799ac135d6d2a3288485b13ac3708085ad7cc7cf3670cb8819a28b.deb
+Size: 2252670
+MD5sum: 9aa1b11b3e6d012fe14a520bcf77513a
+SHA1: 2e0aa45e68d8be1d5cf9a7248d8e06726516feca
+SHA256: 48aaa36672799ac135d6d2a3288485b13ac3708085ad7cc7cf3670cb8819a28b
+SHA512: d07e38d880934a32b703d25842d61951b1638ae412d5887482fb0086577cfdf13f3ea909e2a73fcebe1e0e0fd58f4ca64bdff913dd4b513829823a966d4cb70c
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC_无根
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-4
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-4_iphoneos-arm64e_4cdbe9628de880d21b9446e9f5bc44caaeb769ebe34f987d25e92f828d2abdc3.deb
+Size: 2255748
+MD5sum: e6dd83753f6dc936a2af528492bc8bc7
+SHA1: 8a5fbdf15b6dc2c533f3ee6720068e2fa291930a
+SHA256: 4cdbe9628de880d21b9446e9f5bc44caaeb769ebe34f987d25e92f828d2abdc3
+SHA512: 0313f086ae49ff89cf1605bf1ed4571d34a6c24fb1679aa23b2b2a35b8794e67eb6edfbeaa28e9c77b2c2e908e86970ad776e5aff5ad240fc84372cef579a584
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-5
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-5_iphoneos-arm64e_bbca438379e5b7c197e13d86d32ac9b05ca2f546c6743c9e5f5dc02a67a8274f.deb
+Size: 2366810
+MD5sum: 927f2dc37db339ac6785d2b3f759ddbf
+SHA1: 6a4f78222071726f8fca0387441e53161f70c1ba
+SHA256: bbca438379e5b7c197e13d86d32ac9b05ca2f546c6743c9e5f5dc02a67a8274f
+SHA512: e68b7bf728cdf6507c9297304806d65e1515ec376f43894ce64423e6708750c705a5c40b0f560921c21356211a45989f4c016de9f113f6520b4e37b67b95f350
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-6
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-6_iphoneos-arm64e_271209d458b4cd0f11e2e0384304c6db30b16fe3e43a0e99ded5d45752d561f2.deb
+Size: 873412
+MD5sum: 3ac42cc2ef1d1633b820c75fffadacd2
+SHA1: 0751e4ac9c1e1ae38801b7d2af8c5e1831bda53b
+SHA256: 271209d458b4cd0f11e2e0384304c6db30b16fe3e43a0e99ded5d45752d561f2
+SHA512: 66ad857ef16ed29a3d061a95a51b2fa00badf547e3a0494898471190841596f30546f838438c66b4ace76a7228f1950f7c7ab0b18cec16c4b224ef2bc7fef341
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-7
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-7_iphoneos-arm64e_e764530aadf25e4596d984856aab0c93a0017395a73ab73d6b4e22fc9f197dba.deb
+Size: 2497658
+MD5sum: 91ee34b48d7ea9993e88f33337696384
+SHA1: 6e6992190a561462936d121e35e9e58da0bf387b
+SHA256: e764530aadf25e4596d984856aab0c93a0017395a73ab73d6b4e22fc9f197dba
+SHA512: 18ab50d01684fb70d8bd3cf62acd8799f96f4b06a87f942f4e4ab3cea66bd948b2a6ef7289353d93660e67a44e80854e647d3ebceb023b263f8cd3f0ccbf4feb
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-8
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-8_iphoneos-arm64e_342957e4d475c64dc381ce7d874c48d3e119421501e7adbf3bd64bcc3d8cbdc3.deb
+Size: 2497692
+MD5sum: 2e5852aeb189ac62f22c4396d43c5aed
+SHA1: 9c5bc037f1002c9e0f9e0dbbe17701d1e6cddda1
+SHA256: 342957e4d475c64dc381ce7d874c48d3e119421501e7adbf3bd64bcc3d8cbdc3
+SHA512: 9726440584a157169def4de49cf2819f314949a1a503c081053678a74cb4fe9a4d769f5db2ea3c1dba4f8f1758906f969bccf9075f443a4eab5cc7c4ce9824fd
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.7-9
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.7-9_iphoneos-arm64e_41f31d54295cfc8d8b0cc8ea9f8e7768134d133c91e1ac2c85a463d404395e65.deb
+Size: 2499846
+MD5sum: adc231615922a6f3d97bb38e863a803a
+SHA1: 8891fec0cd110f7fefd07f64258e5ff6a409724c
+SHA256: 41f31d54295cfc8d8b0cc8ea9f8e7768134d133c91e1ac2c85a463d404395e65
+SHA512: 8eebe0826c7671437d9666c0c1b73745510d5594ec63f0c2103d55b7092892f1042fe5aea1a60f64cab90fb0c1808a1ace73415ebd7498f704acde71c8251940
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-0
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-0_iphoneos-arm64e_c4196e3e7dc901aa99aa59f0ce290739c802e130d2780e8553d00501296e5ac7.deb
+Size: 2518706
+MD5sum: b29f2fee679d0d8a1570776794c8372d
+SHA1: e60e5c710f185d4908a41b1e9473d9d7fe6ea404
+SHA256: c4196e3e7dc901aa99aa59f0ce290739c802e130d2780e8553d00501296e5ac7
+SHA512: e9518535e1e2eb6c2806cb531e843c3b6f29777d7b14e861f91843dab3fcb061370c51f326b5b93ca799964c4b5ba6439c80f9434cd0496352265de196b34aee
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-2
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-2_iphoneos-arm64e_8cc389b141727f19b8ad0e538d8e27b88691a20427c47cfd5f4ea625c6f0c106.deb
+Size: 2560092
+MD5sum: 017f6c20df315a727956a79bc6a95a9d
+SHA1: f56e205a92469018975427ee9070bfbf727a98dc
+SHA256: 8cc389b141727f19b8ad0e538d8e27b88691a20427c47cfd5f4ea625c6f0c106
+SHA512: 10a2f6497a676317106a5e603e249868cfe16c40451fea6be86809a6e47ea1a7ee5bc0e3223d552607f7b15b252b31cd7828b68d96d975484247eddeacbe2a46
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-3
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-3_iphoneos-arm64e_ef21c3fc87e6ad3b496638da05822eccdb76885adda02fce7d303f05076c8c63.deb
+Size: 2594688
+MD5sum: e250c2f8b3bf95b44f8878aabdca8964
+SHA1: d1ccb4207ab4ff3411a1ca868a041fd85bcf8a17
+SHA256: ef21c3fc87e6ad3b496638da05822eccdb76885adda02fce7d303f05076c8c63
+SHA512: b7e50a22b397fc3eaf8f294db7e02e99aef2301bacd31e1961326b2e92e8359c802c993f687f938dd51488cf2396db8d95c78845754f4fd517014b1f915224b3
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-4
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-4_iphoneos-arm64e_e8e680599c9969de7efc0ea1af869b711a322b1c4ff93c5c96053e1da83d51c4.deb
+Size: 2603920
+MD5sum: 6b1f579541b09a9ccf286f7a94f0f3e8
+SHA1: fb7531624fc8e57398bfd06b8f46b8438537beab
+SHA256: e8e680599c9969de7efc0ea1af869b711a322b1c4ff93c5c96053e1da83d51c4
+SHA512: a0860c3baaa758ae347841770c0a8731eaee5f8027bfd91d6c32372ffda23140b88ce2e242ad7d617082659f81c8fcb6432299fe4178629c2a70786cf272bbcd
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-5
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-5_iphoneos-arm64e_ba39b2185c3a665629c4b34bb66d57c08dd8dc2db7d442d28c338c60fb990bd0.deb
+Size: 2707076
+MD5sum: ea4cfbc400317a6ea55f0c0cd8148c9a
+SHA1: b0853a1cbc4477f73191a40187d53fd999770c3c
+SHA256: ba39b2185c3a665629c4b34bb66d57c08dd8dc2db7d442d28c338c60fb990bd0
+SHA512: 04110a13cac1d8dde5fe320fbc70af8e033543c639961402128def92f8d455f6edb8eb7b31f8d2f84b91d76ebc8830417c580e68a100bbbce10a4b27161b17b3
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-6
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-6_iphoneos-arm64e_362464c66ddbb0bc27f1bb1ff9ee195b44b6fbf4ba8ea0097c7df8cbff50c021.deb
+Size: 2701204
+MD5sum: 22d8f8c737df280e7bdf9337044e304f
+SHA1: 65ad9330e16bc58dedc003316e8d58ad251abdb5
+SHA256: 362464c66ddbb0bc27f1bb1ff9ee195b44b6fbf4ba8ea0097c7df8cbff50c021
+SHA512: ccb80ea5aeebe8425f89aacd1891c24591e7ec798e9f39a95287e8750045ba91b5beee9d526f5fe8df7b1df7447005505331da32a519ccd3a7d58b2aa22fa584
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-7
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-7_iphoneos-arm64e_25b6ca954b3c8b6b2f9a1b53828f924124caa17a87863ce7d43e689c7efcb31b.deb
+Size: 2704848
+MD5sum: e2aa9ae63fcb2c980c295c213467b59e
+SHA1: 45256363cd843c52293ff23b46c70935819c9a6d
+SHA256: 25b6ca954b3c8b6b2f9a1b53828f924124caa17a87863ce7d43e689c7efcb31b
+SHA512: 5e4a5a82497ee7c6a62384942ee4a4b2b5161fba3580d19a7183931a39f2c0b5e18b9361eaa9e7a88378ac9f6ee1a61e19bc2ebad242030c60a43bb66ea93069
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.8-9
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.8-9_iphoneos-arm64e_c68ea1753f463184345bb33d3952bc4275c44eb5a847d70e669ab2c03be8c3da.deb
+Size: 2655244
+MD5sum: c0c8c682e4bbe39c7c403f407dc72c9b
+SHA1: fe124ab8caf325e4f27ba0edbd94a81792c9d320
+SHA256: c68ea1753f463184345bb33d3952bc4275c44eb5a847d70e669ab2c03be8c3da
+SHA512: c640b8f695272d024a8f51c0064e8a6916805f86522dadf8e4e752c16a76d91f979b65dca9694b2a0b470964bcd2597ba3f048f202b0f28ac2b20b36b368826b
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-0
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-0_iphoneos-arm64e_32ef4005084fe69791b0bf39744c62a5945307aa0ece3f96c5c7f2e8c8d5a2cd.deb
+Size: 2676198
+MD5sum: 263aa7156351f75e4598b68f017406ee
+SHA1: 11be8e56636bdce423ac1608303d90ffc4a583ee
+SHA256: 32ef4005084fe69791b0bf39744c62a5945307aa0ece3f96c5c7f2e8c8d5a2cd
+SHA512: 1e624fced6beadb3285acd1ac6260d71b90023484da61bb14ca43caa5130cbf5ca08f95dfdc871734d29bb23e929321c38f4455d71dcb04a38efce1e15b4f7a8
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-2
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-2_iphoneos-arm64e_f713e9c5bdaa34a1066afa32e76de8ea3d00f24a96b30fcd67b665221731b591.deb
+Size: 2676934
+MD5sum: 96c2ab1c846169a9d0924322f60886a7
+SHA1: a49cb9a469c2e9924feac1aa6d247dc71f5caa79
+SHA256: f713e9c5bdaa34a1066afa32e76de8ea3d00f24a96b30fcd67b665221731b591
+SHA512: 70fac48ff090849ec97c71e8fc483bdc6992d66f29d98b8d5118052509a04dff668f5344bd7504b8648decb2346f706ec604b80db82ad7a9fa0d83bf3a19e73b
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-3
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-3_iphoneos-arm64e_fd2b081e06a9f2316d8fde055c25d01f7e7b3ebbd835df073477430c01f95f2c.deb
+Size: 2673710
+MD5sum: 92dfbdc29b0cb2726017d735b16ef2bc
+SHA1: 0694e3f1167b6e36d9b2c7bf83701ff068a07fab
+SHA256: fd2b081e06a9f2316d8fde055c25d01f7e7b3ebbd835df073477430c01f95f2c
+SHA512: 1746a0ea16e84f7d397ed5024d5edff02c1663b419f577a5ac140c94dbe8338bc6a18ef0db01df0295f3c57c84aebc4dd504542abd816cf79ee3ae2603d0ceaf
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-4
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-4_iphoneos-arm64e_f474903f7518f5d8916a2ac17eebcf40b8a839cd4a58bbeb39ee03c1731cfd46.deb
+Size: 2726070
+MD5sum: d45968c821e5761f0ff9f7966c344ea4
+SHA1: dfc7f329130a4573910d1d856ec85d8586268303
+SHA256: f474903f7518f5d8916a2ac17eebcf40b8a839cd4a58bbeb39ee03c1731cfd46
+SHA512: 2e2db0d1977875f5f63354c586a12af273cf7bb806330a6f3a40582693c116a5b96639a38d6d213580d29f0f634866fe05632f1c648ce12daf75df06eaff63a4
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-5
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-5_iphoneos-arm64e_7c33c28f12fef69f904be04512df27956699d2a352fe4df24487f65842f128d7.deb
+Size: 3484242
+MD5sum: 0b9d9e6a8bf619cc1493c7828069e01d
+SHA1: 799f3137b6725300392250d7737d7375c918387d
+SHA256: 7c33c28f12fef69f904be04512df27956699d2a352fe4df24487f65842f128d7
+SHA512: 5d83591ac0bb1008cd5d6a1c80aa2168e0103c451da09b2cddc2342b95dd33577a568dbf3bf0a65ccd7039a6cd4b5ae616ab5bba9934943b9a2416b895ce15e8
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-6
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-6_iphoneos-arm64e_6e6a390a440e67031efdc634ef4ad8af77ec8ec6e5c8f4695034aaab58d2b485.deb
+Size: 3753778
+MD5sum: 5295d70d568da0b96642dd31ccf739b9
+SHA1: 4ad46336a313d4245adee97bff4e451b65b7b42c
+SHA256: 6e6a390a440e67031efdc634ef4ad8af77ec8ec6e5c8f4695034aaab58d2b485
+SHA512: bd99735c341c4b0488485ffeea985d850761b21bda1f213841b87c40c4e2b80a477bf839380e7c53a754bca0446e7db86c0dcd40e964025b77fe78559c2bb4b9
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-7
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-7_iphoneos-arm64e_d90995888bca6eb457409a539ffffe6da06213f34d4c5a0ee238488af0d19ef9.deb
+Size: 3758218
+MD5sum: 2b89a40cd3b9c6d1e5455f025efe2532
+SHA1: 1f3fa78d37c72c3406147a0ec517ab4afc2bff5e
+SHA256: d90995888bca6eb457409a539ffffe6da06213f34d4c5a0ee238488af0d19ef9
+SHA512: 3b04e0219fc2ec51aeaa5b92ff9dd26faf7b299a73cf7db2794752ccaf0e070fd6bfaa450e203dd7ab7edb74690b4d7d1b32fb5f70193773ffbd7a9419e1c80e
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.curtin.pkc
+Architecture: iphoneos-arm64e
+Version: 0.9-8
+Priority: optional
+Section: 微信插件
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.curtin.pkc_0.9-8_iphoneos-arm64e_aafb6b1bfab6c7e99c540f449efe352510fd2b9bc0fddf1cfbd544c88f478fca.deb
+Size: 3777192
+MD5sum: fcefc067882ec8a191dd689dde3267e7
+SHA1: 6a09379b9375b46ab0a141f6932c965889904d73
+SHA256: aafb6b1bfab6c7e99c540f449efe352510fd2b9bc0fddf1cfbd544c88f478fca
+SHA512: cf6d3ea90919138e93a977a389166e2f7ba7a7ef44d249dde190c472ee0c7bcaef9794db94aef047986ff8a28a2e297835a4df3305871238389a41a0ba04ee48
+Description: 群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等。
+Name: PKC
+Author: Curtin
+Icon: https://TrollStoreX.Github.io/sileodepiction/PKC/icon.png
+
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64
+Version: 1.0.4-1
+Priority: optional
+Section: 插件
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 178
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/iphoneos-arm64/com.cydiageek.morelinesnotifications_1.0.4-1_iphoneos-arm64_fcdf738cd85b4fcb0a594024517e103011c32199f47b15d4bceb8952254281cb.deb
+Size: 4948
+MD5sum: 281bafb989d83cf5cde6b335c03968df
+SHA1: 43d2162a37ac731d98ac2853fce53f55680e3806
+SHA256: fcdf738cd85b4fcb0a594024517e103011c32199f47b15d4bceb8952254281cb
+SHA512: ef64b7499e10842cb7bfbcec5f9770939335e36c93140a54432e46dc82846f061ba9d1e3302cb028cb9bb5a3d516a3ed0f834caf727a08050fbf944866a87c33
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: 为通知增加更多的行，显示更多的通知！
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/02/7dac6febf5f38720ca04e1e565bc6a2e.jpeg
+
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Priority: optional
+Section: 插件
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 178
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/iphoneos-arm64/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64_338242dc4d90c10d94b8f3c2537f233b15c45dbc7b60dadb2f0d19588d4c9d66.deb
+Size: 4912
+MD5sum: 45750f89f8697228f7d193c2d7ccae69
+SHA1: 14d93caca863ef7b570ebbd5ec7255523adf3507
+SHA256: 338242dc4d90c10d94b8f3c2537f233b15c45dbc7b60dadb2f0d19588d4c9d66
+SHA512: d4c3b794d5a448e74f6fdeaea4c0e3567aef670a46131bd1504fd7498c3466b1ff9f88da3e1e4b33a4ded8ddf71e5e7812589ae8bb20c47e54b0244c9d3c0aa7
+Description: 为通知增加更多的行，显示更多的通知！
+Name: MoreLinesNotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/02/7dac6febf5f38720ca04e1e565bc6a2e.jpeg
+
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64e
+Version: 1.0.4-1
+Priority: optional
+Section: 插件
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 178
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/iphoneos-arm64e/com.cydiageek.morelinesnotifications_1.0.4-1_iphoneos-arm64e_69e21e15eb3ccd2776cbe19de77d38be87e990b15e30fc3f2bbfed5d3fac7707.deb
+Size: 6484
+MD5sum: aabee8f695dc307fa83dbf07728c3a7b
+SHA1: 0654963dd3470e119ae47b26480136325ae255d0
+SHA256: 69e21e15eb3ccd2776cbe19de77d38be87e990b15e30fc3f2bbfed5d3fac7707
+SHA512: 2be8f7388e49a4d31ea979b52a91b3bcfcabf554e1e66e4dd598d74bda19d3f28cd3373909ab50e2f83ed907ef85c90152b7e3cf6ccff8059e1dd61c05858dfd
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Description: 为通知增加更多的行，显示更多的通知！
+Tag: purpose::extension
+Name: MoreLinesNotifications
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=morelinesnotificationDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/02/7dac6febf5f38720ca04e1e565bc6a2e.jpeg
+
+Package: com.cydiageek.morelinesnotifications
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: 插件
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 178
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0)
+Filename: debs/iphoneos-arm64e/com.cydiageek.morelinesnotifications_1.0.5_iphoneos-arm64e_e27f1e333173f28d599e86893662ab630d93675e0b016bb361576cf83ebcfb31.deb
+Size: 6354
+MD5sum: 97237439a65db4d77421e33d688fe80a
+SHA1: 83b3df2a72e13cffece87e410aad99564940333b
+SHA256: e27f1e333173f28d599e86893662ab630d93675e0b016bb361576cf83ebcfb31
+SHA512: bffb7ca727961f29a8fc67b3914cf41b4159a7cf3867528f8a6fc1621d49e52f050e60efb8b29f67b1641699645723ef8a51fe8d7b8aa0c675de0e4e37d51c30
+Description: 为通知增加更多的行，显示更多的通知！
+Name: MoreLinesNotifications
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: https://s1.imagehub.cc/images/2025/01/02/7dac6febf5f38720ca04e1e565bc6a2e.jpeg
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm/com.dvntm.fbo_0.0.1_iphoneos-arm_ba1941d29c429b31ac86fc75d06684d9fa969c0c004932dcb6dfca3b031072a0.deb
+Size: 3280
+MD5sum: ab3d1b47b5dd8ff6450b93f1434d4a73
+SHA1: 3043864c1cb260214c948aa0c22c8d703f291564
+SHA256: ba1941d29c429b31ac86fc75d06684d9fa969c0c004932dcb6dfca3b031072a0
+SHA512: 411fb3f67ce6ac3b5166ae9a10884f721299cf61144943a27e66a243438fd5846df33f33f1bed4f9d0f123dd141bf31af9b7766f74e27c2e7918216551aa5d30
+Description: 隐藏自带文件App的底部最近/共享。
+Name: FilesBrowsingOnly
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/05/20/4bd06b9a5e82a6f8d920bec3feb93c13.jpeg
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.dvntm.fbo_0.0.1_iphoneos-arm64_dde07abd91857b6ea560804d2e0d41471b2b1a80c388a1d86d2cd71f2655acfa.deb
+Size: 3348
+MD5sum: 7be5b65e8d874011c8b8d40b2cde9384
+SHA1: c7394a8a1bae8545d297e76f0ae3bf1ebbf42940
+SHA256: dde07abd91857b6ea560804d2e0d41471b2b1a80c388a1d86d2cd71f2655acfa
+SHA512: b98d025cfb50e2ce684504a590f799db253ac53101b0267b5fba38120d040865bf54a0dd516034c4f6fd9bc377681f3e4cbf7db864444118b8e8e45df2407e1d
+Description: 隐藏自带文件App的底部最近/共享。
+Name: FilesBrowsingOnly
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/05/20/4bd06b9a5e82a6f8d920bec3feb93c13.jpeg
+
+Package: com.dvntm.fbo
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.dvntm.fbo_0.0.1_iphoneos-arm64e_146bea110837b8e3631797fbddd42bed869149e7766370380821cb4c1c11604d.deb
+Size: 3288
+MD5sum: 2eb7792581ad30386ff9b4516fee9e28
+SHA1: 415ef1628036e46d9e6bb10631f0b0b67dedce29
+SHA256: 146bea110837b8e3631797fbddd42bed869149e7766370380821cb4c1c11604d
+SHA512: 108680056799490ef5441a48756e8df402d46781814a03e587626c1fa224717037b660be90ac286ce4f6bea28272cc5d081a6bae7f5cc22b7500b9cd1721c45a
+Description: 隐藏自带文件App的底部最近/共享。
+Name: FilesBrowsingOnly
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/05/20/4bd06b9a5e82a6f8d920bec3feb93c13.jpeg
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: 插件
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64_159cf1ef0819723e1e763a109218e1d9798e1e91d94c41c3b00887e3c8000492.deb
+Size: 3848
+MD5sum: b307b12bf756a89a536ab44fcc8ea975
+SHA1: d161d4778a5720e6601e7e1c919f55379183a046
+SHA256: 159cf1ef0819723e1e763a109218e1d9798e1e91d94c41c3b00887e3c8000492
+SHA512: 1e0a60f1802353d91c788090caaef9be104fef88a533671cda55fab1b06f61e04a23646c8e75bdc2284ab39d700ce46fad5368af40a75ae09e077e3bc1008355
+Description: 播放媒体时，保持通知静音，开源项目。
+Name: SilentNotifs
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: 插件
+Maintainer: dvntm
+Installed-Size: 152
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e_90a1b4ff204f9f6526901e341654807d13f55016bd3618a164c1c348b9e81aa8.deb
+Size: 5260
+MD5sum: 242045704c997258bcfab2b4cab1e6e9
+SHA1: ce29edaf621cca8a18fef42d12ff9de099af11f7
+SHA256: 90a1b4ff204f9f6526901e341654807d13f55016bd3618a164c1c348b9e81aa8
+SHA512: 419561936a8d951c7ca8a86f301fda78b58c4d2ee7d89b14f017069c3292486596018d036a13219598617f9742488677dc5b096dd027eb76fb558d5d6cb26d6f
+Description: 播放媒体时，保持通知静音，开源项目。
+Name: SilentNotifs
+Author: dvntm
+Icon: https://s1.imagehub.cc/images/2025/01/02/22334eb496925926197933d6cf1aa66a.png
+
+Package: com.hidenotificationbadge
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: 插件
+Maintainer: wkk
+Installed-Size: 168
+Filename: debs/iphoneos-arm64/com.hidenotificationbadge_0.0.1_iphoneos-arm64_923eec240dc89bce0dfea5a25b45c236cef82939eb9a884186b9684339eab8b0.deb
+Size: 2908
+MD5sum: 9a3b8100593a961b4d8592127e5d8fae
+SHA1: 18551bc18544c291af5e6484dc4fb4f855e44176
+SHA256: 923eec240dc89bce0dfea5a25b45c236cef82939eb9a884186b9684339eab8b0
+SHA512: 456329dc93509ddef0757b33e6bde0779dc52c71a0678bce12ead6688e077018b39a5e5e420249acd59ed6c7708fa96627140bcbb09e75b0fdd589d4bf051504
+Description: 隐藏通知图标中右下角标。
+Name: HideNotificationBadge
+Author: SquidForce
+Sponsor: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/07/6ef6711ca9293ce5daa41999cd7491a4.jpeg
+
+Package: com.hidenotificationbadge
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: 插件
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/iphoneos-arm64e/com.hidenotificationbadge_0.0.1_iphoneos-arm64e_eef31ff4723b7b8dc088078fad9c02e1115eb4c9a03ce0a4770083cbd47f0bed.deb
+Size: 4122
+MD5sum: 7edf5b3378ced2f24f811ba96a98a096
+SHA1: d79a679fe1a00d319d1df08d1591fa61abb8223d
+SHA256: eef31ff4723b7b8dc088078fad9c02e1115eb4c9a03ce0a4770083cbd47f0bed
+SHA512: e366e1d62abfa15ef726db4cd7db3574e7ecafc6705fd7a60adf3a1a1bf1b30179d13c5ef814d6ab4fba73df1ac63a6b053220cf1933d68569a6e252cee1efb7
+Description: 隐藏通知图标中右下角标。
+Name: HideNotificationBadge
+Author: SquidForce
+Sponsor: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/07/6ef6711ca9293ce5daa41999cd7491a4.jpeg
+
+Package: com.huayuarc.lsilllooklater
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Huayuarc
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.huayuarc.lsilllooklater_0.0.1_iphoneos-arm64_f3f654ebd002e32f34c363b22c6d1d0b2b921c09f3d5705d514400e2a3717b90.deb
+Size: 3452
+MD5sum: c95d1beb3213f6296ced02a5a4ad8bf6
+SHA1: 73ab55488adfa25f46f8b5869e481c0267a1e179
+SHA256: f3f654ebd002e32f34c363b22c6d1d0b2b921c09f3d5705d514400e2a3717b90
+SHA512: c2217fad9363eae13c1935d84890aad8f7e7b61c0bc2875c5025a98da6f598da165d45dc45c361493146b25d3dd59a704c835aea4b81d952570fde7124f2cf6b
+Description: 每当收到新通知时，防止锁屏唤醒/显示。这将防止屏幕亮起，从而防止不必要的电池消耗。（不亮屏但有声音提醒）
+Name: 来通知不亮屏
+Author: Huayuarc
+Icon: https://s1.imagehub.cc/images/2025/08/31/c45d144244f9bebeeddf036d52eb630a.jpeg
+
+Package: com.huayuarc.lsilllooklater
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Huayuarc
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.huayuarc.lsilllooklater_0.0.1_iphoneos-arm64e_c92f1f1173ef0671b9d8d1e77488341459b8c60a5e1c98ec1c17e80278406910.deb
+Size: 3384
+MD5sum: ccbaa5deae9b8d98e985cca9fd736b6d
+SHA1: fd5933c413331071b2b14ce00cafb52f6eda6223
+SHA256: c92f1f1173ef0671b9d8d1e77488341459b8c60a5e1c98ec1c17e80278406910
+SHA512: 177101d087b0391c5985778c98f22999fe6d67c0bad805160ff980b328fb5ed9baf6e53b46f32e3cdd42aae7c45d185c2bcd28b07670a7bdf3c52130053dec5e
+Description: 每当收到新通知时，防止锁屏唤醒/显示。这将防止屏幕亮起，从而防止不必要的电池消耗。（不亮屏但有声音提醒）
+Name: 来通知不亮屏
+Author: Huayuarc
+Icon: https://s1.imagehub.cc/images/2025/08/31/c45d144244f9bebeeddf036d52eb630a.jpeg
+
+Package: com.hw.zgnyyh
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 🄷🅆
+Installed-Size: 2072
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.hw.zgnyyh_0.0.1_iphoneos-arm64_17b9663a7a5ce6cc6f07d78196114efcb2a90bef0b4d8d112069d9a57c01e843.deb
+Size: 360900
+MD5sum: a7458a7f4938ca3c694f6e401937b878
+SHA1: cfc8b054789e90be7141b4fcc1b8d21fae94e680
+SHA256: 17b9663a7a5ce6cc6f07d78196114efcb2a90bef0b4d8d112069d9a57c01e843
+SHA512: 4eaf54d453b1553fc9da70182041ab95daca98980b035bfecf7954b0e48293b8cd94c1fb4ad4e07266ec7c98a21078dc3b0e95d7aa2e5babcd70aae34478f4f7
+Description: 仅越狱使用，某农某行，安全绕过限制，关闭任何屏蔽插件，仅支持越狱安装deb，多巴胺无根测试10.2.1版，如果装了“魔术师”请卸载。
+Name: 农业银行NoJB
+Author: 🄷🅆
+Icon: https://s1.imagehub.cc/images/2025/12/13/79a27a347eac08b4f6e29dbc7775fe10.png
+
+Package: com.iosdump.appdata
+Architecture: iphoneos-arm
+Version: 2.6.7
+Section: Tweaks
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: debs/iphoneos-arm/com.iosdump.appdata_2.6.7_iphoneos-arm_94195de9ea38f8f6127ef4b21d29e556b564ad2960e11f37dd3a8f7006e80a92.deb
+Size: 1703508
+MD5sum: c61c9be0bb60e15a611ae0a307d61ca1
+SHA1: 47197d1d88d05e45b37679016917db406434891a
+SHA256: 94195de9ea38f8f6127ef4b21d29e556b564ad2960e11f37dd3a8f7006e80a92
+SHA512: 82841816a1649e5a2ba5589b04573282e6b7a3bcbc026c804e3579caab0554d68b7927f7a6b856b9f362f092d5b0d81504bdac7020afa4d6cdca7370ec354975
+Description: 在主屏幕查看应用数据与管理应用
+Name: AppData
+Author: iosdump
+Icon: file:///Library/PreferenceBundles/AppDataPrefs.bundle/AppData@3x.png
+
+Package: com.lhyee.wcfix
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: optional
+Section: 微信插件
+Maintainer: lhyee
+Installed-Size: 88
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.lhyee.wcfix_1.0_iphoneos-arm64_cca0cc5123490cf94085ee5174fc4a2a9a1b9b74ff91aa49dc15bce6962b54b3.deb
+Size: 4552
+MD5sum: 4312374c66da845c29b429811723c6cb
+SHA1: 4a7686b86739fdedb6cc0d286477515a612a3afb
+SHA256: cca0cc5123490cf94085ee5174fc4a2a9a1b9b74ff91aa49dc15bce6962b54b3
+SHA512: 4a40e4661b1386862ff2c6e4cf0a49c5ff81d91564a00d4dc252f21bd40442f6056dc25435d83c7dd7a447557d38749fe34e5a8d7f50eaded89e328ba8ddc771
+Description: 修复打开微信助手工具栏底栏图标错位的问题
+Author: lhyee
+Name: fix图标错位
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.mlgm.pulloverx
+Architecture: iphoneos-arm64e
+Version: 1.8.21
+Priority: optional
+Section: Tweaks
+Maintainer: kanuo
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: debs/iphoneos-arm64e/com.mlgm.pulloverx_1.8.21_iphoneos-arm64e_f0743bb02d824beb86ba3dbc85705e359b0fbd372fba84ee74bf7bc892ca5955.deb
+Size: 408936
+MD5sum: 2cc99b7754a4a06d569c5cd488163633
+SHA1: 47ba99041e7f3cd04dcd0b276b3638403950ba2d
+SHA256: f0743bb02d824beb86ba3dbc85705e359b0fbd372fba84ee74bf7bc892ca5955
+SHA512: 328d027f16437b403ab52a7b03fb29ff25850825d190493b0c91d4b926e8fd60864dc1e4efab0b3bf2be86d044bcbca5e9a9bea4cc6e20a392d1ef1d6f09218a
+Description: Pullover-X窗口调度版
+ 1、快捷方式：主卡双击收藏栏转全屏，长按 app 跳转第二副窗口，副窗口底部按住可以移动位置，
+ 两个角拖拉可放大缩小以及调整合适的尺寸，副窗口顶部有多个功能键，方便切换你想要的场景。
+ 长按第二个 app 可以移动卡片位置，点击第一个图标可以进入半屏模式。
+ 2、注意事项：左手模式必须开启，固定把手必须开启，键盘避让应用必须全勾选，不要问为什么，
+ 按照要求设置就行了。如果半屏模式出现灰色阴影或者无法回到桌面，请注销一下手机。
+ 3、本次插件开发暂告一段落，后续大幅迭代优化的空间较小。插件完全免费开放使用，
+ 如果遇到 BUG 或者体验瑕疵，还请大家多多包涵。
+Name: Pullover-X窗口调度版
+Author: kanuo
+dev: kanuo
+Icon: https://jimkanuo.github.io/apt-repo/icon/pullover.png
+SileoDepiction: https://jimkanuo.github.io/apt-repo/depiction/com.mlgm.pulloverx.json
+
+Package: com.mrgcgamer.libgcuniversal
+Architecture: iphoneos-arm64e
+Version: 1.7.0
+Section: Tweaks
+Maintainer: MrGcGamer
+Provides: com.mrgcgamer.libgcimagepicker, com.mrgcgamer.libgccolorpicker
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0) | ws.hbang.alderis, firmware (>= 12.0)
+Filename: debs/iphoneos-arm64e/com.mrgcgamer.libgcuniversal_1.7.0_iphoneos-arm64e_35bb24f6a99fe2ea870fd6c2729b7161ee1f91556eb98a277f2248410ae7bbf6.deb
+Size: 53300
+MD5sum: 3e083ce687bca61a27c17b653984e717
+SHA1: 0209b9ea27e175b234bd844f25bfeb4cfcccc0c3
+SHA256: 35bb24f6a99fe2ea870fd6c2729b7161ee1f91556eb98a277f2248410ae7bbf6
+SHA512: 71c186cfc2afbcf33cd4fa19afe5acec1e6909f7a9eb76b4116577539ecd3018526f2b80644af4162127dce8d4b0a1eea35436db6fe5e0296f5b04d500207f7a
+Description: 开发通用库，部分插件需要此依赖，转换支持roothide。
+Tag: role::developer
+Name: LibGcUniversal
+Author: MrGcGamer
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.nan.debd2
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: 插件配置
+Maintainer: zhaonan
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq
+Filename: debs/iphoneos-arm64/com.nan.debd2_0.1_iphoneos-arm64_629277fbec3aa3600498ab4c7fc6882b3d1b8abf389ca871f2a2239e8c1ae124.deb
+Size: 4684
+MD5sum: a26ca1bd6eaa043ae29153d7fc5d4b28
+SHA1: 0b32bfceee43a5669ae219ac27d4a186141adbbd
+SHA256: 629277fbec3aa3600498ab4c7fc6882b3d1b8abf389ca871f2a2239e8c1ae124
+SHA512: 46a311b26dcd97640e8190f62047266f6c2759c203c4dadf9abc7a9af7a8c69915ae5cb7688587d61bc14343732deb12e28f882a3ae6be4dcad0a77c2387b250
+Description: 轻量deb下载工具，不支持付费才能下的插件（此为备份且修改自用，默认下载目录改为var/mobile/Documents/搭配快捷指令下载deb插件快人一步！）
+Name: debd（自用）
+Author: zhaonan <invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: com.nan.debd2
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: 插件配置
+Maintainer: zhaonan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: coreutils, sed, gawk, curl, zstd, xz-utils, bzip2, gzip, text-cmds, ncurses-bin, file, jq
+Filename: debs/iphoneos-arm64e/com.nan.debd2_0.1_iphoneos-arm64e_04ac004b6fdd3c16e52dc74b284ab6cef62a48f0af153289d3983d690d8d47e5.deb
+Size: 5724
+MD5sum: e05647e1d90ec753d72a440285c3c2fd
+SHA1: 888e67ccf0e558c0d61ae0648aca33bbb0762f56
+SHA256: 04ac004b6fdd3c16e52dc74b284ab6cef62a48f0af153289d3983d690d8d47e5
+SHA512: ffb18042e5e72a17fce9c18a2ac975881310194165e7fa531f53543ae0a346eebdd00f2e4f4b451ab73a667d45505ad2113d453a79135d3756c35251ae9e4404
+Description: 轻量deb下载工具，不支持付费才能下的插件（此为备份且修改自用，默认下载目录改为var/mobile/Documents/搭配快捷指令下载deb插件快人一步！）
+Name: debd（自用）
+Author: zhaonan <invalidunit@icloud.com>
+Icon: https://invalidunit.github.io/sileodepiction/Default/image_terminal.png
+
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64
+Version: 1.5-1
+Section: 应用程序
+Maintainer: Nets
+Installed-Size: 952
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64_559f4fdd7181cd4831752daf9889f85ee5a589e16e211aa44d838f60bc4ce1fa.deb
+Size: 393732
+MD5sum: fdf6d6e3d74ffec8f6ccd7ed97c40dca
+SHA1: 4d9c97b5628e015135aabcd6686eb53ce0321174
+SHA256: 559f4fdd7181cd4831752daf9889f85ee5a589e16e211aa44d838f60bc4ce1fa
+SHA512: d6f47980aa651d70f8b4f3940434424ddebb94cc2b081456176ea45a99837cb6956d24da04bf46b0b4edb0033b9a5086aa2c63e571e59ebd49ac134e568becf2
+Description: 全权限砸壳神器。上架备份。
+Name: DumpDecrypter
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
+
+Package: com.netskao.dumpdecrypter
+Architecture: iphoneos-arm64e
+Version: 1.5-1
+Section: 应用程序
+Maintainer: Nets
+Installed-Size: 952
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.netskao.dumpdecrypter_1.5-1_iphoneos-arm64e_c4fc5a0232026dc8c7e623b62d360bf178634c8d3cb4cfce4fa99eafb1727d2e.deb
+Size: 535518
+MD5sum: c1d0398cbb9d2b3f0a7ed7c82417a84f
+SHA1: 760a8958507188cb2001600c3b5edc27cb1b3b21
+SHA256: c4fc5a0232026dc8c7e623b62d360bf178634c8d3cb4cfce4fa99eafb1727d2e
+SHA512: dadc476eea35e668c57d61099bf43a4c90b738b820a3cec5f01180fc0b43348ac0cfa503b06db1bf405b9c37424f3320895ba947fddb4f40d7fe4a548499f3fb
+Description: 全权限砸壳神器。上架备份。
+Name: DumpDecrypter
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/21/4a33ca43d96d8af81a6a2a5c7aa18993.png
+
+Package: com.netskao.wechatdragdropimages
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.netskao.wechatdragdropimages_1.1-2_iphoneos-arm64_c4dd8ddf103c20062a32096b55791e2706cc7bd95ff14068ebf1f19a5b1a50b6.deb
+Size: 3844
+MD5sum: 5dd25cde29ea5cf96d1b9c59b4425a09
+SHA1: 891cb98d0d123535c17e82113cade4d1d309c993
+SHA256: c4dd8ddf103c20062a32096b55791e2706cc7bd95ff14068ebf1f19a5b1a50b6
+SHA512: a099a49442033a2c6a4f5cb12ab5ede45bdaf9947759906a8220c4723d8cc1b6e037c041375f15f059d1a5c9759c845bdf61fa8cb2cd9abf754e9b0f27d18a45
+Description: 微信聊天拖放图片，仅8.0.50+
+Name: WeChatDragDropImages
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatdragdropimages
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.netskao.wechatdragdropimages_1.1-2_iphoneos-arm64e_f26e7e6448636d4428c131df4902102565fec20c11fbf19a22033ae68ba07e8c.deb
+Size: 5242
+MD5sum: 73c1e057bfa0f1e4baab2e07855659a4
+SHA1: bbdb1d14bd6d1d2584d044a0f3105a0a19d86ac7
+SHA256: f26e7e6448636d4428c131df4902102565fec20c11fbf19a22033ae68ba07e8c
+SHA512: 1be776453a4a59184af0583636ceb9a3fa114c9ac6e08740bb24fd54a8b9cfb1d0ccf131d131b262d3659cbf95b664a711e1421839be8127222a29aac47f3f24
+Description: 微信聊天拖放图片，仅8.0.50+
+Name: WeChatDragDropImages
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatnotiavatar
+Architecture: iphoneos-arm64
+Version: 1.2-5
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64_107308445892ae115824ec20b5324483f5006746bb2d4ba5c80cbdf33ceaa1e6.deb
+Size: 523216
+MD5sum: 7329a51e4f029651dd4d583f0727f73a
+SHA1: a113cd309467a2f5741ccf4ae5f1ef5e844df30c
+SHA256: 107308445892ae115824ec20b5324483f5006746bb2d4ba5c80cbdf33ceaa1e6
+SHA512: dd73526b45e7237f17ef905f0344386da788ee5c117fa285877602fec4beb6eaa4d424e3494882a6debefd098b91159ace4946473cd0eaef19038c4c8ffc2b08
+Description: 微信通知从图标改为显示为头像。
+Name: WeChatNotiAvatar
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatnotiavatar
+Architecture: iphoneos-arm64
+Version: 1.2-9
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64_f2fd388109bc39248493c3ce07a880d271a699a71f6a1b37606574a38fbc5f9a.deb
+Size: 241128
+MD5sum: 64b4f93324dda9ba29826a7ad77daf56
+SHA1: 3731c65a19c68c43e793ccf33beefcd7c47cd125
+SHA256: f2fd388109bc39248493c3ce07a880d271a699a71f6a1b37606574a38fbc5f9a
+SHA512: 3b90bd00037e9e1315d43c42d94cc4a6ce82430340df4aabbf04a98a0f34dc9d73080a7c3a76f03796cbd16c15efe68c39996be3ff9aef6691467b649520fb0c
+Description: 微信通知从图标改为显示为头像。
+Name: WeChatNotiAvatar
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatnotiavatar
+Architecture: iphoneos-arm64
+Version: 1.3-1
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 2336
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.netskao.wechatnotiavatar_1.3-1_iphoneos-arm64_dcd64966a36ddceb632f84d16f19b2079445c5c6fd460fb09ed788e9105e51b1.deb
+Size: 242756
+MD5sum: e09cda976b1fcf9cf3e70bff732e9045
+SHA1: 650259bcdc2a232c2412d8111f8ca0630b7643ff
+SHA256: dcd64966a36ddceb632f84d16f19b2079445c5c6fd460fb09ed788e9105e51b1
+SHA512: 6788cad2989c5209ff19744e6abd758957d8b1c7cad5d09df3db3b1a022049bd648f0907eb2ac84de282d31ef134b44ec8979c7a4c4dffd415e03c9da097eb7b
+Description: 微信通知从图标改为显示为头像。
+Name: WeChatNotiAvatar
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatnotiavatar
+Architecture: iphoneos-arm64e
+Version: 1.2-5
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.netskao.wechatnotiavatar_1.2-5_iphoneos-arm64e_242aab21a25431588cf6ebce163b65e48ca53e135d1c0a995dbbc704eeedb536.deb
+Size: 1470412
+MD5sum: 442414d5d83633f042a66e6beb086347
+SHA1: b9b05230ee050e701d016ea1d2c54f332e39ec3b
+SHA256: 242aab21a25431588cf6ebce163b65e48ca53e135d1c0a995dbbc704eeedb536
+SHA512: 346fbb49348060a00b9c28b3b2f51709ccce253cff672f33c541eb3c2afe4a90cb98da1b3f4c02ffa7b2cdf704d00cfcd25da97e452590fd7707faea7a588bd5
+Description: 微信通知从图标改为显示为头像。
+Name: WeChatNotiAvatar
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatnotiavatar
+Architecture: iphoneos-arm64e
+Version: 1.2-9
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.netskao.wechatnotiavatar_1.2-9_iphoneos-arm64e_4c6c373f4fcb8226c5324f8f793513c41e886c8b27391486c7c62d63878c125e.deb
+Size: 339690
+MD5sum: fe6ebebecb177104351e3696ac0a44bb
+SHA1: 4e7d7483d7e2c271b8fca5d7894806cbe059b1fd
+SHA256: 4c6c373f4fcb8226c5324f8f793513c41e886c8b27391486c7c62d63878c125e
+SHA512: 39478066759f2da7b207aec28a8b139e0adb1610d7fe70897dbc1928e977267e4cc73536c0edafd1af7bc355877a9af9fee6b045979cfe408af2e759ae8511d0
+Description: 微信通知从图标改为显示为头像。
+Name: WeChatNotiAvatar
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.netskao.wechatnotiavatar
+Architecture: iphoneos-arm64e
+Version: 1.3-1
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 2336
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.netskao.wechatnotiavatar_1.3-1_iphoneos-arm64e_064ba0881ce434227d27afb043d99a6de18098c4e61e1887b187bc288d40e4e0.deb
+Size: 341556
+MD5sum: 53cc3ef1822aa13cd40d98b6f84f73a2
+SHA1: 408a14f416ca55187771b65ba4911950e4ab8048
+SHA256: 064ba0881ce434227d27afb043d99a6de18098c4e61e1887b187bc288d40e4e0
+SHA512: 1954351ed8d046de1b28784b1a42537c764253cca2b4003f182f218ecf3ba3614289641ecb04ee3f16648ab549719b48cd91a168f0eb64035b1bfcbd3200dcc5
+Description: 微信通知从图标改为显示为头像。
+Name: WeChatNotiAvatar
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: 应用程序
+Maintainer: opa334
+Installed-Size: 4400
+Filename: debs/iphoneos-arm64/com.opa334.trollstorehelper_2.1_iphoneos-arm64_18ac48a260464e93810d24d01fc9bdb4a88e34ade9dc0f431290dc1c51c9d00a.deb
+Size: 1914716
+MD5sum: 7986a77073551e68312d2eb58566ab69
+SHA1: 847f1d758496d8fce75304d52b9f4b3c60e8003d
+SHA256: 18ac48a260464e93810d24d01fc9bdb4a88e34ade9dc0f431290dc1c51c9d00a
+SHA512: 0f15943a245e3bd5ab6e6f96b6382758a6f18fdd4a49e6ec5461dfcfa51e3fa91dec7afda93f401b273dcb305e3bcca64d50d2c591b116d625fd2ad3d5858a08
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Name: TrollStore Helper
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+
+Package: com.opa334.trollstorehelper
+Architecture: iphoneos-arm64e
+Version: 2.1
+Section: 应用程序
+Maintainer: opa334
+Installed-Size: 4400
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/iphoneos-arm64e/com.opa334.trollstorehelper_2.1_iphoneos-arm64e_70f2da63b4052960fd6f3f795a52710a57202b4225977cc3bbded216ee71b495.deb
+Size: 4593662
+MD5sum: f2bd35ec3887ae10518adc107373fe3d
+SHA1: 59a6a44c1740bc14e6877a342ee7711376fa0ff0
+SHA256: 70f2da63b4052960fd6f3f795a52710a57202b4225977cc3bbded216ee71b495
+SHA512: 9e82a38cb4b4ff3c20af86ad91a10659eccf93d0a69c4190867daf45af72b28bc057f5a714f2a8d7053a0213146f7e16b3e3e44e537f6be4866189ed5407be01
+Description: 当你的巨魔打不开或者丢了，我想你会回来找它！
+Name: TrollStore Helper
+Author: opa334
+Icon: https://s1.imagehub.cc/images/2025/01/21/e16a2f8fe58b0bdadf3641c868a71141.jpeg
+
+Package: com.picsewpro
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 插件
+Maintainer: x✨
+Installed-Size: 120
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.picsewpro_1.0.0_iphoneos-arm64_de2fed7afab9794779c058c2488d8be8c0167e0c48f48912d5371b671c768294.deb
+Size: 25060
+MD5sum: e8c119be97babdd1fc3c6b79e8fda819
+SHA1: ae8dfebff00c64a29a1564a721d3edfd4c687000
+SHA256: de2fed7afab9794779c058c2488d8be8c0167e0c48f48912d5371b671c768294
+SHA512: dc803d39115b8d2b7eb6dcf92faaab65f99629519e7c4d2d4424f74fbd25b19b39c5754ba313e665488f8c7f89d9b04d13452d91b72956f7132c41a4a2714a27
+Description: Picsew Pro 不支持注入。
+Name: PicsewPro
+icon: https://sini921.github.io/repo/sileodepiction/icon/picsewpro.png
+Author: x✨
