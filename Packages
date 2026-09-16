@@ -24252,3 +24252,1846 @@ Description: 备份。
 Name: Stheno最终版
 Author: Crassna
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.sthenobai
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/iphoneos-arm64e/com.wkk.sthenobai_1.0-1_iphoneos-arm64e_01050ff473c4a00dc68e5b1c349cfd6a9ca690854e123d44fcc467d3db1c79f3.deb
+Size: 352420
+MD5sum: 1aa560795ec78f9463ff66e2c558eb88
+SHA1: 100fbae0097ff5d00ee274dbce235c5683aac5e9
+SHA256: 01050ff473c4a00dc68e5b1c349cfd6a9ca690854e123d44fcc467d3db1c79f3
+SHA512: 28b09bd3e31ca44037903f0b222a293740804282d0b0e2f269c3b0cf951873e893a3a9b133ca0b2f91b597cbcd9f12a0b0d9d877f47889989f107772b50207f1
+Description: 备份。
+Name: Stheno白色奥利奥
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.sthenohei
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/iphoneos-arm64/com.wkk.sthenohei_1.0-1_iphoneos-arm64_344417344f3f16f634ffcfb8329fd47bc4298271406f790f497f3ead170f05cb.deb
+Size: 363060
+MD5sum: 69f4524ce6a9fb03ddc37afc46696937
+SHA1: 770abd895c8541cce06d963698230a6be4614ee5
+SHA256: 344417344f3f16f634ffcfb8329fd47bc4298271406f790f497f3ead170f05cb
+SHA512: 3e93bffe5d20addb3490c2b855a4a98a24d10931390bd112716e48823f3a5b004489bb03fedc84028a6ddc562daa7fe29d3eabc8c64b1de57cce478699e8ade6
+Description: 备份。
+Name: Stheno黑色奥利奥
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.sthenohei
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: Crassna
+Installed-Size: 1912
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: debs/iphoneos-arm64e/com.wkk.sthenohei_1.0-1_iphoneos-arm64e_6056e4e8aa032f10972b993a18da9b782368694348757f3a6d6091e2292d96bc.deb
+Size: 359936
+MD5sum: 2c3d21cdc57925a1dbba8e42ae09bf96
+SHA1: f71f3581084b56d87774d4ead16cdd6ee8e869a6
+SHA256: 6056e4e8aa032f10972b993a18da9b782368694348757f3a6d6091e2292d96bc
+SHA512: a9d3b54672c3af35be8c56c4b2e146cae98bd72b510acbf950199a6a6d6fd792f4362c4c8d95dbd6115f5f16e4383423de36ad78e828f75e91aa5063e12eeab9
+Description: 备份。
+Name: Stheno黑色奥利奥
+Author: Crassna
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.storeswitcher.appstore
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: debs/iphoneos-arm64/com.wkk.storeswitcher.appstore_1.0.6_iphoneos-arm64_0b16e0bb5af1ea01b256361fc5b7a9c7c4ab6fae04716d6be62a9979df3cceff.deb
+Size: 23040
+MD5sum: 81a9b067cd7af4a05245b0f524e40a7d
+SHA1: ce24d72b1773039d8e384ab02c6f595511a6ef37
+SHA256: 0b16e0bb5af1ea01b256361fc5b7a9c7c4ab6fae04716d6be62a9979df3cceff
+SHA512: 4547ab577c68dc0736ff7fb7842002805fbecf8320226dab86bd4cdca04b3e120e607e1db9ed9413e31c6aef23d1e5b6333f05e4431d6cd1c3038a8e35636716
+Description: 桌面长按App Store进行切换账号。
+Name: StoreSwitcher
+Author: subdiox & iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.storeswitcher.appstore
+Architecture: iphoneos-arm64e
+Version: 1.0.6
+Section: Tweaks
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Conflicts: com.yourepo.0xkuj.storeswitcher2rootless
+Filename: debs/iphoneos-arm64e/com.wkk.storeswitcher.appstore_1.0.6_iphoneos-arm64e_1bca88ee37e382bc07868537d2c7e8ac08df8a7b30d2d03b86530f0826b03846.deb
+Size: 32242
+MD5sum: b0bae56186252d62700a2f261fa30311
+SHA1: ad7730daaf45d5d3cd8510f4c6e22cf7b852d43b
+SHA256: 1bca88ee37e382bc07868537d2c7e8ac08df8a7b30d2d03b86530f0826b03846
+SHA512: 0449b97bcff9f12c148a7123d6cf62dc23308459493c90436580570f1daa929a201d920e9cb75391b1250da41d390011afe5b12c3c4cd6b7907ae31c96739a72
+Description: 桌面长按App Store进行切换账号。
+Name: StoreSwitcher
+Author: subdiox & iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.storeswitcher2
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: Tweaks
+Maintainer: 0xkuj
+Depends: firmware (>= 11)
+Filename: debs/iphoneos-arm64/com.wkk.storeswitcher2_1.0.5_iphoneos-arm64_33dff20d5492cd545c73d6a128a1b914dec3cea3f36b2cd55b57c53c0e819bbf.deb
+Size: 17776
+MD5sum: 75f794260365492afd78fd80847aa659
+SHA1: 8cbbe162ee63e7a627c4cbf54a4f735d544f80f1
+SHA256: 33dff20d5492cd545c73d6a128a1b914dec3cea3f36b2cd55b57c53c0e819bbf
+SHA512: 6ad98b18c58e52641aa954278038c691364e39bf651d01be96c2abb272e232eebe4e8fe53db368c895ea79f460de32cc42f3933415a9ec131e5a8c276d83855f
+Description: 商店内头像处点击，快速切换/删除AppStore账号。
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher 2
+Author: 0xkuj
+
+Package: com.wkk.storeswitcher2
+Architecture: iphoneos-arm64
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 苏苏
+Installed-Size: 212
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/iphoneos-arm64/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64_ca0e7391f4376f150a5e139d5616e52dd145fc7930cdff200fc54dd2ba34a562.deb
+Size: 15204
+MD5sum: ae7392e1d84dc3f9d871097c483d2759
+SHA1: 77e264df5a1536078f9175b94a1519ab5f44dd0c
+SHA256: ca0e7391f4376f150a5e139d5616e52dd145fc7930cdff200fc54dd2ba34a562
+SHA512: eba1d1fe0c25f9554666960bb4a449926c91a5c3b7ba08b4aceffb7468550a09e775ad341c3b7af75b2fe6c05eb795217db6ac63ca99483a9d7a8dd3c72ef362
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Name: StoreSwitcher2
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: 苏苏
+
+Package: com.wkk.storeswitcher2
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Tweaks
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11)
+Filename: debs/iphoneos-arm64e/com.wkk.storeswitcher2_1.0.5_iphoneos-arm64e_ad3a3688af3412c6ad5f158946d6b59377f7e425c7532eda554d03fc4021544b.deb
+Size: 23102
+MD5sum: ae7e7adca0d50541ec590d9f1bbe72fc
+SHA1: 686ffe76916bedd3f29f3d9f0cab9ab4793b434f
+SHA256: ad3a3688af3412c6ad5f158946d6b59377f7e425c7532eda554d03fc4021544b
+SHA512: 18a1ea28b3f97fb560eb24956336278e6ee9e061a29abb88ce857a47badcc444491639dcd3ed79a476fd804d992004fd1c3dafb8b067f88de0f1f9705ef3ac98
+Description: 商店内头像处点击，快速切换/删除AppStore账号。
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Name: StoreSwitcher 2
+Author: 0xkuj
+
+Package: com.wkk.storeswitcher2
+Architecture: iphoneos-arm64e
+Version: 1.0.7
+Section: Tweaks
+Maintainer: 苏苏
+Installed-Size: 212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11), mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.wkk.storeswitcher2_1.0.7_iphoneos-arm64e_fa46ca5e1b78a0338559d3161ad53318eedc10f478c4e890533750e55836168f.deb
+Size: 20772
+MD5sum: b632c2702cca55aeeacc6affaf6449af
+SHA1: 293f63a02c0315ea171e07b09180349660463bc8
+SHA256: fa46ca5e1b78a0338559d3161ad53318eedc10f478c4e890533750e55836168f
+SHA512: b6ed9bdae4512847f5a32e4d8a64974aea31bcc2e6755687eea85817fb262771a216ff20db64c14338f58417b6b4d992fd26abd0e35174f9d0ff4e25c2731ae8
+Description: App Store 账户快速切换，优化了账号切换逻辑，已汉化。
+Name: StoreSwitcher2
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: 苏苏
+
+Package: com.wkk.stormsniffercrack
+Architecture: iphoneos-arm64
+Version: 1.1-4
+Section: 去广告
+Maintainer: Nets
+Installed-Size: 1108
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.wkk.stormsniffercrack_1.1-4_iphoneos-arm64_f708025575be315a356c12576591e8d27822a07da4b46d467a0e5f42b5409bfd.deb
+Size: 87160
+MD5sum: eecece9184c2b8eaf1f136ae1a24502f
+SHA1: e5a8bebad057bda617d9804d22e3aee190cbce66
+SHA256: f708025575be315a356c12576591e8d27822a07da4b46d467a0e5f42b5409bfd
+SHA512: 84c70190a9c13d44edacf1cf87952d85a69ce9d5b1b0137219eaaea50762966fd636095cd6520b832c1b9cc7dfbda6d994f98d3c12246c64b1867f72fd1b714b
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Icon: https://s1.imagehub.cc/images/2026/02/01/a08aab594ba950d01d0a413f29b3143f.png
+Name: StormSniffer Crack(Rootless)
+Author: Netskao
+Sponsor: Nets
+
+Package: com.wkk.stormsniffercrack
+Architecture: iphoneos-arm64e
+Version: 1.1-4
+Section: 去广告
+Maintainer: Nets
+Installed-Size: 1108
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.wkk.stormsniffercrack_1.1-4_iphoneos-arm64e_1fd902c42b4f5a0e70a3f07141d790324e0bd524c3cb0b6483fe26194225441b.deb
+Size: 120166
+MD5sum: 554a55f2c86eb160e4dc439ee9c9f5d2
+SHA1: a4082b9399e3dd291cbcc85488710a23ebc26618
+SHA256: 1fd902c42b4f5a0e70a3f07141d790324e0bd524c3cb0b6483fe26194225441b
+SHA512: 0d15e572ed381a93e32cd07cd7b1488d117b6ff9797b4b2d4566a0268d7fe8853e79cbd8fbf066b141fc13d011bfd2130fafe12d65e49dabe150fc86c549bdf8
+Description: Storm Sniffer是一款HTTP抓包工具。不用连接电脑就可以捕获并查看本机所有HTTP/HTTPS请求和响应，轻松调试应用程序的网络问题。
+Icon: https://s1.imagehub.cc/images/2026/02/01/a08aab594ba950d01d0a413f29b3143f.png
+Name: StormSniffer Crack(Rootless)
+Author: Netskao
+Sponsor: Nets
+
+Package: com.wkk.stormsnifferhook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.stormsnifferhook_1.0-1_iphoneos-arm64_b45e36cbf25f4ebade90ff86c8ac0caf063b2772500a728a0013f90189ec8ae0.deb
+Size: 3188
+MD5sum: 534be5bdb7a4d9770cf961a5fd1bcfa4
+SHA1: 5c2776c45b1363c8cc84c85a3fac7cd2d613a866
+SHA256: b45e36cbf25f4ebade90ff86c8ac0caf063b2772500a728a0013f90189ec8ae0
+SHA512: dcc4d39110db6c017a2ed4781f13835b7d13592c9aace3590f55d90a38c2d0925b97d71cb84023e92764124734c85f495876eac0b770b7c59a806fd90d0e2ccd
+Description: 去掉2.1.6版本烦人的强制升级弹窗。
+Name: StormSnifferHook
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/882110d3a7893df3ce2588ed7f59d223.jpeg
+
+Package: com.wkk.stormsnifferhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.stormsnifferhook_1.0-1_iphoneos-arm64e_4160948993fdc2494e3a16b54321faf3e3e10c93d568e5a970300df047e07a87.deb
+Size: 4494
+MD5sum: 2f252ecef0221db45b9da786d76e07b6
+SHA1: b1bbeaf79aab3120f96ac5a63eb1a34711d27df3
+SHA256: 4160948993fdc2494e3a16b54321faf3e3e10c93d568e5a970300df047e07a87
+SHA512: a4dcd9772188c701517b660afa9dbb434afb5a612bbe5ea961a42f221e3160f8e8d346541a972fa7e0cb2100d998a3f0f1ee3902507c2281d6df65f48028d970
+Description: 去掉2.1.6版本烦人的强制升级弹窗。
+Name: StormSnifferHook
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/882110d3a7893df3ce2588ed7f59d223.jpeg
+
+Package: com.wkk.swipeextenderx
+Architecture: iphoneos-arm64
+Version: 1.6.2
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64/com.wkk.swipeextenderx_1.6.2_iphoneos-arm64_833fe0d00f471c1d45d108f3faaf00006d5b79f0e68946798fbae019b69a0868.deb
+Size: 79740
+MD5sum: 32e19748ff2c26f97cc340d1194938c9
+SHA1: c988e0a4f3535cce43f2cc004e92d6eb7aca0dc9
+SHA256: 833fe0d00f471c1d45d108f3faaf00006d5b79f0e68946798fbae019b69a0868
+SHA512: 7511087164e81312b6d681a391fa64ac603a6895856e384657e8e05973ac26541b9b6bd091e24940757454e64409780c144627367dcf31f32727411819965917
+Description: 用这款传奇的插件重塑你的原生键盘，自带我的预设，在Presets中可以找到并恢复。无汉化。
+Author: MiRO <tweaks_support@miro92.com>
+Name: SwipeExtenderX
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: com.wkk.swipeextenderx
+Architecture: iphoneos-arm64e
+Version: 1.6.2
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64e/com.wkk.swipeextenderx_1.6.2_iphoneos-arm64e_c5fc988471c40bf6c9d299ca9f502e67ec8128237e77949495f96039a74fdc1e.deb
+Size: 108076
+MD5sum: 40103b2cbc07d4368839c0391c080787
+SHA1: 939db6bc6fde13be35572785c6f5be1ec43caaac
+SHA256: c5fc988471c40bf6c9d299ca9f502e67ec8128237e77949495f96039a74fdc1e
+SHA512: d7fb598f6b9f4881dcf4867f1b10e33a2c63faadc3d7d0195e52e1880eb2569443cce5a9e069226b84177758c05aeb13dab05c83ad879483ae7a740df3d7709a
+Description: 用这款传奇的插件重塑你的原生键盘，自带我的预设，在Presets中可以找到并恢复。无汉化。
+Author: MiRO <tweaks_support@miro92.com>
+Name: SwipeExtenderX
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: com.wkk.tapticboard
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: debs/iphoneos-arm64/com.wkk.tapticboard_1.2_iphoneos-arm64_707d32f12fbcd62ac4d5bf9452d73811cc0e6970faa2de3a64e60535f67831c7.deb
+Size: 23524
+MD5sum: 84c80b1bf64ae578051f04496bad46d9
+SHA1: 594bb40d0647e24c5c780afa78d2b760d64dfd53
+SHA256: 707d32f12fbcd62ac4d5bf9452d73811cc0e6970faa2de3a64e60535f67831c7
+SHA512: 9ec5b290b5c77fef720adeffcd7a9109a50ffbcc98916435ab20554a3cab4a3e0a88656a8aade752e0bd25ee6ffefd6d7d32cfee1db6b6808b7f01f6326f40ec
+Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
+Name: TapticBoard
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+
+Package: com.wkk.tapticboard
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 396
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>= 13.0)
+Filename: debs/iphoneos-arm64e/com.wkk.tapticboard_1.2_iphoneos-arm64e_193e572b608ad74ed47c53442f32e9dbf7f9e53c3beb57b64f8d8eea39de9061.deb
+Size: 27524
+MD5sum: 1e83cfa1db8ef1c652a89f8e58c38dec
+SHA1: 3bfa5fecc2c34dc32ad3a27b2d9f623255853999
+SHA256: 193e572b608ad74ed47c53442f32e9dbf7f9e53c3beb57b64f8d8eea39de9061
+SHA512: 49758ab33b55d5563f554f91482c813732dfb611b63d2440682fd42b6e4144f19257170a1f316c0eee451393e045d9146bd72d66abc0f184b94c6daa3e63e322
+Description: ios15-16键盘震动的终极调整，敲击键盘或候选词都是震动，
+Name: TapticBoard
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/22/da95cacf3e9dbdaec0311e6a00989e86.png
+
+Package: com.wkk.tbhook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 美化
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.tbhook_1.0-1_iphoneos-arm64_4ef553f1acff2600a368edeb4eed30cfec25697c891c0c669bfa35d1e6ebdb4b.deb
+Size: 6764
+MD5sum: 870cc90ce680a52f678f127325c07e44
+SHA1: 841803f2864abaf94900974fe5063b5b5f5c72da
+SHA256: 4ef553f1acff2600a368edeb4eed30cfec25697c891c0c669bfa35d1e6ebdb4b
+SHA512: b49399e23dde760a954fe6d9870d277f6833c675eab56ab48916062fd6465dd737e6c82e5aa9979f942cc769d76b0e51fd54dadd6dd44e9c68ec69c0869b6035
+Description: ...
+Name: sileo悬浮底栏
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.tbhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 美化
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.tbhook_1.0-1_iphoneos-arm64e_5005b6d0146a8f8cca56807f73e7f8786f78166b08aa8c62a5afe7c4ee9f47ce.deb
+Size: 6708
+MD5sum: 52d81a821cda84ff6e893e09415c7960
+SHA1: dbda009aeca891545b1cac8bd1ad7c71d9f6c5f6
+SHA256: 5005b6d0146a8f8cca56807f73e7f8786f78166b08aa8c62a5afe7c4ee9f47ce
+SHA512: 99a8342595e1bd9300fd4ff13112f4e9667bd21f4f53e0181e7914d10db7225a9bcf105c868f1fd6e4cc5bc4a918270c095e8379e68131dea075ed173de65c85
+Description: ...
+Name: sileo悬浮底栏
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.teleport
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 应用程序
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.wkk.teleport_1.1_iphoneos-arm64_3702c0734d1efa500ac8e5723bdc75fe71901bd8b38a063f738f19663a9606f7.deb
+Size: 7382468
+MD5sum: ea686ff3a8c7ca0df3fbdfa97bd54b93
+SHA1: 0e4cbdb1ce4536520ca28d16a66138f0ea9a7b54
+SHA256: 3702c0734d1efa500ac8e5723bdc75fe71901bd8b38a063f738f19663a9606f7
+SHA512: 6645c511682dcbede8dd0d6420ebff5efe5d79483c7631056cf47c27118497310d5e0185e087aeafe9680f3715e3b4daffa40989eab58a2ffaa0f0d27c7e62fd
+Description: 免费的虚拟定位。
+Name: Teleport
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
+
+Package: com.wkk.teleport
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 应用程序
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.wkk.teleport_1.1_iphoneos-arm64e_85fcd085dc2d905d1b892dd1a04c873df2ae6277bc04d742cea9c63062ace991.deb
+Size: 14909598
+MD5sum: f636ae7b9f9963c4e86914ed55a0c012
+SHA1: c870f99fee43984c2f93f7003d5c357981760d6c
+SHA256: 85fcd085dc2d905d1b892dd1a04c873df2ae6277bc04d742cea9c63062ace991
+SHA512: 83791d60ee92f1b49dbc4e97a030e8b6979fad803e3f4fee5893b9209d8d57f8cf3c7d7200972c7691667f9911eb4e893651b001bd1480d892262e7fd91acce4
+Description: 免费的虚拟定位。
+Name: Teleport
+Author: SGWC
+Icon: https://s1.imagehub.cc/images/2026/01/11/ca1989da2f62c977eaa97c587366cb8c.jpeg
+
+Package: com.wkk.tg
+Architecture: iphoneos-arm64
+Version: 1.7.1
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 13768
+Filename: debs/iphoneos-arm64/com.wkk.tg_1.7.1_iphoneos-arm64_45591df7c613232dc3fc1bb35202886bdde0a920ba885355e430f5cbc92a0661.deb
+Size: 2331376
+MD5sum: 8b478dc5715ac10feedcc1007467afa1
+SHA1: 4608f46c8fb5a5229f69144a34730677f6ef96b5
+SHA256: 45591df7c613232dc3fc1bb35202886bdde0a920ba885355e430f5cbc92a0661
+SHA512: 35e98e11b352787ce9f0c30be5d28548fe89946abffac5be2672b3f91a5d2347491b771609d33ce232a41234c7799b7b459e954c49d0caf112f7e6c358965cac
+Description: TG增强，关于12.3版本的资源，若有需要的朋友可以使用，另外，新增了对Turrit的支持，若想在Turrit中打开TGExtra界面，请进入设置页面，长按"关于Turrit"选项即可。
+Name: TGExtra
+Author: choco
+Icon: https://s1.imagehub.cc/images/2026/01/13/97aa70e87d310ef9c70f7c07ecf35464.jpeg
+
+Package: com.wkk.tg
+Architecture: iphoneos-arm64e
+Version: 1.7.1
+Section: Tweaks
+Maintainer: choco
+Installed-Size: 13768
+Filename: debs/iphoneos-arm64e/com.wkk.tg_1.7.1_iphoneos-arm64e_d9e45fbb5cd7ca5f004fda215bde1ce3b11e0696699a9fb2727757abd7347799.deb
+Size: 2331544
+MD5sum: 1da7f4b498637b9d6fd0ce822d98ab31
+SHA1: a4a4109a5cece22dbcf820a05bf242bd1043c1a1
+SHA256: d9e45fbb5cd7ca5f004fda215bde1ce3b11e0696699a9fb2727757abd7347799
+SHA512: f3d1b470e5890230b8e3c440d6a1bfbf4e6b8cb4e469d9c3277584e21799b42e4d1d53cdeba0dfa84cfcf98ecc0b45eaf28f98619b705b4cbd4f832d724a3f1f
+Description: TG增强，关于12.3版本的资源，若有需要的朋友可以使用，另外，新增了对Turrit的支持，若想在Turrit中打开TGExtra界面，请进入设置页面，长按"关于Turrit"选项即可。
+Name: TGExtra
+Author: choco
+Icon: https://s1.imagehub.cc/images/2026/01/13/97aa70e87d310ef9c70f7c07ecf35464.jpeg
+
+Package: com.wkk.tie-gesture
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 672
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.wkk.tie-gesture_1.0.0_iphoneos-arm64_2139b24d243d53976d12eceba8856ba8e6f6c8183676d6d975952af2744b437e.deb
+Size: 102196
+MD5sum: d8e6f644937d74f1b57242bc617558ba
+SHA1: c36b8720ce18e9e10c55d73dee082aeeb06275e0
+SHA256: 2139b24d243d53976d12eceba8856ba8e6f6c8183676d6d975952af2744b437e
+SHA512: ec8e54c7fb1e788e0fbbf7cecce16c86b924b1a48352c4aba10a4f2d02078ee17492a2a8cfbb198018fc6a217bc54dc26f5c4b9dc7a15b970eba22694a0055a1
+Description: 手势插件，一切从简即可，免费版本。
+Name: TieGesture
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/27/9f3a995f14a2eb42995785263ad96d7b.png
+
+Package: com.wkk.tie-gesture
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 672
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.wkk.tie-gesture_1.0.0_iphoneos-arm64e_17349d13e3f8e92590a81fe5ff267c1b74a84164c8d2046c656ce8abdc8143a9.deb
+Size: 132202
+MD5sum: 0cfb74490e6b5bc5a0e9ed81cfb31cd3
+SHA1: 1ad105cbb922638dbd3f3f2ce7a899870e6ffd94
+SHA256: 17349d13e3f8e92590a81fe5ff267c1b74a84164c8d2046c656ce8abdc8143a9
+SHA512: fc75f24a1a04e4c8bf197384f918c4941d12028c6afbbcaf8290db675ae332c49903f64f51573bb1a241ee424f531a1ee8a764af4627fe5e47f4f78bb16e622e
+Description: 手势插件，一切从简即可，免费版本。
+Name: TieGesture
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/12/27/9f3a995f14a2eb42995785263ad96d7b.png
+
+Package: com.wkk.tiebahook
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.tiebahook_1.0-5_iphoneos-arm64_8d4b090452bc6c55ef9afcd9ecf9642cf7d3403ed42d0f55465277bb2a7cf5a7.deb
+Size: 3452
+MD5sum: a4a9734341ceb78ecdf772d8baf74da9
+SHA1: 3f409c2e903b80d6d9e217ffeb69418d697e567b
+SHA256: 8d4b090452bc6c55ef9afcd9ecf9642cf7d3403ed42d0f55465277bb2a7cf5a7
+SHA512: 7efb6cd11062ef52f743da72946544c2655038d01702892b3c57aa6522506bd8d6943afe6c74d6b18f9ac329f1abd70e875b2bc667abec005ed51d7a0eda6046
+Description: 去除百度贴吧所有可见广告，版本：12.93.1接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Name: 百度贴吧NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
+
+Package: com.wkk.tiebahook
+Architecture: iphoneos-arm64e
+Version: 1.0-5
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.tiebahook_1.0-5_iphoneos-arm64e_5b6762c3817e83708c3dcf46e49ec4643647a0b2a8eb78a2ec2f85acb6439ef6.deb
+Size: 4932
+MD5sum: 051e96006733679112192638daaa3e54
+SHA1: aa92276e31e95662b68bf5ef10d827db44f25e75
+SHA256: 5b6762c3817e83708c3dcf46e49ec4643647a0b2a8eb78a2ec2f85acb6439ef6
+SHA512: c3b41490137e13222449bb9c40606b7e7c06835fe7fd5c41cf31be17030c37269ee1a1111c46c2d90029db637da6a0519c9471b79189032692dce9b36471aac5
+Description: 去除百度贴吧所有可见广告，版本：12.93.1接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799
+Name: 百度贴吧NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/68595621a4c4b9cb8008d80a8a4f1168.png
+
+Package: com.wkk.tinge
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64/com.wkk.tinge_1.2.2_iphoneos-arm64_4443161c51effe394cca5b250143ecae46371d6798ff1ef9e9407ef8fc41fa00.deb
+Size: 40960
+MD5sum: 727a5c7d70382c6c278969a1a02197e7
+SHA1: eedf0999366aecd4870a0063a19e0ac9c8ca9f20
+SHA256: 4443161c51effe394cca5b250143ecae46371d6798ff1ef9e9407ef8fc41fa00
+SHA512: 17115f384ca87805bc5bd72854408575bd2daf96c7fe8f532796266b7b9e1775ef004781d2fea0a8f777c4ba852ff3a397866e15552faea436e80cf84ded3836
+Description: 好看的角标，有能力请支持正版，已汉化。
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
+
+Package: com.wkk.tinge
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 436
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0),mobilesubstrate,preferenceloader,org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64e/com.wkk.tinge_1.2.2_iphoneos-arm64e_3ac3d6641345812e23615b3ac549a788291c6251ad9c224d1361d3c6faf804df.deb
+Size: 51120
+MD5sum: 7727c80241bb8537ac9e119df74da6f2
+SHA1: 3953fa302d3bb8a2c63bb383078dbdf46b7335cd
+SHA256: 3ac3d6641345812e23615b3ac549a788291c6251ad9c224d1361d3c6faf804df
+SHA512: 0594038f18e8e926bc2c84ff16025a98277237c82240a65d1ef4f41175aeea8f56f2bd13fdaa21612c4cbe1acfb050b5750f982cc3d319189a897859da4da678
+Description: 好看的角标，有能力请支持正版，已汉化。
+Name: Tinge
+Author: P2KDev <p2kdev@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/12/26/e1773edb2bf04d92112a9b709efdf7be.png
+
+Package: com.wkk.tinticonlabel
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 447
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64/com.wkk.tinticonlabel_1.0.5_iphoneos-arm64_48dca52558f082dda13316069f63c7499c6f0a87ef21016690a6537079604c23.deb
+Size: 67112
+MD5sum: acd58484bc4ddc1a1584cc5df531cbbb
+SHA1: a994d41260365441436a588cf7e81d08459b119d
+SHA256: 48dca52558f082dda13316069f63c7499c6f0a87ef21016690a6537079604c23
+SHA512: e76c17919e1a541d9e9511469673456ba690cbda48171395dd7c5ece97b4b5d77733645b8909d53412c20ff0f73e616368c197e829562dd66437fd86e7745e67
+Description: 高度自由的自定义图标标签的颜色。
+Name: TintIconLabel
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c50494115bb77d04956d94c4728f76.png
+
+Package: com.wkk.tinticonlabel
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Priority: optional
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 447
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 8.0), preferenceloader, org.thebigboss.libcolorpicker
+Filename: debs/iphoneos-arm64e/com.wkk.tinticonlabel_1.0.5_iphoneos-arm64e_1d0ff84196453f4f41971ddef7acdda637e7048b1348daf17bf159c5342e8d18.deb
+Size: 74960
+MD5sum: 5df02d85a5ba0f9a7870a04d0c72845c
+SHA1: 1dfeadf028fa530f42d284c866c0f15c12753e15
+SHA256: 1d0ff84196453f4f41971ddef7acdda637e7048b1348daf17bf159c5342e8d18
+SHA512: 1d2a3710a5890626ab5931a19a9199079ca90febedcbd4de710737f45725a5bb9f8c7d6e78d5ca3088e2bfbf3aa492317d172516677b15ba296ebddf510a6687
+Description: 高度自由的自定义图标标签的颜色。
+Name: TintIconLabel
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+Icon: https://s1.imagehub.cc/images/2025/01/02/a2c50494115bb77d04956d94c4728f76.png
+
+Package: com.wkk.tpphook
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 去广告
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.wkk.tpphook_1.0_iphoneos-arm64_bfccde191eb5a0c831539588a842096030f4decedd5158bd2bca07c0f854f3fe.deb
+Size: 2992
+MD5sum: 1234211817659bacd7a88235d9a69d86
+SHA1: 1f4733558b4bd622a8c8021d02351e2fe6a45e9a
+SHA256: bfccde191eb5a0c831539588a842096030f4decedd5158bd2bca07c0f854f3fe
+SHA512: 45580c5bfa9367c0ed86cd8677cd552d044321630f1f949425f721d19f14481d6d9441a75aeae49a0c2df78041102a9b6aa7caf16ad4a01941ee8a58b82138fc
+Description: 去开屏，版本：11.17.6
+Name: 淘票票NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+
+Package: com.wkk.tpphook
+Architecture: iphoneos-arm64
+Version: 1.0-3
+Section: 去广告
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.wkk.tpphook_1.0-3_iphoneos-arm64_05548bebb584c78d82d1b2500ece7d4e116bb1fa1f95e7111da3881a20a7513c.deb
+Size: 3152
+MD5sum: 2bc5083dbbcddbcc37de2226654200c6
+SHA1: 456bf2228a9715395c2a48c6df07b3e30be903c7
+SHA256: 05548bebb584c78d82d1b2500ece7d4e116bb1fa1f95e7111da3881a20a7513c
+SHA512: 0417956d4038387e5a8f0f8214869bb2c783120e5a0914a6b2646215ed9c999e1116977a66a4b69869be570d1197c442a447056ff31c35b372b19a57d6c7359e
+Description: 去开屏，版本：11.23.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 淘票票NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+
+Package: com.wkk.tpphook
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 去广告
+Maintainer: wkk
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.wkk.tpphook_1.1-2_iphoneos-arm64_f3e9cf5b5f21728bef85bf001bc22fd49d1aee5a2c7dbdc624adc511e91bbe16.deb
+Size: 3120
+MD5sum: e73ebdb072750b615e2f8195ba205d44
+SHA1: 8c3491de6550c6cdc9b24ddebd5b29d35f705080
+SHA256: f3e9cf5b5f21728bef85bf001bc22fd49d1aee5a2c7dbdc624adc511e91bbe16
+SHA512: 3f829b2ee91313e9c6424fe45f30154b41be140d3bf34244fed94b91574e9377c8a4ad3d69ae382c326fa25634162cd8e7fe91891532c6dafb0a26bbf2840e02
+Description: 去开屏，版本：11.24.6
+Name: 淘票票NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+
+Package: com.wkk.tpphook
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 去广告
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.wkk.tpphook_1.0_iphoneos-arm64e_4efa251db45d4eba58d61fa344eda283772708a3e5e1344974cdbf030a95f355.deb
+Size: 4278
+MD5sum: f00cac3b3fca0d36ba223745c6e68d9a
+SHA1: d06ac63e0e325b0a16efe934ada09508a75bf8da
+SHA256: 4efa251db45d4eba58d61fa344eda283772708a3e5e1344974cdbf030a95f355
+SHA512: d68e115cd49be6185eabb2d2f8a92952167a4820ec0d199463e22a078ce1ba14bd7127a9e4e037c3eb44b0b297033e4f48e683acfa71f6660a4cb095b3006f4a
+Description: 去开屏，版本：11.17.6
+Name: 淘票票NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+
+Package: com.wkk.tpphook
+Architecture: iphoneos-arm64e
+Version: 1.0-3
+Section: 去广告
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.wkk.tpphook_1.0-3_iphoneos-arm64e_6c9e41de815a75d11fddba9b341381f6acf61e87ea9f27fba06529f4c3aac91e.deb
+Size: 4644
+MD5sum: 43ea44df24b084c61106ed7a18216515
+SHA1: 1e04e59a94439a678729a5aaa6b4f4b8373159b4
+SHA256: 6c9e41de815a75d11fddba9b341381f6acf61e87ea9f27fba06529f4c3aac91e
+SHA512: e6fccab51c393268cb1c27da14079152e9b39bd6bdf408a9d6011f210d15e8c996cf1a9e42e9e71433d1812df658599fcc39d7e762c15ba8aaa1f688c5603331
+Description: 去开屏，版本：11.23.1，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 淘票票NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+
+Package: com.wkk.tpphook
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: 去广告
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.wkk.tpphook_1.1-2_iphoneos-arm64e_907aa521607594eaf0094f65f870829fdc58bd08b141d61929ecc338879e6e3f.deb
+Size: 4402
+MD5sum: 6ef64bc97d1aa769ad76e337b91c60e8
+SHA1: a684c1c6b83217192a0aa600b7bb821046cfc024
+SHA256: 907aa521607594eaf0094f65f870829fdc58bd08b141d61929ecc338879e6e3f
+SHA512: f459edb885b619d28e8883d5475c03b9440e8134216e127a82a309f74d41542f035a78b3541f69ab2842460f4d1d8ff3b5f5bc81940f2a2902b8b8e3eb54fc38
+Description: 去开屏，版本：11.24.6
+Name: 淘票票NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/07/04/b8c954e42df7ff7695e3c5495ea9acd5.png
+
+Package: com.wkk.trollcmtweak
+Architecture: iphoneos-arm
+Version: 1.1.4
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/iphoneos-arm/com.wkk.trollcmtweak_1.1.4_iphoneos-arm_d4d0af45ee42bc46cb8050f3c944f6f66effd3deea6c2af7760cbbc1d6b11082.deb
+Size: 53632
+MD5sum: d8a7843c911f1b9d63f3360b4916c9d0
+SHA1: 749c83877fd59b20c85f1ae7268ea595fa5c1b90
+SHA256: d4d0af45ee42bc46cb8050f3c944f6f66effd3deea6c2af7760cbbc1d6b11082
+SHA512: c334538fd44458ae77ebcf8a39582aa68a14c31cf4f559b64284da3f5d20af4d3eb73857e33a06f9f130fbc96c4c53b7b53f286cd36270ac19e20180d82bfe3b
+Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
+Name: TrollCM
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.trollcmtweak
+Architecture: iphoneos-arm64
+Version: 1.1.4
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/iphoneos-arm64/com.wkk.trollcmtweak_1.1.4_iphoneos-arm64_9e1ab30c8f9657bdd7f93068203e7225df0b52aecadc4cf03adf2b7c888165b5.deb
+Size: 53768
+MD5sum: 9d5ee4ee0951e3a382be81f6f39a32d6
+SHA1: dd338f732fe65a96c420acbe8432854b4d2f76ff
+SHA256: 9e1ab30c8f9657bdd7f93068203e7225df0b52aecadc4cf03adf2b7c888165b5
+SHA512: 9d6ffd4383234b90bdd5668a6b1b669ad6a5f5f9d505ba67412dbe3738fc0795afe67aabe95ae135f0470af4eea808eb77695a14004ee32705eb9d2870c51100
+Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
+Name: TrollCM
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.trollcmtweak
+Architecture: iphoneos-arm64e
+Version: 1.1.4
+Section: Tweaks
+Maintainer: iosdump
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/iphoneos-arm64e/com.wkk.trollcmtweak_1.1.4_iphoneos-arm64e_76ab35434ded6f2cc3a887102ae0c38ee45f9095f933f94c448b50ee658d120e.deb
+Size: 66084
+MD5sum: 92624855790f159d7a53d68edeb5c1cf
+SHA1: da8e4cdb4c61f656edd855b5c94d93170a72b964
+SHA256: 76ab35434ded6f2cc3a887102ae0c38ee45f9095f933f94c448b50ee658d120e
+SHA512: d01d1dbc635f77574c76680568fca15e08fa30d20889ade7deccd3a840147f3c6afe51d82f020f9217b99b3a4964f64b2b2952f57bf4fc0c166f1202f23d97fc
+Description: 显示屏幕触摸轨迹，支持iOS14-17所有越狱
+Name: TrollCM
+Author: iosdump
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.trollopenjb
+Architecture: iphoneos-arm64
+Version: 1.3.7
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 4460
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/iphoneos-arm64/com.wkk.trollopenjb_1.3.7_iphoneos-arm64_39bf1885d53d97f36c810dd7f8dfb167567d0758207755cb01df1db79af25998.deb
+Size: 1121168
+MD5sum: 42e6e0856334fd53b8c551b23bbca823
+SHA1: bb99613e74b87bd495d0faffdac5ab503a5a8f3c
+SHA256: 39bf1885d53d97f36c810dd7f8dfb167567d0758207755cb01df1db79af25998
+SHA512: 7a46af1b474e0a4e70cc5e9e2019667cd2dc82dc6e8c6609a574beb028345f511f51bede602109c52ae4d91653047966805c4954321712c2ba02d47a4e4f2b8f
+Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开版，无后续更新，不需要反馈 bug。
+Name: TrollOpen
+Author: Charlie Leung
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.trollopenjb
+Architecture: iphoneos-arm64e
+Version: 1.3.7
+Section: Tweaks
+Maintainer: Charlie Leung
+Installed-Size: 4460
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/iphoneos-arm64e/com.wkk.trollopenjb_1.3.7_iphoneos-arm64e_2def0674ce237c52f1b0ad2844e520393c201370cc3e95ced7b3f1c3370ea2a0.deb
+Size: 3324542
+MD5sum: 5836e86b64477f55eb196bfb7676111c
+SHA1: 287fdb73b81967bf58b58d498600a4dcd40617bd
+SHA256: 2def0674ce237c52f1b0ad2844e520393c201370cc3e95ced7b3f1c3370ea2a0
+SHA512: c6cfe67072c5d0c973426486f0ad794a91c897e09cce702f54f767b3372a481f5470e2bc4ba49f9efd8c00968fabd0fc8958f9c69ee02436ddd2a46162291f07
+Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开版，无后续更新，不需要反馈 bug。
+Name: TrollOpen
+Author: Charlie Leung
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.trollpad
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: debs/iphoneos-arm64/com.wkk.trollpad_1.3_iphoneos-arm64_53cb56afeb212d5cb8b6c1429f63dc034ed9aa9d8f6f8946ee6dddb8a891eca4.deb
+Size: 40460
+MD5sum: 7619bffc73391f7b21281f2db0c8ee09
+SHA1: 92cf7fff8935c36aed5c6561fe6e4dc59d73fa72
+SHA256: 53cb56afeb212d5cb8b6c1429f63dc034ed9aa9d8f6f8946ee6dddb8a891eca4
+SHA512: 4d6f469410637c1bd7dcf26023f00f420ecf50c5977b464e41663a94d037f187fb8023e6d51f31892ea31d0fa5fdef0e7e2f4c03ce1e5571291b94d1b527f6e5
+Description: 在iPhone上开启iPad台前调度。
+Name: TrollPad
+Author: khanhduytran0
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.trollpad
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: khanhduytran0
+Installed-Size: 536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), plistbuddy
+Filename: debs/iphoneos-arm64e/com.wkk.trollpad_1.3_iphoneos-arm64e_193189809c309d13b5fd106fd5cee69eaac8ae56371cdfd9884be54ee44bc759.deb
+Size: 47200
+MD5sum: f3ddebada688988cc5d96f943d665bed
+SHA1: b6cbf419ea23b52dfac3144386dbc4101021aa33
+SHA256: 193189809c309d13b5fd106fd5cee69eaac8ae56371cdfd9884be54ee44bc759
+SHA512: 4ef0443a4a3ce1847dc79f92d8a6a3ce803b43d8dcd8555f17d9a0946e1227d0be45b1d229a38f7487fea7cfa404ba7ed741371f62345be4b3b7972987f6c93b
+Description: 在iPhone上开启iPad台前调度。
+Name: TrollPad
+Author: khanhduytran0
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.tvlock
+Architecture: iphoneos-arm64
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
+Filename: debs/iphoneos-arm64/com.wkk.tvlock_1.2.3_iphoneos-arm64_236183c5f40f58d9452a16c3cc6bca55efb1528a2de27fb18880af6699e34789.deb
+Size: 34384
+MD5sum: f4a024058b75ec34e45db64160f4a4b2
+SHA1: 4e2395f79cda94901687f5e33d20151a60b9ab37
+SHA256: 236183c5f40f58d9452a16c3cc6bca55efb1528a2de27fb18880af6699e34789
+SHA512: 58018c553fb2def9d06740ce36ef7cc11c5f4b2b25f9517a7b50506c7f2daf4963d97a64ac3c944532ce7bec577ba19dd38cb84392b51acb93edb35c0625ebb8
+Description: 很棒的老电视关屏动画，已内置简体中文。
+Name: TVLock
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
+
+Package: com.wkk.tvlock
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: Wes <wes.hamster@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.wrp1002.tvlock, com.dao.tvlock.cn
+Filename: debs/iphoneos-arm64e/com.wkk.tvlock_1.2.3_iphoneos-arm64e_6560f3ddaa40df275ffa95956661340b520adbd984f0e5d3be7119ea3d57ae8b.deb
+Size: 42414
+MD5sum: 770c885330d6310f3b8fdf7023027571
+SHA1: b9de8785c01a4d567aade4e5588d49f4cdc8d5ea
+SHA256: 6560f3ddaa40df275ffa95956661340b520adbd984f0e5d3be7119ea3d57ae8b
+SHA512: 646e98d616f0056572df80c30db22b6e9bfaba5274b389def1fdb2ab56da98f3bc130f0b2ec16e76dd58bdc98ccbf1428a70c5d567625f9313c287379df1af6e
+Description: 很棒的老电视关屏动画，已内置简体中文。
+Name: TVLock
+Author: Wes <wes.hamster@gmail.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/3c453818da9ee36e5e6beeb9db386ee6.png
+
+Package: com.wkk.tweaksettings
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Priority: optional
+Section: Applications
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1496
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: debs/iphoneos-arm64/com.wkk.tweaksettings_1.1-1_iphoneos-arm64_a49caba1b55c762310fa1575af16e9431068a1ecc0b066bad8ce4a50729b2099.deb
+Size: 434120
+MD5sum: 95d7262261ee7560b592f53c44c99605
+SHA1: 7e83bb9589f4d6bc29a47c3683f030838fee7601
+SHA256: a49caba1b55c762310fa1575af16e9431068a1ecc0b066bad8ce4a50729b2099
+SHA512: a9ef6d4bae43b7146d9631b6875fd1e2af383768b104827210443b33a402d32d42def814273ebed8a0eb6d8f55268637fc6786ac3f48737d6c9a04a5f356c8f8
+Description: 基于 CreatureSurvive 开源项目 TweakSettings 的简体中文汉化增强版，用于集中管理越狱插件设置；新增“去掉分割线”“隐藏顶部搜索”和“更换桌面图标”等功能。
+Name: TweakSettings
+Author: CreatureSurvive & wkk
+Icon: file:///Applications/TweakSettings.app/icon_large.png
+
+Package: com.wkk.tweaksettings
+Architecture: iphoneos-arm64e
+Version: 1.1-1
+Priority: optional
+Section: Applications
+Maintainer: CreatureSurvive <support@creaturecoding.com>
+Installed-Size: 1492
+Depends: firmware (>= 10.0), preferenceloader | com.creaturecoding.preferred
+Filename: debs/iphoneos-arm64e/com.wkk.tweaksettings_1.1-1_iphoneos-arm64e_0edee6587e7268e0c911d497da178b054de5d80e36f336e5a417ed55294868b8.deb
+Size: 432932
+MD5sum: 2117141e11b973856b4f4d566039f5f3
+SHA1: 530021f7d86bc499296ac8b650ccf412c74a3d85
+SHA256: 0edee6587e7268e0c911d497da178b054de5d80e36f336e5a417ed55294868b8
+SHA512: d5e8d6b6f4097080d27141dbf267b8f7e02d82d6be34acc79a3a12dd54bbb4c7ea200b777321156397057a1499c6f8d96cfe8ee431b0ee3c6979379d3f177d2e
+Description: 基于 CreatureSurvive 开源项目 TweakSettings 的简体中文汉化增强版，用于集中管理越狱插件设置；新增“去掉分割线”“隐藏顶部搜索”和“更换桌面图标”等功能。
+Name: TweakSettings
+Author: CreatureSurvive & wkk
+Icon: file:///Applications/TweakSettings.app/icon_large.png
+
+Package: com.wkk.tweaktool
+Architecture: iphoneos-arm64
+Version: 2.0.0-beta
+Section: 插件配置
+Maintainer: 预言小猫
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64/com.wkk.tweaktool_2.0.0-beta_iphoneos-arm64_42ff7f51ac2e11c3d8bc0fe3c48e5324747835464949cfd92f7ce3ca5d9ee4c5.deb
+Size: 10452
+MD5sum: 952ce521873eab5dee2536f766cdeecf
+SHA1: a901807c622ecd322aeb281b8bf8ec54f5844b7a
+SHA256: 42ff7f51ac2e11c3d8bc0fe3c48e5324747835464949cfd92f7ce3ca5d9ee4c5
+SHA512: c46232c31514aeee9e8e3088882a3b71ab8a810299a61da8ab433ad530ec300cb9e446c03a8109a8e4dc2e9f4d47d9b20b2a75d5fa9a37e8e7a6978c1c22f16b
+Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
+Name: 一键备份和恢复工具
+Author: 预言小猫
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: com.wkk.tweaktool
+Architecture: iphoneos-arm64e
+Version: 2.0.0-beta
+Section: 插件配置
+Maintainer: 预言小猫
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64e/com.wkk.tweaktool_2.0.0-beta_iphoneos-arm64e_ed02fb3ab5fe3c359e505671fec885a30785e7fecd33f78bdd33c20b91d9b91d.deb
+Size: 11168
+MD5sum: 6a5491ad0e4caba7b20360628ebc4b28
+SHA1: f5b15996f321bd622015428d8cb8ca42c64a57d6
+SHA256: ed02fb3ab5fe3c359e505671fec885a30785e7fecd33f78bdd33c20b91d9b91d
+SHA512: b4510bdd23dd6037563cfa1c615e2d377481071e7f2c616c79fd2ff838aac37f51df62ba2d4007af58c3b25ee549edc0d52577ea33203ba02633e9077da6e2d7
+Description: 使用方法：Filza进入/var/mobile/Documents/tweak_tool/目录，运行“一键备份和恢复工具.sh”文件。
+Name: 一键备份和恢复工具
+Author: 预言小猫
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: com.wkk.txdthook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txdthook_1.0-1_iphoneos-arm64_e2285754a2e0668b2967fc25091f4524f672412c3e19bd93e14dd4192253c43e.deb
+Size: 4272
+MD5sum: e847a38974818c9f278558cc0fa09cf4
+SHA1: 9006ad9198e5df8e3af34f7a612167b927d5d31d
+SHA256: e2285754a2e0668b2967fc25091f4524f672412c3e19bd93e14dd4192253c43e
+SHA512: 80ea0febebc160046b19b62c6ddff4d1103a44253ed576b772dd83865b61f9a853e7b7ce31a38addd99286db4c1933467acc566f18d7d351a54e21bf59d30ff6
+Description: 去一些广告，版本：10.27.3，接大量冷门热门app定制去广告/定制插件/去app更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯地图NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/11/b8196909689c75dc3caf3be186508358.png
+
+Package: com.wkk.txdthook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txdthook_1.0-1_iphoneos-arm64e_2d261897ab688b0284c2bb534e96e1314518d31fec4d1f48ef93788c8f36cde4.deb
+Size: 5996
+MD5sum: 41ab6f546b63528cc60e9328a76d1815
+SHA1: 130091eb5df16d553cfceb101fc026f3c534f25e
+SHA256: 2d261897ab688b0284c2bb534e96e1314518d31fec4d1f48ef93788c8f36cde4
+SHA512: ee623621d5d220136295beb875f9bb49e0554af81b0924820f0a5d902fb8ec946328dc26f1ac6b15fc8ba08645de65c2c3fa2afb056797effd20b9001ef87e2e
+Description: 去一些广告，版本：10.27.3，接大量冷门热门app定制去广告/定制插件/去app更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯地图NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/11/b8196909689c75dc3caf3be186508358.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.0_iphoneos-arm64_5e58943cde842e670730922ac06f847726995ea77aaed139c82fb8d7ca2c9014.deb
+Size: 5468
+MD5sum: 73fe163e53af16c0bed95996c913e260
+SHA1: 8983153c0fc3ffed083fabb0d254b756b3c3f6ac
+SHA256: 5e58943cde842e670730922ac06f847726995ea77aaed139c82fb8d7ca2c9014
+SHA512: 3d6c4e8ecf5c609bc6a926f1f2bf18c9467256b38fd78316d07a10a08e1869f454d8a85cc393cebf38c2fc8b66a512020959c5aae8477365aff88c839a847cac
+Description: 去开屏广告及部分豆腐块广告，测试版本：9.00.46
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.0-5
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.0-5_iphoneos-arm64_895a618f955718331a6b1772be7ebae81a24eb1f8d984ba9f8918ffa2c162ea0.deb
+Size: 3688
+MD5sum: 091f8321b8dde619288e2165488dae42
+SHA1: 350df2c2952ee7c3a325babb971cc8cd1853271f
+SHA256: 895a618f955718331a6b1772be7ebae81a24eb1f8d984ba9f8918ffa2c162ea0
+SHA512: 37ce66601c4787fece806918181c8129cf3e162bad122f23bf17d489fbb92692b94cc7f3f4a99dd87b72cb9064c3c3986c26d9a7e2183032760b85834a2d5214
+Description: 仅去开屏广告，版本：9.02.70，去应用内广告需走定制（目前比较完美 暂停广告/瀑布流/横幅/等等一些基本干掉完了），接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.1-2_iphoneos-arm64_505986010fe65bcbefdbda02025f85b6e15a0dd8a20f756e4660b04df705cecf.deb
+Size: 5184
+MD5sum: ea5265a2bca6e9d9fb3efd5b81042892
+SHA1: 4b9eea06d3def70954caa6286f88d75892f42431
+SHA256: 505986010fe65bcbefdbda02025f85b6e15a0dd8a20f756e4660b04df705cecf
+SHA512: 8ece739b1f6b067f0bdc458233813544de00ff303dcbea51a014c986357856830b22468ea4d556902be1688db17ea24fd7582cdcd8bb99e176eff4956031b8ca
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.80，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.1-5
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.1-5_iphoneos-arm64_88b5395b700e7adc8cb9b7303cc5e365eae98877a65b8f5c63057c5e27250871.deb
+Size: 5184
+MD5sum: 4f6dd7cf04d4b9b02f337fba1aba60c5
+SHA1: 651bf9f12a699b2fb1aa94fc1e7db7600bfa2113
+SHA256: 88b5395b700e7adc8cb9b7303cc5e365eae98877a65b8f5c63057c5e27250871
+SHA512: d3ae098cc031e98243ee4f76e3adac097b393e9ccd116f6077815082c64a377dc6daa4844f660ba3cd91d5f58908faef6d855c42a9a28b12094d029dbaca1371
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.85，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.1-7
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.1-7_iphoneos-arm64_0548ee698f80913e48a9a211141c673fc861171d8c27818fe0f1e96abe740e3a.deb
+Size: 5220
+MD5sum: 77e4f7a39c7e636dd7e1fcec08516ba6
+SHA1: 00b73d46d1b33c44bb3e181e1f71b4e3b2bdfb86
+SHA256: 0548ee698f80913e48a9a211141c673fc861171d8c27818fe0f1e96abe740e3a
+SHA512: 8a0f3601b9ea8bb79afdb9b729f78ed03c4a2872565ee225b643d13bc895a5345ede901e78294f8d4d4e5090c9e9bee28a8027147288c22f84d2204844b04e91
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/修复短剧页面没有状态栏的bug/版本：9.02.95，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.2-0
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.2-0_iphoneos-arm64_54e0baad7e4217176efbc81a50a3334ded04dfa4c237fdc3e0016e17fc953427.deb
+Size: 5184
+MD5sum: cd9634245a328aec9b7433020de514ea
+SHA1: 73df85620e0ab9096dbdb9da250a12836fd540e2
+SHA256: 54e0baad7e4217176efbc81a50a3334ded04dfa4c237fdc3e0016e17fc953427
+SHA512: ceee19cde2729d7a737f6d5361e14ecb441eab0a72665f283bd95865dd5e46ecaa5152a6880222114f3bd8c31cc8ac89f7dfb8748907f8f4a88e922b5358d321
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.05，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64
+Version: 1.2-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txsphook_1.2-1_iphoneos-arm64_e224bcc45733e804ba57d04c3b01188e507abd4b9f4baa0a938dafc4da3cd1bb.deb
+Size: 5184
+MD5sum: 61fcf92d1de6f08f498fe39f1a14c7d7
+SHA1: 000996b1b56fa9c2744bf37c3c77c915cb8dec4f
+SHA256: e224bcc45733e804ba57d04c3b01188e507abd4b9f4baa0a938dafc4da3cd1bb
+SHA512: 64f0dc0d1f44e83657722451015274661c9c9fdc8985e3fecc116660bae1b321f0ac17453a07c4f0dc7b16f98be5c62c581ee71b7c727b91b81f4ef46d16cd06
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/12/c74f8e9014b397f813069c488591aca5.jpeg
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.0_iphoneos-arm64e_9cf36f9558d87fa4be4eb2ae0d6f36b74791f8a1dc6249f3945b6e9cc27edd0f.deb
+Size: 7388
+MD5sum: 482ae7f7550c8589e755fc7f52d2179f
+SHA1: 8cd536172a9ec7d5a2293752dc8149cc07b988a2
+SHA256: 9cf36f9558d87fa4be4eb2ae0d6f36b74791f8a1dc6249f3945b6e9cc27edd0f
+SHA512: 0ad43dc18b158d1767c3bf8879af54cf0b0493d603ad75a9069127912b70e9bc687d8939bc5589831bc49521f3213728fb7f92ca4d5de58fcf15b5d8fae23941
+Description: 去开屏广告及部分豆腐块广告，测试版本：9.00.46
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.0-5
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.0-5_iphoneos-arm64e_d30acd72053fd8651a797fe09cf7319281ae9e2f45aeac2e287ecadc8b4e994e.deb
+Size: 5414
+MD5sum: ae7c8f3fedccaf9578834e8e8e30a38f
+SHA1: ccc37293c3ef8dd5a9997ee58070bcc1d83f19ad
+SHA256: d30acd72053fd8651a797fe09cf7319281ae9e2f45aeac2e287ecadc8b4e994e
+SHA512: a6119dcaab7680cab66e34bacb21c61a90c510121f28de63dab71755c67831abfc1b6f0277dfd4de84be077733d818d380fd13f0a9d93b937c8fd398fe4271d9
+Description: 仅去开屏广告，版本：9.02.70，去应用内广告需走定制（目前比较完美 暂停广告/瀑布流/横幅/等等一些基本干掉完了），接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.1-2_iphoneos-arm64e_f8ad9d26f22138947842d015ac1e982b875f21c1ca59b258b7bbd2e66656f908.deb
+Size: 7256
+MD5sum: 7057dea83a1410966e893cacc998b281
+SHA1: 37dd05d2c561393624931cfdb4d39567ff90c3e0
+SHA256: f8ad9d26f22138947842d015ac1e982b875f21c1ca59b258b7bbd2e66656f908
+SHA512: 36b897d2af7b7aeed478dd8fc22e7436529f79d20a94feffac2ce6b18c262836b01d10934548b60983ff7c28422c3fb194ab3396ddbfd00ddf8645661df48c98
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.80，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.1-5
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.1-5_iphoneos-arm64e_be2548f02aa0a9a869fe9d9e9753be55864fd575c52e632ca510159ca31e72d6.deb
+Size: 7262
+MD5sum: ff96897e217724f867625df5f6e2180e
+SHA1: ef167ad0303e82d4ef5874ce188f30c429c918e9
+SHA256: be2548f02aa0a9a869fe9d9e9753be55864fd575c52e632ca510159ca31e72d6
+SHA512: b91d95436872157a577e848c6e71a45a3ef2f90d9316d51c28901f66e225db16765a7cc4251410614c7dd9c89f1e7c8c0fabb4d1ac7481d5762b5506181165ff
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.02.85，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.1-7
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.1-7_iphoneos-arm64e_6290c10225675316eec6ebe410402fc572c94f733378fbff4e79d5dc980df8d2.deb
+Size: 7324
+MD5sum: 36967fc9c11d72d04de0a84d9f330d37
+SHA1: 6068709c58454356f8fab73cd4b4c72e764308b8
+SHA256: 6290c10225675316eec6ebe410402fc572c94f733378fbff4e79d5dc980df8d2
+SHA512: a2c67f1a5333b671d6ea70c9bcedd1b17abb120175b4d4457ab8df19cd95e28947fdbf5bdb2c4b70501e5f4fcc19c461742612827754a04ce9e6f8e5a723ab87
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/修复短剧页面没有状态栏的bug/版本：9.02.95，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.2-0
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.2-0_iphoneos-arm64e_8906d909e4f0d9b7b6b9a241cdb7aee6bc70b405e81d9fecd67c1595e55ec225.deb
+Size: 7266
+MD5sum: 272ac8232a8674d979e28bd7f6aaed4a
+SHA1: a5184e88318289c8004b758f12bd8b03996f2332
+SHA256: 8906d909e4f0d9b7b6b9a241cdb7aee6bc70b405e81d9fecd67c1595e55ec225
+SHA512: 36a63f3d031eee1c8e86cf9434c1e00f4547cec5705410d4c1e34d5b9915780719134a9c7e2eb8fcfc04dd148f4db4c82c5f60c957d8661830dc73443f976d09
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.05，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/06/dde5946f39d42917d28148d8f1a07901.png
+
+Package: com.wkk.txsphook
+Architecture: iphoneos-arm64e
+Version: 1.2-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txsphook_1.2-1_iphoneos-arm64e_9e5908994297519ddead656ad93064e3942cbb2a8367cfed034c256c5c1e18de.deb
+Size: 7262
+MD5sum: b17e3f0da824b0a255c9a8b7829a19ee
+SHA1: 45d9e96e020906bd35a3e9d367bed596a7befe73
+SHA256: 9e5908994297519ddead656ad93064e3942cbb2a8367cfed034c256c5c1e18de
+SHA512: 6fe85b13bbcdad85641eada2e9f9104cd394f34d9fbaa7d11925994a4ddf2bf1a7e8bad473b368ac9a3503f2c49d3dc8861e9e58db3a3ed5f60e816fb2d989a3
+Description: 去开屏广告/首页横幅广告/首页信息流广告/首页下拉广告/暂停广告/播放中广告/视频启动广告/视频播放页面下方插播广告/我的页面广告/版本：9.03.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯视频NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/02/12/c74f8e9014b397f813069c488591aca5.jpeg
+
+Package: com.wkk.txtyhook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.txtyhook_1.0-1_iphoneos-arm64_b63866d3220830bdb1b107a6a0929d61abc89c898867b6645db6c8b29ac9d902.deb
+Size: 3492
+MD5sum: fe94397d74cf8ad2796977e6cddaa32b
+SHA1: c83adca37a07c025338966e702bb864ff4d0aea4
+SHA256: b63866d3220830bdb1b107a6a0929d61abc89c898867b6645db6c8b29ac9d902
+SHA512: 2405e2dc41e6007b52ced36da237c1bb6c6a598bdc4b99083ca5a16ed5d27f34dc9e613da3c57361647a6d2896be2e0c5d6fbc835ad00dbd2b0ce816b900d493
+Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯体育NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/e7f05d5ae0dd964c58131ab814df26d3.png
+
+Package: com.wkk.txtyhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.txtyhook_1.0-1_iphoneos-arm64e_3f073484b36df4c7f878ba02b4c998abcf597acd9674d6cb09981b2d266c5a3a.deb
+Size: 5042
+MD5sum: 276c2919c3b4e13a82ba49557c45390e
+SHA1: d28eaddd4cfb8465bda3ce90987616f2b70ea28c
+SHA256: 3f073484b36df4c7f878ba02b4c998abcf597acd9674d6cb09981b2d266c5a3a
+SHA512: 3afd1b3437d9492d1dd5564730a6ef66a686305d1deca1f8b5adbfda5c5d58e044c83710993fccacab3371277fd4ce6f91cb810815ea21ce864b69f03e1ee7fb
+Description: 去开屏广告，版本：7.8.90，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯体育NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/19/e7f05d5ae0dd964c58131ab814df26d3.png
+
+Package: com.wkk.tzgjhook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.tzgjhook_1.0-1_iphoneos-arm64_09fd3785f5255c7128b8e9e239703091ed6940c88f6a508fd4699304d4b4ce54.deb
+Size: 3452
+MD5sum: 2d95353273a1840a41d03ef75f61567a
+SHA1: 619463d094a482936404efe1dd5826b375ef933c
+SHA256: 09fd3785f5255c7128b8e9e239703091ed6940c88f6a508fd4699304d4b4ce54
+SHA512: 06ed158420f547e6357ca488f9b58809d09536297c64baea6d1bed285e79b014c453e05f34bf05b3499c5b3df8b6807f1b707c63c486d846e5082a4ade4f69c1
+Description: 去开屏广告，版本：16.5.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯手机管家NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
+
+Package: com.wkk.tzgjhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 去广告
+Maintainer: wkk
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.tzgjhook_1.0-1_iphoneos-arm64e_9ec929ca58edbc2ef3bd47dfa890c368736b0fc7b202bbe9e371e1763b05988c.deb
+Size: 4982
+MD5sum: 0779ade17299a05cc3a87ae37b9e6aef
+SHA1: 9df0839ddd7b49d08b6ef8cfd445fbe397f9b858
+SHA256: 9ec929ca58edbc2ef3bd47dfa890c368736b0fc7b202bbe9e371e1763b05988c
+SHA512: 3ca2b48b370e0eb7935d007b2ae1f2209d531167d11aba6b6dd0aecd4c67d78f573c82dd1c1592fc0ad8b10ce8a1906dfde39987a6b759239f5e1c01be98359f
+Description: 去开屏广告，版本：16.5.11，接大量冷门热门app定制去广告/去更新提示/精简app等业务。联系qq：1772773799（如果源内某些去广告插件下载deb安装不生效，请选择用TrollFools注入）
+Name: 腾讯手机管家NoAds
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2026/01/19/c257ee018d2f3cd556765003ed904364.png
+
+Package: com.wkk.uitchook
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.uitchook_1.0-2_iphoneos-arm64_ed0f4a3dea2b3377ff0b9fe090bcbdae8025b0d020b9c5ed5a6921408d5f3713.deb
+Size: 7564
+MD5sum: c16826dc54077feaacba1d232eda3a41
+SHA1: 320d5702874aa71a5416ec933b4bbc2d078e61e1
+SHA256: ed0f4a3dea2b3377ff0b9fe090bcbdae8025b0d020b9c5ed5a6921408d5f3713
+SHA512: 2769ca482bcaea2aa0689537e5956a9599298a0f4c2cde0c670649492bbb802477425dc52f77e33bdeaddf420a38312052dce99e82ec25c609f6a04b8885d6f9
+Description: 系统的弹窗美化/去掉分割线/点击外部关闭/需要注入自己喜欢的app（不要注入系统级app和springboard/UIKit）
+Name: Beautifulwindow
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.uitchook
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.uitchook_1.0-2_iphoneos-arm64e_1f67f931f674ed2615ab21a7cbd5d77f8ad9c83565dc86b1ce430765ecaa6b8f.deb
+Size: 7456
+MD5sum: 2121a5f4b055dee1ed76e6fe4e5c8974
+SHA1: e79900790ac06bf6b7bc0c44445f283ae5845254
+SHA256: 1f67f931f674ed2615ab21a7cbd5d77f8ad9c83565dc86b1ce430765ecaa6b8f
+SHA512: 2662cb01cb25053064593e1171ef875ed557043e236de3972c9985337843201106dcf6ca93476559fccd17129a7f269775c8cab94b6337e633b2f74d5c7430b5
+Description: 系统的弹窗美化/去掉分割线/点击外部关闭/需要注入自己喜欢的app（不要注入系统级app和springboard/UIKit）
+Name: Beautifulwindow
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.unseen
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm/com.wkk.unseen_0.0.1_iphoneos-arm_475cc5f46e5a422505ee6abc2ee3e82ecd71992dd0ab835948e98ea796447f93.deb
+Size: 42844
+MD5sum: d2dbdd9a9831d6060fe2e4f0f2cfbb3d
+SHA1: f0157dcb586ea34e9091c1597c339172f692515e
+SHA256: 475cc5f46e5a422505ee6abc2ee3e82ecd71992dd0ab835948e98ea796447f93
+SHA512: 2b30e0caefab7dbe5e44fa13ca0fe2a57173ed4ae5d5b009419e7874bc4d1725ffea849b43cab07fbdafbe62ecc99bb4a9e7cf7908dfb1f0511a4ad26c423cc3
+Description: Unseen 是一个用于降低普通 App 对截图、录屏和隐藏图层标记的感知与干扰，在 iOS 15.0/16.x/18.3 上测试通过，支持 arm64/arm64e 设备。
+Name: Unseen
+Author: 82flex
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.unseen
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64/com.wkk.unseen_0.0.1_iphoneos-arm64_e226570c730f35fb023f0b7ee2ceac44dc2439bb2369e56d2505cafa99ea47ba.deb
+Size: 42904
+MD5sum: 6c8a96648f4c5d6461146f3c3e8ec3b5
+SHA1: 1fe0785b9869182fb621a00afbdf4adc0eae2be4
+SHA256: e226570c730f35fb023f0b7ee2ceac44dc2439bb2369e56d2505cafa99ea47ba
+SHA512: 7e49e390be817e3358c1cec828a70b2217bf9333628487f2773f8c96adb8614bef841caeeaf51a45d6837ca0122c4acaf2b28230c3442ef04303d3fa0aaf507c
+Description: Unseen 是一个用于降低普通 App 对截图、录屏和隐藏图层标记的感知与干扰，在 iOS 15.0/16.x/18.3 上测试通过，支持 arm64/arm64e 设备。
+Name: Unseen
+Author: 82flex
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.unseen
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 82flex
+Installed-Size: 484
+Depends: firmware (>= 15.0), preferenceloader
+Filename: debs/iphoneos-arm64e/com.wkk.unseen_0.0.1_iphoneos-arm64e_f4f697ddf3097029e4964f841ad72c7ff000341d24d0aef4396b9581a3cbd09b.deb
+Size: 42832
+MD5sum: 54419014b4bba8afef848b3aaf4d8fc5
+SHA1: 3e6f05be5cd994755f6ba229116236fcda5da2a5
+SHA256: f4f697ddf3097029e4964f841ad72c7ff000341d24d0aef4396b9581a3cbd09b
+SHA512: 38c405ae2efabefd25e3ba72beb5e9f0d2957248ff1b1acc4d3a167ea68ef5ce7c317a700b8c5734bca973cc21156b21f14f50c6fa2c5037cf433238c720fb88
+Description: Unseen 是一个用于降低普通 App 对截图、录屏和隐藏图层标记的感知与干扰，在 iOS 15.0/16.x/18.3 上测试通过，支持 arm64/arm64e 设备。
+Name: Unseen
+Author: 82flex
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.upsidedowned
+Architecture: iphoneos-arm64
+Version: 1.1-4
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 156
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.wkk.upsidedowned_1.1-4_iphoneos-arm64_2ade1a2876b717d9b15ff33759be332490b2db335a95979a1bdbdad457e3ef74.deb
+Size: 4704
+MD5sum: d9f2497e0498c418fa215d12a121bde7
+SHA1: c58823c8e5218f12cef3b5a0d6e25d037d0f1477
+SHA256: 2ade1a2876b717d9b15ff33759be332490b2db335a95979a1bdbdad457e3ef74
+SHA512: 9ed8f40dacca03624917747fc9c4da4a463652645e22893bb2ca1147810f06bbb7d8bf8c1faf05b57ea7c1fc2d62957b4fe8e06dff3c17d628ff0d8af699e077
+Description: 手机颠倒显示。禁用锁定方向后手机倒过来即可。
+Name: Upsidedowned
+Author: 34306, KhanhDuyTran
+Sponsor: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.upsidedowned
+Architecture: iphoneos-arm64e
+Version: 1.1-4
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.wkk.upsidedowned_1.1-4_iphoneos-arm64e_f951f813e8feca77342e791c9d50e8c1cd37fb68fec42bf14970a09c9b4a0484.deb
+Size: 6318
+MD5sum: 20729cec0960b3a9152550861fb12945
+SHA1: 03e6a4fbd89126c0a15c46ea6ce6443f6980e49f
+SHA256: f951f813e8feca77342e791c9d50e8c1cd37fb68fec42bf14970a09c9b4a0484
+SHA512: 1787728d434250982023671da121ffa3e7c8765380628aec25bdb5cac07c039402bbd2f6de96d26368c115720845c5ec154942543cf56ada8bc4f00d0d6f9604
+Description: 手机颠倒显示。禁用锁定方向后手机倒过来即可。
+Name: Upsidedowned
+Author: 34306, KhanhDuyTran
+Sponsor: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.verxina
+Architecture: iphoneos-arm64
+Version: 1.3
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 1400
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, openssl
+Filename: debs/iphoneos-arm64/com.wkk.verxina_1.3_iphoneos-arm64_3b8cd3a4e552f9c59e8c054c07572f83bfff24ed7f6393cba916e7e885e701b2.deb
+Size: 221500
+MD5sum: b8663f44bb0228ca9adfdbb1bdcd58d0
+SHA1: 759bc1426a73c70ad1da07c15f6312f6bf55fb69
+SHA256: 3b8cd3a4e552f9c59e8c054c07572f83bfff24ed7f6393cba916e7e885e701b2
+SHA512: 4748aefb80df9ba86739953fab4ffb19cf713e337518e03e040de3901b4c735c56dc85213f3f9821d19ab15c8701b998b6f2d5eb2d6690997c8f167decbc2638
+Description: Dock扩展插件，已汉化。
+Name: Verxina
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
+
+Package: com.wkk.verxina
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 1400
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, openssl
+Filename: debs/iphoneos-arm64e/com.wkk.verxina_1.3_iphoneos-arm64e_80f2905ef1a24cb79ca10562d423fcf5e794dbb38871bd26e27045f41eec7543.deb
+Size: 325748
+MD5sum: f580fb3bd111f6733869fd4ac07c9a74
+SHA1: 36dc3ff6e6597644533c5388540d94733672c34a
+SHA256: 80f2905ef1a24cb79ca10562d423fcf5e794dbb38871bd26e27045f41eec7543
+SHA512: 6d0b607c9fcc84fd4cdaafb09ee18e5bd3a6124926d5534066b79c7eb998b58d91be9e2670577b0eda9b46a2b3228fa6052971573bb9c08a0e468b27092a6932
+Description: Dock扩展插件，已汉化。
+Name: Verxina
+Author: uz.ra
+Icon: https://s1.imagehub.cc/images/2026/01/02/88b0ad22bd8a4810cfca6f7d3ffeaabf.png
+
+Package: com.wkk.volumeflex
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: Joshua Wheeler
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/iphoneos-arm64/com.wkk.volumeflex_1.1_iphoneos-arm64_a25f362199186a6e3294a81e5ab20682eb551fcc38f3f5eb5d811a4be3eafcae.deb
+Size: 830488
+MD5sum: b552625491b8811a587c1eb3fe61f743
+SHA1: 6dbf1a04939dc99aa41305d327ab49d3f2850633
+SHA256: a25f362199186a6e3294a81e5ab20682eb551fcc38f3f5eb5d811a4be3eafcae
+SHA512: 9934237be1b0a5cd7e6978eb97dd59db2e4776c48f93f1a1b5aeea78c058769aef3a3a8aff69c57eca859be54fab8f978ab3e01e66286791c4bee49f345519a3
+Description: 世界不需要另一个FLEX装载机，但手指胖的人需要。
+Name: VolumeFLEX
+Author: Joshua Wheeler
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.volumeflex
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: Joshua Wheeler
+Installed-Size: 4328
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/iphoneos-arm64e/com.wkk.volumeflex_1.1_iphoneos-arm64e_f3777fdf2dfd56a53275aa367b269f3d952e1d7d83aa571b2915bd9362ce9e6f.deb
+Size: 826340
+MD5sum: ac19ed3d9700d4e7d1d85b4eb78c1185
+SHA1: 53a49ea179afd44ade152c7ca6d5ae09bf904c02
+SHA256: f3777fdf2dfd56a53275aa367b269f3d952e1d7d83aa571b2915bd9362ce9e6f
+SHA512: f98bda6896e403f9ba9440ada414966cef992cb95320c2c7cb458a413fe9aaf3326c4761fbed911ef411ff9482bac4e189a812add5eb581ccf8f2ee6a3697da4
+Description: 世界不需要另一个FLEX装载机，但手指胖的人需要。
+Name: VolumeFLEX
+Author: Joshua Wheeler
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.vpnfhook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.vpnfhook_1.0-1_iphoneos-arm64_5be38f211cc058896c633e1dee2bd4b51bd4f620ce5caa36db2b64e87b827a70.deb
+Size: 3032
+MD5sum: 60e455ff1db7cd9adaba47bbf8a8afea
+SHA1: d518c7f79a6b76cdf69110a35c67fc49080eb5a5
+SHA256: 5be38f211cc058896c633e1dee2bd4b51bd4f620ce5caa36db2b64e87b827a70
+SHA512: ee4bfd7d60a989a9cb6b559db8fd6a8b431750a08eb243120e096047887c5bdd66087e3165bd730479f6405dac8e34525a9cf5e52734a4a5745dd1d15be57295
+Description: 禁用链接vpn飞入动画、控制中心vpn展示
+Name: 禁用vpn显示
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.vpnfhook
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.vpnfhook_1.0-1_iphoneos-arm64e_0969d71a13517c41f0f7b6756a650b49e4623716058eec17ace24c6e0bffc130.deb
+Size: 2972
+MD5sum: 6183242bce27ed8a2c180f85c4e1ce48
+SHA1: d04fe285652f0b367f1a8ea8daf0cd53749a4d39
+SHA256: 0969d71a13517c41f0f7b6756a650b49e4623716058eec17ace24c6e0bffc130
+SHA512: ae0a230bb20083f9550b388e8b01f22515cc2531b508ca5e5020b1cd740ce5759e80196da098655d246cf541df0f702312ae9f9300a233ec452c84d170aab03b
+Description: 禁用链接vpn飞入动画、控制中心vpn展示
+Name: 禁用vpn显示
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.wc3133
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Priority: optional
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.wc3133_1.0-2_iphoneos-arm64_f77595b4d3f09fbba6ed2b530df67fb4e6f351e07c071fcbfa5bcdfef3aec48c.deb
+Size: 5880
+MD5sum: 9674cbe89eb2fd8fe33488abc18b0a36
+SHA1: 93a3881fe01ffbea7c141f658c0cf26d3204c20e
+SHA256: f77595b4d3f09fbba6ed2b530df67fb4e6f351e07c071fcbfa5bcdfef3aec48c
+SHA512: bbf9bf977196d58e18257d3d4f55c52a47926146cdca47d86d62c2bb336be6d624ebb8eb84d837f792917e57e6c6f4229fe1710a247d8c36e5690feb28036a61
+Description: （有提醒，仅8031-8033版本）仅供学习交流，请在 24 小时内自觉删除。
+Author: wkk
+Name: 8031-8033单独防撤回
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wc3133
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Priority: optional
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.wc3133_1.0-2_iphoneos-arm64e_8a39172b6207db248a2157a328115e1972e60ed4e29d0937860dcafa0c9c16b5.deb
+Size: 7920
+MD5sum: b77344cd2950c5465fba8d6ee00397f8
+SHA1: 01bda313a4aa22d9784e38ce371e8042a719456f
+SHA256: 8a39172b6207db248a2157a328115e1972e60ed4e29d0937860dcafa0c9c16b5
+SHA512: 350cf22460fa22d25b87c78b5395a073bb679149c1837e5e7cc6b24f93f3c888dc4bcbf82e55f21949ca39ee7e012457ff69b9938104fc36956f83393b6a25e3
+Description: （有提醒，仅8031-8033版本）仅供学习交流，请在 24 小时内自觉删除。
+Author: wkk
+Name: 8031-8033单独防撤回
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcaddnotiheadimgswitch
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 944
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.wkk.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64_8f18a50b4ffe71ad2124d54a1f6e66e334c5a4fc765473d9085026b3907dc26e.deb
+Size: 468996
+MD5sum: 5cd09b4f50d1cb140bb41406ae37a4c5
+SHA1: 59988fd6e99b564dc8718739c20319906efb1db4
+SHA256: 8f18a50b4ffe71ad2124d54a1f6e66e334c5a4fc765473d9085026b3907dc26e
+SHA512: 23904770d1f02725efc4325887c8d8d4e85682adf770d26e11c0e81c3b2bc0b1d6abc26538bff33fc2c4522c86d852f9200484ba856929121c519f1d2dc98380
+Description: 得益于8.0.63开始微信就在Plugins中增加了推送显示头像的函数，检查了一下非8.0.67也有控制服务端是否开启的函数，为此给8.0.63-8.0.66的用户在设置中增加一个小开关实现和8.0.67TF相同的开关模式(让没有8.0.67TF的人也能控制上)
+Name: WCAddNotiHeadImgSwitch
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcaddnotiheadimgswitch
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 944
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.wkk.wcaddnotiheadimgswitch_1.1-2_iphoneos-arm64e_5c7973763be29eed8b31fa048386663f53198c8b20c2093f95187d067b5a26f3.deb
+Size: 621946
+MD5sum: db5981c2f14fe5de1d51627c9787491e
+SHA1: 187b21b2cd3b2390d953e7662df54942cdce5cba
+SHA256: 5c7973763be29eed8b31fa048386663f53198c8b20c2093f95187d067b5a26f3
+SHA512: 091a568286169ee96738b8b9b5966dbc6d4ae721066441b07cb22af7bf05749efc45b0f71b2b7b61748ffeafcc06ced16e0f62b09d8e8abdae4894e53350cc61
+Description: 得益于8.0.63开始微信就在Plugins中增加了推送显示头像的函数，检查了一下非8.0.67也有控制服务端是否开启的函数，为此给8.0.63-8.0.66的用户在设置中增加一个小开关实现和8.0.67TF相同的开关模式(让没有8.0.67TF的人也能控制上)
+Name: WCAddNotiHeadImgSwitch
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcfrostedglass
+Architecture: iphoneos-arm64
+Version: 1.0.5
+Section: 微信插件
+Maintainer: 苏苏
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.wcfrostedglass_1.0.5_iphoneos-arm64_99f312b508aab317ec6a511b8009548ba1804e8df799d52ce361e47f74a990b2.deb
+Size: 4864
+MD5sum: 3e8445cee2ee02a4b97ccfb6f692514c
+SHA1: 84e3e724850752b233b66bf0cf514f3455f5e66c
+SHA256: 99f312b508aab317ec6a511b8009548ba1804e8df799d52ce361e47f74a990b2
+SHA512: 1975756f72de8ca9113ffd2090a57b7c068bc1bef52b6175f94cce8522ed7f4d5e54bb6e11aada9ed332a56d09cb977857ce5bd5b25cf4e446bc1cfa46483235
+Description: 微信界面上下添加毛玻璃效果。
+Name: SuWCFrostedGlass
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcfrostedglass
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: 微信插件
+Maintainer: 苏苏
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.wcfrostedglass_1.0.5_iphoneos-arm64e_dff66359dd52d69839748e2e37d13130c3c767e2c0bbde35b6983e4ab41fec51.deb
+Size: 6500
+MD5sum: f4a74e64e365cf0f2e9b0523cc40c72a
+SHA1: f8e3dcec9e6242ab98974d4321d560bf82b7982b
+SHA256: dff66359dd52d69839748e2e37d13130c3c767e2c0bbde35b6983e4ab41fec51
+SHA512: 0064b18cb129982bdfbbcd2c255d796a510817e1f1ceea20b16b837c9367c7d263de4e50d20b4d0668bb7d9182cfe0eb31895fb73d34966f59f4fc79e47fa0c9
+Description: 微信界面上下添加毛玻璃效果。
+Name: SuWCFrostedGlass
+Author: 苏苏
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcplugins
+Architecture: iphoneos-arm64
+Version: 0.1-6
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.wkk.wcplugins_0.1-6_iphoneos-arm64_6880b48212633b149de7d8914e78a5778f0d31fee0d067ebf4e07ec6d8ce0674.deb
+Size: 13524
+MD5sum: 24cfbcedc6dfad84082adf124fc9334f
+SHA1: af2d9891710aec5081175c605e7bee38c12ca668
+SHA256: 6880b48212633b149de7d8914e78a5778f0d31fee0d067ebf4e07ec6d8ce0674
+SHA512: 65b647dd1beb43a4a799fad47b286a344f5f3f8ac5fa25bcfe7e360b0872caa24a08e519bc508750e4b3cff0968f837411d7c2950ee6ea45e228c11091b8b7b4
+Description: 修复热更新导致消失的问题。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcplugins
+Architecture: iphoneos-arm64e
+Version: 0.1-6
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.wkk.wcplugins_0.1-6_iphoneos-arm64e_1f28387272fcd515b8b61b80a7ce770cd05e92fd2bf5be160e0545d36f3fd84b.deb
+Size: 18170
+MD5sum: e2fb6acae78a6c0cfb58f52747277156
+SHA1: 9ff29fe11cead59f0d3ba619033f1a6eee74beae
+SHA256: 1f28387272fcd515b8b61b80a7ce770cd05e92fd2bf5be160e0545d36f3fd84b
+SHA512: ac8d0e38fe7a345e7fe440fd0e792b130f4f9a26ffbeb5a010be23389da6f40a2c3bc0aa998e6cd94778752fc5bcc69b70def48592b6b52b7facc605ca0c44b5
+Description: 修复热更新导致消失的问题。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcpureextension
+Architecture: iphoneos-arm64
+Version: 2026.04
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 23256
+Provides: netskao.wechatpurification
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Filename: debs/iphoneos-arm64/com.wkk.wcpureextension_2026.04_iphoneos-arm64_9e340054cf24b7b3f22560154cb3551c442648d3242d385cd4a232b9509c6b43.deb
+Size: 7991108
+MD5sum: a230eb413cf8240e6316cc19facb630d
+SHA1: 243f441adc42afbde2cac48f81eaf2bc65e58cf2
+SHA256: 9e340054cf24b7b3f22560154cb3551c442648d3242d385cd4a232b9509c6b43
+SHA512: 648385c84db8a12bbae5faa9e6c4034c8d4e7a255621ce506b6bbe5dbcbffcd33568844c417ae605f9683fe7627bcddb73cdeee6a2754ae6daa4c92afef39706
+Description: 免费公开无限制版本，带抢🧧
+Name: 微信净化
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcpureextension
+Architecture: iphoneos-arm64e
+Version: 2026.04
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 23256
+Provides: netskao.wechatpurification
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Conflicts: netskao.wechatpurification
+Replaces: netskao.wechatpurification
+Filename: debs/iphoneos-arm64e/com.wkk.wcpureextension_2026.04_iphoneos-arm64e_bdad3b08b5b45d239e320acd4a7af94e630d70ce16bb6c790d6b17a3ce8ebee2.deb
+Size: 22859684
+MD5sum: 38a2f450aa59de5b656fdd5e8e65d65f
+SHA1: 48d816701208fb27efd46b6b0e770b214415f2a6
+SHA256: bdad3b08b5b45d239e320acd4a7af94e630d70ce16bb6c790d6b17a3ce8ebee2
+SHA512: 121e2d065abf9a03d5c6f4725888d098839326aee9f703a2313c7049c7b276a60028ab1221d09a922e30d2b98030936f70e8a776f0a37d66e9b634eb3e85e71c
+Description: 免费公开无限制版本，带抢🧧
+Name: 微信净化
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wctimelinereplacefind
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 852
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.wkk.wctimelinereplacefind_1.1-2_iphoneos-arm64_707fe4999642643986896c04618a7fd6fa8aa57f44506f0bdf989b0d2451c804.deb
+Size: 348904
+MD5sum: 89ea3843496e5875e71fc00a4ed7abe8
+SHA1: b4416b3ea44bb61a64a46511ff48ba7c3158b3d4
+SHA256: 707fe4999642643986896c04618a7fd6fa8aa57f44506f0bdf989b0d2451c804
+SHA512: c81af7e18594448f91ca6b1be517af5dd4222ccf17c934f9f11c554e687a7414c68b9c2a604c14a627e1ee25f72319a68b99f90b10141828314c26baf08211ff
+Description: 使用朋友圈替换发现底栏。
+Name: WCTimeLineReplaceFind
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wctimelinereplacefind
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: 微信插件
+Maintainer: Nets
+Installed-Size: 852
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.wkk.wctimelinereplacefind_1.1-2_iphoneos-arm64e_1b69f0c89eee300da5c4fbf58b50b383e3db02ddf96e70ac9a943ae6e2a6fa0f.deb
+Size: 465676
+MD5sum: e355b0a9d794c5bf1512b6e32332b50e
+SHA1: 8394b4d319e1399cc4338f63096860d5b657a4b1
+SHA256: 1b69f0c89eee300da5c4fbf58b50b383e3db02ddf96e70ac9a943ae6e2a6fa0f
+SHA512: 39d61751d8ca94e43f60ba8fcb8da93ab53b0366321612958fc6c72ef622600fd9c856df4016e4f2d4c7dbc92af72a0ad4922045df1eaa37e02d562ecd307773
+Description: 使用朋友圈替换发现底栏。
+Name: WCTimeLineReplaceFind
+Author: Netskao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcvoice
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 微信插件
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.wkk.wcvoice_1.0.0_iphoneos-arm64_7971971c016dfee4da6c2e65623612d4f677d54837dbc76fbf2551b92442165d.deb
+Size: 56588
+MD5sum: fddb59047150c8d8536eab1a8aa64629
+SHA1: 07f9e3d2c8feaeb348e53c13b53a10002ffaac3f
+SHA256: 7971971c016dfee4da6c2e65623612d4f677d54837dbc76fbf2551b92442165d
+SHA512: 6a7f9912e6877b36a636d258aed878476f19085730fdfaf59c5e9409a20a68c8278513f29f8429700e70756d1a8118817058f2b22a4637374401fc430075e48a
+Description: 独立语音包管理插件
+Name: WCVoice
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcvoice
+Architecture: iphoneos-arm64
+Version: 1.0.3-2
+Section: 微信插件
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.wkk.wcvoice_1.0.3-2_iphoneos-arm64_d3515f0115c3223350bc9c1b3aa5c061a115b89f9c4e0038369c1f4412ac4520.deb
+Size: 91556
+MD5sum: c2e4ae81b57478ba1315d4473f991b5c
+SHA1: be915735a02c43e68c20f11b8c77169215e673d8
+SHA256: d3515f0115c3223350bc9c1b3aa5c061a115b89f9c4e0038369c1f4412ac4520
+SHA512: 13e1eed8678db56de548fd3ad4464bb393f2347ea484b9340c19e5dab391c258d21fdfa6633506c14835030aaaa4e96a04b8fab77016eb75b68dda6262d131cf
+Description: 独立语音包管理插件
+Name: WCVoice
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcvoice
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: 微信插件
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.wkk.wcvoice_1.0.0_iphoneos-arm64e_b5ee570004485b8708ac9a167ffc67904c5031e523cde7a95afb971de2ee3aa6.deb
+Size: 56672
+MD5sum: b621667f103f84b9898d8fc613f76078
+SHA1: 7a5aa225e35adc5ac35737ccf9fd614b5e4686c4
+SHA256: b5ee570004485b8708ac9a167ffc67904c5031e523cde7a95afb971de2ee3aa6
+SHA512: 27b6271c769cbcd4940eeab6db19f6f512646a1a4f0ada9886e258f48e0652de2f8540c2d418c50f77bcf5e2e41ff3bb935f0e618dc548013e0ddd72571c09cc
+Description: 独立语音包管理插件
+Name: WCVoice
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcvoice
+Architecture: iphoneos-arm64e
+Version: 1.0.3-2
+Section: 微信插件
+Maintainer: Meo
+Installed-Size: 340
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.wkk.wcvoice_1.0.3-2_iphoneos-arm64e_91bb15c9f9d4266c2190ac8278e3e25081f56075592b622e9b7686fc01b7afb3.deb
+Size: 125618
+MD5sum: 1ac56cba227321093bad64ecd5199c48
+SHA1: bc64bde5ce20def2c4ce32ba4542242d561730e9
+SHA256: 91bb15c9f9d4266c2190ac8278e3e25081f56075592b622e9b7686fc01b7afb3
+SHA512: 9077f6b6d3d23795e01eb262ae9730c8a4333e283d04e77ddd5b034b396942a9ad619ec7cc5a3bfdc49a3ac56dd6aca0521b40214adc113fc92f39a30c39f8fc
+Description: 独立语音包管理插件
+Name: WCVoice
+Author: Meo
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wcyyhook
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 168
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.wcyyhook_1.0-1_iphoneos-arm64_064429cf11c2dc8498fc22f0ecd0a7c30e1388cd564bfb1763942a9eb92e2d92.deb
+Size: 3064
+MD5sum: 82be0f3651dad605ef21512573f501c4
+SHA1: 92442f41227a01f376c7cd1e1a17fc09097c87e2
+SHA256: 064429cf11c2dc8498fc22f0ecd0a7c30e1388cd564bfb1763942a9eb92e2d92
+SHA512: bdfc1f38929354666ffdaa4ec40992ce024e45e678f91314828f9f2baae2c87d71a3a8426add8a2a250ee5bfb038b0469e5cf31682369cb73ba3035cfc194f1d
+Description: cool
+Name: 禁用语音转述
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
