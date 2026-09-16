@@ -177,7 +177,7 @@ def main() -> None:
     queued = set(known)
     for package in upstream:
         digest = package.get("SHA256", "").lower()
-        if digest and digest not in queued and "cydia::commercial" not in package.get("Tag", ""):
+        if digest and digest not in queued:
             missing.append(package)
             queued.add(digest)
     selected = missing if args.max_downloads == 0 else missing[: args.max_downloads]
