@@ -12,6 +12,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: sync-upstream-apt
@@ -21,6 +23,9 @@ jobs:
   sync:
     runs-on: ubuntu-latest
     timeout-minutes: 330
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     env:
       SOURCE_URL: https://wkkyy00.github.io/
       MAX_DOWNLOADS: ${{ inputs.max_downloads || '100' }}
@@ -34,21 +39,34 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y apt-utils dpkg-dev
 
-      - name: Download missing packages and refresh indexes
+      - name: Download, verify and commit packages in batches
         run: |
-          python3 scripts/sync_apt_repo.py \
-            --source "$SOURCE_URL" \
-            --max-downloads "$MAX_DOWNLOADS"
-
-      - name: Commit changes
-        run: |
-          if git diff --quiet -- . && [ -z "$(git status --short --untracked-files=all)" ]; then
-            echo "No upstream changes found."
-            exit 0
-          fi
-
+          [[ "$MAX_DOWNLOADS" =~ ^[0-9]+$ ]] || exit 1
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add Packages Packages.bz2 Packages.gz Packages.xz debs/
-          git commit -m "Sync new packages from Wkkyy00"
-          git push
+          remaining=$((10#$MAX_DOWNLOADS))
+          while true; do
+            batch=100
+            if (( remaining > 0 && remaining < batch )); then batch=$remaining; fi
+            python3 -u scripts/sync_apt_repo.py --source "$SOURCE_URL" --max-downloads "$batch"
+            git add Packages Packages.bz2 Packages.gz Packages.xz debs/
+            if git diff --cached --quiet; then break; fi
+            git commit -m "Sync new packages from Wkkyy00"
+            git push
+            if (( MAX_DOWNLOADS != 0 )); then
+              remaining=$((remaining - batch))
+              if (( remaining <= 0 )); then break; fi
+            fi
+          done
+
+      - name: Prepare small Pages site with links to archived packages
+        run: python3 scripts/build_pages.py
+
+      - name: Upload source index
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - name: Publish refreshed source
+        id: deployment
+        uses: actions/deploy-pages@v4
