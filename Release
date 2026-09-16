@@ -1,0 +1,8 @@
+Origin: Wkkyy00 Archive
+Label: Wkkyy00 Archive
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: Automated archive of https://wkkyy00.github.io/

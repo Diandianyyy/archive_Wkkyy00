@@ -1,0 +1,54 @@
+name: Sync upstream APT repository
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_downloads:
+        description: "Maximum new packages to download (0 means all)"
+        required: false
+        default: "100"
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: sync-upstream-apt
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      SOURCE_URL: https://wkkyy00.github.io/
+      MAX_DOWNLOADS: ${{ inputs.max_downloads || '100' }}
+
+    steps:
+      - name: Check out backup repository
+        uses: actions/checkout@v4
+
+      - name: Install repository tools
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y apt-utils dpkg-dev
+
+      - name: Download missing packages and refresh indexes
+        run: |
+          python3 scripts/sync_apt_repo.py \
+            --source "$SOURCE_URL" \
+            --max-downloads "$MAX_DOWNLOADS"
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- . && [ -z "$(git status --short --untracked-files=all)" ]; then
+            echo "No upstream changes found."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add Packages Packages.bz2 Packages.gz Packages.xz debs/
+          git commit -m "Sync new packages from Wkkyy00"
+          git push
