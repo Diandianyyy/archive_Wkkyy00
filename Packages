@@ -10110,6 +10110,24 @@ Name: SquidExtender配置
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/5d3f253f3ccddbc8c8bc3f13771a9af0.png
 
+Package: com.wkk.Systemxxxxx
+Architecture: iphoneos-arm64
+Version: 1.2-2
+Section: Tweaks
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.Systemxxxxx_1.2-2_iphoneos-arm64_f5f2fb15df670ab338ed0cdb4b8d61da73582c11c581db5d8b7412221e486ed6.deb
+Size: 1168
+MD5sum: c088840484e41f3f4c6a28af5844bd81
+SHA1: d74622f51353da8474d72e024f03af6f5c68332f
+SHA256: f5f2fb15df670ab338ed0cdb4b8d61da73582c11c581db5d8b7412221e486ed6
+SHA512: 16544bfb0a4d50b470b1ba5036382fce9e314fce2e1a88384f299471ad909a3278838f8a50e205d257dcd359c464949f7d136a2ccb36fdd892306a02b0bbe6bf
+Description: 全新的军刀插件，针对系统的增强与精简的集合插件支持iOS15-17（更换图标/文件夹布局精简/角标美化/相册增强/设置实用功能/静音vpn映射/全网都没有的mac运行指示点/禁用、隐藏系统内冗余地方等几十个实用功能）如果想加什么功能或者有好的想法，欢迎来我的付费群玩，源内所有蓝标插件仅付费群使用。
+Tag: cydia::commercial
+Name: 系统增强SystemX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.WCCC
 Architecture: iphoneos-arm64
 Version: 1.0-2
@@ -11365,6 +11383,60 @@ Name: WeChat自用气泡
 Author: fv群友
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 SileoDepiction: http://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/WeChatbeautifully.json
+
+Package: com.wkk.aaaaaaa9386373
+Architecture: iphoneos-arm64
+Version: 1.1-0
+Section: Tweaks
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.aaaaaaa9386373_1.1-0_iphoneos-arm64_04eea270f4985635601bb44ac40d940ac7d4f042df89f288befca12c39eb1ef2.deb
+Size: 900
+MD5sum: ac8c56923ea65bf86414cb4d5ee3de48
+SHA1: c036b294cbf7cd595aa422c518652c6bcaac3320
+SHA256: 04eea270f4985635601bb44ac40d940ac7d4f042df89f288befca12c39eb1ef2
+SHA512: e6f55f49eb3a6d3f963847351f48264379e339ec1558998796753aae3442ae61b7783c9345464841a9b0df94fa7f18b5c9c02af5b49947ee9793dbd22ca05336
+Description: 需要定制插件的朋友可以联系我QQ：1772773799
+Tag: cydia::commercial
+Name: 接定制插件
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.aaaaaaaaaa
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.aaaaaaaaaa_1.0-1_iphoneos-arm64_0d83116bad9634d3da43b8b3127beb71b0e34925a1ccae07d1f2e72e66eda6a7.deb
+Size: 972
+MD5sum: f9f83a3616ed5a6bc906625772c955a8
+SHA1: 92f540e1b7781e3f8545654186e04723bd9e49e6
+SHA256: 0d83116bad9634d3da43b8b3127beb71b0e34925a1ccae07d1f2e72e66eda6a7
+SHA512: 1bdff069c347dd1d500c64ef6a2b3c1882bd0bace4f56792af93ea2ed308665f9ffce8c8a587b4740c2d163fc8d7bceb2c26ec6894b8e3cdfde4c740c99c7926
+Description: 所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。
+Tag: cydia::commercial
+Name: AAAAAA插件配置说明（必看）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.aaaaaaaaaa
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64e/com.wkk.aaaaaaaaaa_1.0-1_iphoneos-arm64e_6c29d8ba7ae8adf6bec921c352027271030ee403cb1b389b67b354321e8da903.deb
+Size: 968
+MD5sum: b20ff68c781bb898dbdbc912adfd38f4
+SHA1: 879bb2bf012adfb00418cc304b1f5b7df662f368
+SHA256: 6c29d8ba7ae8adf6bec921c352027271030ee403cb1b389b67b354321e8da903
+SHA512: f60ee4643572ea756feec4c546a6015b5f784e39ba83978422216a82099f78fb6e56e1d04bcbd8fbd3c1d434a978427b8c2e19118f12e1247763d2a31e6e9039
+Description: 所有的配置文件下载后均在/var/mobile/Documents目录下（无根隐根都是一样的）下载后自己去翻即可。
+Tag: cydia::commercial
+Name: AAAAAA插件配置说明（必看）
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.actionbarreborn
 Architecture: iphoneos-arm64
@@ -14371,6 +14443,24 @@ SHA256: 97a9f97fc09e00cd93c2f6c7449adc2dbf3297bc135b6627b4d682c0c9f3eb79
 SHA512: 8f33c3a8d0ab47e346ae31f6aea08efbcd45abbd624b118dca47b28a25b01dd8b4dd2e9b87b6e54eef91a28539ee99ca658e19b556d330ce42273487148c27cc
 Description: 在键盘底部添加快捷按钮/App，已汉化。
 Name: KBApp
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.copylogx111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.copylogx111_1.0-4_iphoneos-arm64_3f152db82cc6944254679819922db8340d9c6574465b386d3e34cead69a037ab.deb
+Size: 1020
+MD5sum: 3bda453abb5cc43503dcb40ec1ee512b
+SHA1: dace5bab227e22d4ede9d73a4688854e1be688d6
+SHA256: 3f152db82cc6944254679819922db8340d9c6574465b386d3e34cead69a037ab
+SHA512: 1092334574633e33785ed63130c26e14f4d5b1e381bfa90675818e97f6bb52ee7c439193846f70a2be13aebd595d0d6b8caa81f4eb00f67e7dba6c8c2ffec385
+Description: 一款可以拷贝文件/图片/文本/屏蔽越狱使用且支持 iOS15-17 Dopamine/relaxin 越狱的剪贴板，诸多功能自定义程度高，付费群使用。联系微信：chn137
+Tag: cydia::commercial
+Name: CopylogX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
@@ -18870,6 +18960,43 @@ Name: Hideiconx
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 
+Package: com.wkk.iconxxxxxxsf9988
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.iconxxxxxxsf9988_1.0-1_iphoneos-arm64_a92d60b21f524abadff308761cea6eeccb5256163c1b2999fcead130ab2e29ec.deb
+Size: 956
+MD5sum: 077c1c81ee8449b15e6af8c5270bd1cc
+SHA1: 059f41accf401ccd8f9d2ac510908245446a2f58
+SHA256: a92d60b21f524abadff308761cea6eeccb5256163c1b2999fcead130ab2e29ec
+SHA512: 54f85cd086a03584fd1176482e7ae7bdbed7b74b91aebad2d845470b1783aa41f79e45d30e5323be3855307b85b6cdaf956d67c1ede0e11a4f53fe6ea2e66796
+Description: 对打游戏的人会友好，火力全开，帧数拉满，不会保存录入视频，付费群使用。
+Tag: cydia::commercial
+Name: 长按锁屏键假录屏
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.iconxxxxxxsf9988
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo
+Filename: debs/iphoneos-arm64e/com.wkk.iconxxxxxxsf9988_1.0-1_iphoneos-arm64e_78f4911d3c51c0aec0e29c197858e2ef7222b4d3b5622a7d54a10f244a84fb02.deb
+Size: 1474
+MD5sum: 706daf7939f7fc5a4889562646549146
+SHA1: ca33c5d5ba4804daa279a2b0009caee42e068fdb
+SHA256: 78f4911d3c51c0aec0e29c197858e2ef7222b4d3b5622a7d54a10f244a84fb02
+SHA512: 533253ae50c3d5bb6124a0a4ec9e14bb37ceb1d3700984792ef8d2fc4a994790108c9e88fd1a36cc4553d3f03fe92db1bf40f968ef1de521a5557688a802e2f9
+Description: 对打游戏的人会友好，火力全开，帧数拉满，不会保存录入视频，付费群使用。
+Tag: cydia::commercial
+Name: 长按锁屏键假录屏
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.imaotai
 Architecture: iphoneos-arm64
 Version: 0.0.2
@@ -19411,6 +19538,24 @@ Name: 煎蛋NoAds
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/11/13/d28585960f4bc4a305056b866fdb93c9.png
 
+Package: com.wkk.jjjddzz111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.jjjddzz111_1.0-4_iphoneos-arm64_483f17418228253f8a15981e2d8439df7d889e6f63cb391d17b3e072b6dd706b.deb
+Size: 912
+MD5sum: 8c6f7f526877a9c99d27fe3429dc9b07
+SHA1: 8ac62c141a0531f3504e5f44de0852f349a365dc
+SHA256: 483f17418228253f8a15981e2d8439df7d889e6f63cb391d17b3e072b6dd706b
+SHA512: a9074389fd0df4f368267f678a24718ee56751a1fdd31a87ed8143b52aff256e5f79a53103b8ab676fe8c80e40b87567918342fdb8bfdf560ba87ac42ef3a860
+Description: 联系微信：chn137
+Tag: cydia::commercial
+Name: 接定制插件/app/小众功能/强迫症功能等
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.jumpselect
 Architecture: iphoneos-arm
 Version: 0.0.3
@@ -19792,6 +19937,42 @@ Description: 去广告，版本：4.4.8
 Name: 口袋记账NoAds
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/07/dacca7f3b761a15a509e6ea110815a1b.png
+
+Package: com.wkk.keyboardx111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.keyboardx111_1.0-4_iphoneos-arm64_1c5f017f66d4a03b2235bf75e1e66b35da44364d170afdebec5548ccb2f1016f.deb
+Size: 1032
+MD5sum: f28e0677cf2b6890615969aa66c83cfe
+SHA1: 6371e9cfb84276ae17a24648e30395156e9c3282
+SHA256: 1c5f017f66d4a03b2235bf75e1e66b35da44364d170afdebec5548ccb2f1016f
+SHA512: 1ab8853ee5f70d044e652f472545dc39783744cc61c04f6739f3c0460e79e6651b3061232fb2d4c480a76c201ea728fc07942621994a098f4fb20a70b0535d8b
+Description: 一款仅支持15-17Dopamine/relaxin 越狱的使用的键盘多功能调整插件，诸多功能自定义程度高，并且支持所有三方输入法候选词颜色渐变，付费群使用。联系微信：chn137
+Tag: cydia::commercial
+Name: KeyboardX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.keyroundxxxx
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: Tweaks
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.keyroundxxxx_1.1-3_iphoneos-arm64_e8a828a167a41eec42843d59cc186d11da58f65ff3afd4428265c71d72d1aae1.deb
+Size: 1028
+MD5sum: 97709271e3a669244bca6772c2de3278
+SHA1: 282449cf6bb20b4bb35ca45e582f22b166fe1b5b
+SHA256: e8a828a167a41eec42843d59cc186d11da58f65ff3afd4428265c71d72d1aae1
+SHA512: bd4235eb1fd31d0fe7b4389844cfac2fd75a3f1968ca18ec419fb56dd21bcb8e878b5707cc1c4ff19ad75f4afbbf136ce182f9062ee37107f67b730a7ac114d7
+Description: 针对原生键盘与微信键盘输入法的调整：键盘圆角/键帽圆角/原生、微信侯选词渐变/微信键盘背景色/键帽放大/全输入法外部圆角/隐藏某碍眼位置等/后续可加更多调整，付费群使用。
+Tag: cydia::commercial
+Name: 微信/原生键盘调整
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.kghook
 Architecture: iphoneos-arm64
@@ -21727,6 +21908,24 @@ Name: OneSettings
 Sponsor: wkk
 icon: https://sini921.github.io/repo/sileodepiction/icon/onesett.png
 
+Package: com.wkk.onestepx111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.onestepx111_1.0-4_iphoneos-arm64_d4f063caa064db93d10e06dbd00d3c788b8090913ca09dcabfe9432a79f48b5c.deb
+Size: 1004
+MD5sum: 2c50ef605d70733a7605784c64863b99
+SHA1: 3615724c53b5f05da94878837457f8dea5d39a5f
+SHA256: d4f063caa064db93d10e06dbd00d3c788b8090913ca09dcabfe9432a79f48b5c
+SHA512: 6a0fd869dae2c253147dfc6e8e94ce719a1e7c5551b1593f7a3e5e22b8988467a80977682cae3468cd152f5ba8c1a55063e30564520d64646c8d78c30fa4eda3
+Description: 一款仅支持17.0-17.3.1 Dopamine/relaxin 越狱的使用的手势插件，致敬 SquidGesture Pro，诸多功能自定义程度高，付费群使用。联系微信：chn137
+Tag: cydia::commercial
+Name: OnestepX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.pancake
 Architecture: iphoneos-arm64
 Version: 2.3
@@ -23055,6 +23254,24 @@ Name: 汽水音乐NoBottombar
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
 
+Package: com.wkk.qugg111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.qugg111_1.0-4_iphoneos-arm64_65bff9e128f3fbc8552522ba4337b81a50b27674bf183beb9386ddb2511bd391.deb
+Size: 984
+MD5sum: 78903f5f093d10ba4f4ef61b8b922480
+SHA1: a629d56c524fe8221c49f54ddeee7069b3658a4a
+SHA256: 65bff9e128f3fbc8552522ba4337b81a50b27674bf183beb9386ddb2511bd391
+SHA512: e6578adde95b8e15a2c8f0708aea67d202d77bcb2e0850f0c79a1fa5e4b421fd60861d9710f76ffdc7a8287980e5bbd2e9542f1506877eeae7356fa68bef073f
+Description: 付费群可用，涵盖市面上全部主流 app 去开屏广告/去应用内广告（别拿单纯去开屏广告比 没得比 去广告不止开屏广告）联系微信：chn137
+Tag: cydia::commercial
+Name: 去广告200+
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.quickprefs
 Architecture: iphoneos-arm64
 Version: 1.3.3-1
@@ -23196,6 +23413,24 @@ Description: 使手机在锁屏状态也可以继续录屏。
 Name: RecordAnywhere
 Author: Muirey03 & lclrc
 Icon: https://s1.imagehub.cc/images/2025/01/01/c3110e355896fd626f9d73247b5fab38.png
+
+Package: com.wkk.recordeyex111
+Architecture: iphoneos-arm64
+Version: 1.0-3
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.recordeyex111_1.0-3_iphoneos-arm64_66512a3d2202e83488836c8d40f7a3f28983367b91d7a7b726cee1297d98e972.deb
+Size: 1032
+MD5sum: 6602baf245d89aaf8968bdf2fe03eb42
+SHA1: 73dd879a89489da4ed87fce02581ad5328da1740
+SHA256: 66512a3d2202e83488836c8d40f7a3f28983367b91d7a7b726cee1297d98e972
+SHA512: d88316c067d47306586136d3618ed808c3cf6722eb5c2160ef068da1ee5f9052cb27c75a6a26aef2e49be68d7d821f63c60c97143a07d45389de3aeb45415838
+Description: 一款仅支持16.0-17.3.1 Dopamine/relaxin 越狱的使用的录屏写轮眼/替换音乐专辑插件，诸多功能自定义程度高，无任何打断，单独 udid 授权15。联系微信：chn137
+Tag: cydia::commercial
+Name: RecordEyeX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.recordpause
 Architecture: iphoneos-arm64
@@ -23343,6 +23578,44 @@ Description: 随机打乱锁屏密码。
 Name: Rode
 Author: rootfs
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.roothide
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64/com.wkk.roothide_1.0-1_iphoneos-arm64_9741f425c19357f16180d48d5ea366ab4dd856f1093e2c1ae2b08d78d0ca698c.deb
+Size: 5968
+MD5sum: aaa3d67138b01c588ca4f5ec2fa8a204
+SHA1: f0fff9bb925f34afdfc1dfb6e21b116d29f95eac
+SHA256: 9741f425c19357f16180d48d5ea366ab4dd856f1093e2c1ae2b08d78d0ca698c
+SHA512: 242e2a98e01b742f7ed43d611f4564a252d4dd5217eb3889675e9178ed934fc391d432f105ac97eec6ab81d99c0be359688b1f4b2c68bbd11ac2a6078292aa9e
+Description: 挂vpn查看。
+Tag: cydia::commercial
+Name: AAAAAA无根转隐根提示残留解决办法
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
+
+Package: com.wkk.roothide
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64e/com.wkk.roothide_1.0-1_iphoneos-arm64e_d659938252066ba4f3229df9ae15a46ddc5f149e726b411f6c4a67f7d86cbe02.deb
+Size: 5968
+MD5sum: e059ffae2a46a66226fa66a9aa2d03aa
+SHA1: 9771882bfa95dd3335a01f322c42c7fb69514eba
+SHA256: d659938252066ba4f3229df9ae15a46ddc5f149e726b411f6c4a67f7d86cbe02
+SHA512: a84466e8ffaef8781cd48693330a42636b97d0b16ab9d56d673400befa39a72339430adbaec69d5407c38cbf137ab2676d754a21236335b07868e90a714fd8f2
+Description: 挂vpn查看。
+Tag: cydia::commercial
+Name: AAAAAA无根转隐根提示残留解决办法
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
 
 Package: com.wkk.rose
 Architecture: iphoneos-arm64
@@ -24528,6 +24801,24 @@ Description: 用这款传奇的插件重塑你的原生键盘，自带我的预�
 Author: MiRO <tweaks_support@miro92.com>
 Name: SwipeExtenderX
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: com.wkk.systemx111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.systemx111_1.0-4_iphoneos-arm64_db76c2b21e3a5ca53879f916c621d60ed671d54d29a3078cc32718a10fa962eb.deb
+Size: 980
+MD5sum: 65f614e55453b46955a4ad5ad4b95735
+SHA1: 761d8f27482723129d3ae2b8c9c2e8cbe002c6d1
+SHA256: db76c2b21e3a5ca53879f916c621d60ed671d54d29a3078cc32718a10fa962eb
+SHA512: 1b362f76fac5ad156b50b47f0cd2cf27458c5c864da05e2ef0144ed7a1e04c79ac8a7a66a9344a5a79959c17923bf79e0933c1778df22d34a3f6b6219de18e5a
+Description: 一款仅支持15-17Dopamine/relaxin 越狱的使用的系统军刀插件，诸多功能自定义程度高，付费群使用。联系微信：chn137
+Tag: cydia::commercial
+Name: SystemX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.tapticboard
 Architecture: iphoneos-arm64
@@ -28098,6 +28389,24 @@ Description: 一个新生代的插件，主打自由定义与实用为主，更�
 Name: WeChatX
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wechatx111
+Architecture: iphoneos-arm64
+Version: 1.0-4
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.wechatx111_1.0-4_iphoneos-arm64_fc6ef22658373a9cf0e02436b66c297b12b31ca07d1a8d8bce76b076bd7847bb.deb
+Size: 1096
+MD5sum: 4b3a53b354cfea73827fc53d990578e9
+SHA1: d3a148ba20e576987afabb6a602c73446676d0d8
+SHA256: fc6ef22658373a9cf0e02436b66c297b12b31ca07d1a8d8bce76b076bd7847bb
+SHA512: c483a97b04cea442e444c0daf49ef951cc4ad6b4466630f4ab94cb0a922d5734048bb38502616943126d7f5406c650fc5519dbe06748d8feb32e96bb1952073c
+Description: 功能160+，自定义程度拉满的 WeChat 插件，目前除了没有语音包功能，其他功能全有（后续也会有语音包功能）支持8070-8078，美化功能占百分之5/实用功能直接拉满占比百分之95，任何功能都可以提/定制皆可，单独授权58，进付费群依然可用。联系微信：chn137
+Tag: cydia::commercial
+Name: WeChatX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.weibohook
 Architecture: iphoneos-arm64
