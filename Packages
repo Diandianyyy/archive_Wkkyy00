@@ -1,0 +1,1855 @@
+Package: MisakaHelper
+Architecture: iphoneos-arm64
+Version: 2.1-0
+Priority: optional
+Essential: no
+Section: 微信插件
+Maintainer: Misaka
+Provides: MisakaHelper
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: debs/iphoneos-arm64/MisakaHelper_2.1-0_iphoneos-arm64_68d9d53dc8dc26633c3ed94b7c81981dd3b30e6d67c73f9a840b0ced66603b55.deb
+Size: 13166180
+MD5sum: cea07a80a3cc402b730cea3a6dddd15a
+SHA1: fd7b1f94876c7dd6e7f882419588a9f4809149ac
+SHA256: 68d9d53dc8dc26633c3ed94b7c81981dd3b30e6d67c73f9a840b0ced66603b55
+SHA512: 1484005314b36297b7b9c3a24bef8a3528893c30c14305a489a974b09f79adb8a10ab9bd1df6643955b7dc3d9fa62d3e456f5ad660b319891213528fe5862a26
+Description: MisakaHelper
+Name: MisakaHelper
+Author: Misaka
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: MisakaHelper
+Architecture: iphoneos-arm64
+Version: 2.1-1-end
+Priority: optional
+Essential: no
+Section: 微信插件
+Maintainer: Misaka
+Provides: MisakaHelper
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Filename: debs/iphoneos-arm64/MisakaHelper_2.1-1-end_iphoneos-arm64_cb7231bf71f5211631c5a9dc4c81005549ad9acea2df980c0b38eefce54667a7.deb
+Size: 13175808
+MD5sum: 9d2654e968c9a27bcb98ce2c7d6ca644
+SHA1: 234537593b4e18617847503c51eda49792378ec0
+SHA256: cb7231bf71f5211631c5a9dc4c81005549ad9acea2df980c0b38eefce54667a7
+SHA512: 2d055f24ed8926a79dd58c230523eb0e195d5010608efad29574483bac0583a92df6fab3938a62f851bd2e927d69fc5fd8cc51344280ea6bd15e6d010920eded
+Description: MisakaHelper
+Name: MisakaHelper
+Author: Misaka
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: Wen.cpu.RlPNDlP
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: 插件
+Maintainer: RlPNDlP
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: debs/iphoneos-arm64/Wen.cpu.RlPNDlP_2.0_iphoneos-arm64_229a8c16f8e8c2c753776ddacab9ff982d154bd4a4a38a343a733406949fec21.deb
+Size: 1960
+MD5sum: bc89019f9852daa0b3d5fc21885c1b4f
+SHA1: 593c5bb4f5f4f3ca4997b6f60cdfaa8ae903f406
+SHA256: 229a8c16f8e8c2c753776ddacab9ff982d154bd4a4a38a343a733406949fec21
+SHA512: 90a88c86b606a6046556c2851b0fb0bc9ed43f0cdb9e51745d2cff7b2042c7f1db8d05ca50bd29e21e109aea57464f9833326d13de50d063114b1d5fe1f896b3
+Description: 威锋网友：一铭劉學珄，打包deb越狱自动运行虚拟内存.sh
+Name: 虚拟内存优化
+Author: RlPNDlP
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: Wen.cpu.RlPNDlP
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: 插件
+Maintainer: RlPNDlP
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>> 14.0), mobilesubstrate, preferenceloader
+Filename: debs/iphoneos-arm64e/Wen.cpu.RlPNDlP_2.0_iphoneos-arm64e_6799154ca8f04521150b6ea089ee0385b4a865d960092bed413176708fa5c3a2.deb
+Size: 2544
+MD5sum: 65697396b3d457b0845f82cf3c6d1fa1
+SHA1: 8d888ecc4b841b80a8f3a8f03c57f7f6c751f7a7
+SHA256: 6799154ca8f04521150b6ea089ee0385b4a865d960092bed413176708fa5c3a2
+SHA512: ca60635806a4ad21306a9608fa32b889f601dfd4ec613a7bef19d98e193495a4606a52cdc359b2de384b2300c610f8238589a66254c0e7ca86e997375cce1802
+Description: 威锋网友：一铭劉學珄，打包deb越狱自动运行虚拟内存.sh
+Name: 虚拟内存优化
+Author: RlPNDlP
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: a1
+Architecture: iphoneos-arm64e
+Version: 1.8.4-beta3
+Section: 插件配置
+Maintainer: LF，AD
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader, bash, adv-cmds, gawk, shell-cmds, zstd
+Filename: debs/iphoneos-arm64e/a1_1.8.4-beta3_iphoneos-arm64e_74021e3185b1ab8389715af0bd51ecd23f3a82a3f74c83013e0c75a2c60d945b.deb
+Size: 19496
+MD5sum: b076ce92cd77cc3e2d0303ca9db03628
+SHA1: 7b5028409790b50225efebbf7dd7e16d6739b0ba
+SHA256: 74021e3185b1ab8389715af0bd51ecd23f3a82a3f74c83013e0c75a2c60d945b
+SHA512: aed89335ba9b5a4345a6823346fc6a79ba4c2a7ce81d43a0eb77be69e81ce74770a6843800d92941691e700b5d46b960354c380bb32b120039c32970176bd66e
+Description: 自用款。
+Name: A1
+Author: LF
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: cn.Bswbw.fixsets
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: gblw
+Installed-Size: 123
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: cn.Bswbw.fixset
+Filename: debs/iphoneos-arm64e/cn.Bswbw.fixsets_1.1_iphoneos-arm64e_3082e97ab0cf3bc9bbff337454046716ea7785135b6ccf86e3521a2f05a0e561.deb
+Size: 36764
+MD5sum: 7dc2095af44b31870db365ddeb17fff9
+SHA1: 53e9241668dd5dfc36c95ea6606f7ed529cdf195
+SHA256: 3082e97ab0cf3bc9bbff337454046716ea7785135b6ccf86e3521a2f05a0e561
+SHA512: ccbc668695a277764344263e8bbba4de3193facc10ca0b70bc0add91367ec7ea2fb5d87b88a0c53e6b3fb239290c238918d74108181333d3d9e8994d2f57f237
+Description: 修复部分插件转RootHide配置不保存问题。
+Author: bswbw
+Name: FixSet
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64
+Version: 1.1.6
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13648
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/iphoneos-arm64/cn.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64_e16788eef7ea6f987ef250144f3ea097fc9ddb9a7096534300989385f4cdf6d2.deb
+Size: 3472304
+MD5sum: c07b568c26f5778fbb6c53f21b530efa
+SHA1: f02a8ba2887f6725e5a1c0403ec2e97b03bfd80b
+SHA256: e16788eef7ea6f987ef250144f3ea097fc9ddb9a7096534300989385f4cdf6d2
+SHA512: 3a3647e90efb8ed3286b6f769730ad64867432f9ec654d9cb21e070579add7d527da45b2a82d5e535c29f1c01416f8a9b26fbfdebdebb22dc0335f3dac901cee
+Description: 分屏，不必太复杂，一切从简即可。（最后一个免费版本）
+Name: split-view-pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: cn.sunshinesong.split-view-pro
+Architecture: iphoneos-arm64e
+Version: 1.1.6
+Section: Tweaks
+Maintainer: sunshinesong
+Installed-Size: 13648
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: debs/iphoneos-arm64e/cn.sunshinesong.split-view-pro_1.1.6_iphoneos-arm64e_2765073660e74a60827ddfef7075c44f509b0c1aec4d5fc2790c7b022afa7d9d.deb
+Size: 10121220
+MD5sum: e5563bf34030a7ae3b3fce32562d4846
+SHA1: 92378d7f4298c29bb23a0ad8086b1c914e8f59f4
+SHA256: 2765073660e74a60827ddfef7075c44f509b0c1aec4d5fc2790c7b022afa7d9d
+SHA512: 0bc6416fd725e312dbda5eb70a2fc293b0750c427e4ef2300187bdde92d542f52c3dcc8ca11a4d4131e9e08ceaf74ff88938213b3d37202d08a3889494591722
+Description: 分屏，不必太复杂，一切从简即可。（最后一个免费版本）
+Name: split-view-pro
+Author: sunshinesong
+TS: sp-sss
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: cn.wkk.swipeextenderx
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/cn.wkk.swipeextenderx_0.0.2_iphoneos-arm64_905142b881fe49d00eaadaf16dac0e4c1df9d6c99fc40e23803c0c7a35b85183.deb
+Size: 10300
+MD5sum: 74a1c175030d5ac9c12cb105f0c5da74
+SHA1: 8eafa059bf665bdfae1a746cac8380db40140110
+SHA256: 905142b881fe49d00eaadaf16dac0e4c1df9d6c99fc40e23803c0c7a35b85183
+SHA512: 1ba73512260acf74d9b392a4abc902cff1d446955451d79dea48197e7687f427c1dc86599c8567f8b9dcd7d1623ffe6caa0d88d81f1f9fc9df3b4e118c0de1e6
+Description: 如题。
+Name: SwipeExtenderX汉化
+Author: 来了老弟
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: cn.wkk.swipeextenderx
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: 来了老弟
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/cn.wkk.swipeextenderx_0.0.2_iphoneos-arm64e_81fcca1368127affa7bf6e6dbe8e9d2534eb0959d7bd3d0e85e5ee7d834d40d3.deb
+Size: 13676
+MD5sum: 390455bbc2099af752176886c005edbb
+SHA1: 7daebeec883cb8c7fabf74e4463ddfb16eac82da
+SHA256: 81fcca1368127affa7bf6e6dbe8e9d2534eb0959d7bd3d0e85e5ee7d834d40d3
+SHA512: 9832fd8400be74fa1667c3dc5ffaa395c8740656d85c7f340e3e3c039b67f7cfc2a2e38197d74b782af16d210018efb22372b7321600ead98e4c9bd5b55d3f97
+Description: 如题。
+Name: SwipeExtenderX汉化
+Author: 来了老弟
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+
+Package: cn.wkk.tmts
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: 来了老弟
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/iphoneos-arm64e/cn.wkk.tmts_1.2_iphoneos-arm64e_1653b278596b2d276b1239f28c549f36e3c8ef2191d1d4d93350ba0210c6619c.deb
+Size: 126712
+MD5sum: 811d9b92b3cf99cb9873a40f9796e155
+SHA1: 688d65dfe4985e726ca6809a6abb13918ee37ffd
+SHA256: 1653b278596b2d276b1239f28c549f36e3c8ef2191d1d4d93350ba0210c6619c
+SHA512: 8c87220b112721d9fe92ec282b4246a2b93a6c705aa8f11e313e9a4dc8b98db9eca544415d584959192c217ca60e49ad1e54c65ddf41f9369f962c65a37e99ee
+Description: 自定义播放器大小和控制中心大小及位置，自定义SpringBoard全局透明度，包含锁屏，播放器，负一屏，通知，控制中心，多任务后台模块等。
+Name: 全局透明Max
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: 来了老弟
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/cn.wkk.watchfix_1.0.0_iphoneos-arm64_d829ce47d4cfaf1cbea791517efcacf024eec720338dc78275802d5dc50932e6.deb
+Size: 113372
+MD5sum: 990533bbac824befdcf6d36efb4dc36d
+SHA1: 74804993689f867d873da72e17397f8e7f9f6af5
+SHA256: d829ce47d4cfaf1cbea791517efcacf024eec720338dc78275802d5dc50932e6
+SHA512: 4f4948ed7e0669efa88b75c2ac4f7588937e069da30af6f62ed7645b9c10223922db7ee6673169c9b6cdda569db1540ee100d436ee119e0544f996e8ae02aa07
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64/cn.wkk.watchfix_2.0.1_iphoneos-arm64_08e26aa121d6d81c65211ef4d1a4f26d13714c0e56b77e5855b40de471e6239e.deb
+Size: 602692
+MD5sum: eff8288260ea47c272fee49332edb020
+SHA1: f73a10b8e6f3861df841c56f092015473cea9ab7
+SHA256: 08e26aa121d6d81c65211ef4d1a4f26d13714c0e56b77e5855b40de471e6239e
+SHA512: 5166e968d6616a0574e77384eeb681e8a605fc6d39c38f0097922b380fd525a32e506faa65af49a0acaddabe997c61636e75cae24e7e12ac642ac3d8c0d07068
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/cn.wkk.watchfix_1.0.0_iphoneos-arm64e_718330f3f4d5555680d4298ef32860314b41713de1c93b1765562c1ab1f19ac4.deb
+Size: 113236
+MD5sum: c5fcf6c6a009f86f840f530d87b9f95a
+SHA1: 1a365a59ca2892fbaf3b16866dbe90cc48385fa9
+SHA256: 718330f3f4d5555680d4298ef32860314b41713de1c93b1765562c1ab1f19ac4
+SHA512: 971748e2c892d90ddaa644b6257e5ae93e0990104136e8544bb2e92f93309881a7d3d86c766cb831fb3ba2c722b255621b0318497f2a84c14f9a89e181fed026
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.wkk.watchfix
+Architecture: iphoneos-arm64e
+Version: 2.0.1
+Section: Tweaks
+Maintainer: 577FKJ
+Installed-Size: 2404
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/iphoneos-arm64e/cn.wkk.watchfix_2.0.1_iphoneos-arm64e_c51a7e6af378fa4becb88c854f2c23a371a805a858a2d423f8efc5b66cdcb3f1.deb
+Size: 609252
+MD5sum: 6f89e7d819ca661ffb87eda2b8fcb794
+SHA1: f7836ac8397e508373953d738ff5fe7e53a3f0e1
+SHA256: c51a7e6af378fa4becb88c854f2c23a371a805a858a2d423f8efc5b66cdcb3f1
+SHA512: e8359a628da4e22ed99e81aea32c20220b52d4f244d23e6f3330ae05e916d6cc1163bf67b5dc2fe5b91edd75347db5bb06de76fbc321aff4bed46497716499cb
+Description: 老系统配对新的 Apple watch 修复插件。
+Name: WatchFix
+Author: 577FKJ
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: cn.zqbb.appdata
+Architecture: iphoneos-arm64
+Version: 1.3.6-9
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 356
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: debs/iphoneos-arm64/cn.zqbb.appdata_1.3.6-9_iphoneos-arm64_3ec5627a8dbcabe777734890f83e8a1858c7a1a6c7c6a9690ba53e05517111a7.deb
+Size: 76912
+MD5sum: 9954d76effbe1e3bf024550c2e672c9c
+SHA1: 4a1da2d077bc72fa625cfe4969b88ad2e7484417
+SHA256: 3ec5627a8dbcabe777734890f83e8a1858c7a1a6c7c6a9690ba53e05517111a7
+SHA512: 35f57836b2baa39796db5228fce69897cb918cab310577a1fb5936bc6af949c0dd40f3678c495ec691fcaf7b1e0bb1c9d0f3e2470b9304ac2c920d70bb981391
+Description: 仅备份。
+Name: Hello AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
+
+Package: cn.zqbb.appdata
+Architecture: iphoneos-arm64e
+Version: 1.3.6-9
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 356
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.fouadraheb.appdata, netskao.appdata-rootless
+Filename: debs/iphoneos-arm64e/cn.zqbb.appdata_1.3.6-9_iphoneos-arm64e_22272c331b6c26a66f91eb8f151a324042e6fb526abdb1f4da80db12e1fdf449.deb
+Size: 99708
+MD5sum: fef78c0d153a13889dd3d23012ca14f2
+SHA1: 8c71007c6be366b055fed368138d54f793f7130b
+SHA256: 22272c331b6c26a66f91eb8f151a324042e6fb526abdb1f4da80db12e1fdf449
+SHA512: 341b4788c9f26673f3bf733a4ba10a57da92695f81def3bde983b210c567bfa0bf19f84cce40edad9787d6eb66b386c7b9241c2998c3bb7931e34e01382e771a
+Description: 仅备份。
+Name: Hello AppData
+Author: Fouad Raheb <support@fouadraheb.com>
+Icon: https://s1.imagehub.cc/images/2025/02/12/3a8191d7ba1712d1c153e667a49c0a57.png
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64
+Version: 1.2.0-30
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1388
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/iphoneos-arm64/cn.zqbb.fix120hz_1.2.0-30_iphoneos-arm64_6f05244d85901e1747689ee78c47ea5b6cd10299e8fb05de0d234a4d347d636a.deb
+Size: 316988
+MD5sum: f3af77d15da05313f18226016e5cd0ef
+SHA1: f3c566b6dc5bb068caf0ba8818324b97eab954ad
+SHA256: 6f05244d85901e1747689ee78c47ea5b6cd10299e8fb05de0d234a4d347d636a
+SHA512: 46eaf5cb5a5c49b5a1e1770eefad23c8858a97e0b8c78fae5c0d7d19eea84f16c119d9ba7e4ca7d3a60d21782ad363cab694cbdf002f8e114c01b8e3b66b6382
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: 120Hz Fix (iOS15~16)
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64
+Version: 3.2.0-1
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 940
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/iphoneos-arm64/cn.zqbb.fix120hz_3.2.0-1_iphoneos-arm64_bded8ecddea93a9bd3d162990280b2a283107dde746957d560f51d07559e47c2.deb
+Size: 296324
+MD5sum: 5b6c14c5e6dce8bf67b9c0629dcb8972
+SHA1: 4e4eebfd4e264f15a88b10a4fd675e6bc8b0f75c
+SHA256: bded8ecddea93a9bd3d162990280b2a283107dde746957d560f51d07559e47c2
+SHA512: 7cde02c38150da24bd635294f9a9029dbc681d38a9215e607bfe4214c88eb666efbb89035684ffc7e61e91ba6be870bf3c97d449c9ba59f80a00982697fb27c8
+Description: 解锁动态刷新率80hz到120hz
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/120hz.json
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 1.2.0-30
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 1388
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/iphoneos-arm64e/cn.zqbb.fix120hz_1.2.0-30_iphoneos-arm64e_02ff11e471180adbcad1c0252a87c62a301400a55df4fb752c0dcc1f06ffb1f4.deb
+Size: 442872
+MD5sum: 5d8c88e0a3e87a8f436ecd88aa3aed81
+SHA1: 9646ed996f09876dd8d5dbc177e51bd1856ac680
+SHA256: 02ff11e471180adbcad1c0252a87c62a301400a55df4fb752c0dcc1f06ffb1f4
+SHA512: 0b354ec4537f4150aa6f15e7ee3ee399c5e5a62a6736b98ecff9a54568b232bafa61005d4726ba45d8d27750771b5dde214d3e9a393c66e7f7ca5d0ce048a265
+Description:
+ - Unlock dynamic refresh rate from 80hz to 120hz
+ - .
+ - 解锁动态刷新率80hz到120hz.
+Name: 120Hz Fix (iOS15~16)
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.fix120hz
+
+Package: cn.zqbb.fix120hz
+Architecture: iphoneos-arm64e
+Version: 3.2.0-1
+Section: 插件
+Maintainer: zqbb
+Installed-Size: 940
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, com.zqbb.dynamic120hz
+Filename: debs/iphoneos-arm64e/cn.zqbb.fix120hz_3.2.0-1_iphoneos-arm64e_c5ce89cb65b1b4c28ee21cdd5954eb3b3dfed955b451a5d4526b9fda0c1d7ac7.deb
+Size: 407220
+MD5sum: 534c92e28f7d1ec4963e400913fc3880
+SHA1: 1e0bb3677b74339c86b7ba79b12832a9c2532ab4
+SHA256: c5ce89cb65b1b4c28ee21cdd5954eb3b3dfed955b451a5d4526b9fda0c1d7ac7
+SHA512: b6b607b1e8fefa9852921eb225611913f074171627e2841394452e3f2f13d95759a49c31ea35eabb75a1c2bfbb5708af9042c48fdd1a0b564742d6f1d364e907
+Description: 解锁动态刷新率80hz到120hz
+Name: Hello 120Hz
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.fix120hz
+SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/120hz.json
+
+Package: cn.zqbb.orzfolder
+Architecture: iphoneos-arm64
+Version: 1.3.3-2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 2564
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/iphoneos-arm64/cn.zqbb.orzfolder_1.3.3-2_iphoneos-arm64_e461e43a08a837073c361a8215147804df9481737977832475fe04298b6f6bed.deb
+Size: 787632
+MD5sum: b6e0384d5da8d151fdb86247d24b9a03
+SHA1: 28b386466319800591376de7494a5c9ea5cda5be
+SHA256: e461e43a08a837073c361a8215147804df9481737977832475fe04298b6f6bed
+SHA512: b5b867382a82706264bf7e5ccabc2036fff05d128b46417df0e6cd65607ac7dbe361bdf1af9998b53515ee250a5e22f5d550a644cea786c67add245b83aafd74
+Description: Folder Layout Customization Tool
+ - 文件夹颜值 ? 美 : 丑
+Name: Hello Folder
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
+
+Package: cn.zqbb.orzfolder
+Architecture: iphoneos-arm64e
+Version: 1.3.3-2
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 2564
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: debs/iphoneos-arm64e/cn.zqbb.orzfolder_1.3.3-2_iphoneos-arm64e_2d9579317a64471135a8ca296939ed0a8b00099d0451fc10f33cfdf0437a6847.deb
+Size: 2158350
+MD5sum: 2558f021fc11faf440e35fdbfb25842c
+SHA1: c5fe120fe5edd084831406c82c632bcc15864aab
+SHA256: 2d9579317a64471135a8ca296939ed0a8b00099d0451fc10f33cfdf0437a6847
+SHA512: c45751aa53b2cc247471aec85e7939e4d4740c73e1475c505a00519078538b0d2aa2378ab989aae941d6816065740bca03d949e8a522d1e99660ca0d4de22892
+Description: Folder Layout Customization Tool
+ - 文件夹颜值 ? 美 : 丑
+Name: Hello Folder
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.orzfolder
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.orzfolder
+
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64
+Version: 1.9.9.1
+Section: 插件
+Maintainer: 0xkuj
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64_aabb14253d58ad555c5300761d118aec20df48bc6dca7856f787ab9f9d7620e2.deb
+Size: 322132
+MD5sum: 40199d63165e3f360f48edfb24d81dea
+SHA1: e2e1bcac108e5d312162da3592914d4507a9208d
+SHA256: aabb14253d58ad555c5300761d118aec20df48bc6dca7856f787ab9f9d7620e2
+SHA512: 3d70cc9a198017c50d32caa2b894af2f7ded8a2721edfe1f5d9ed1bfb7d4da28b9ec76f9afccb4777f2a203c72a023db4bc1b29e26063aed0658648ea324343a
+Description: Safari浏览器增强。
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+Author: 0xkuj
+
+Package: com.0xkuj.safarix
+Architecture: iphoneos-arm64e
+Version: 1.9.9.1
+Section: 插件
+Maintainer: 0xkuj
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64e_c9506a411870d8e036003ed17d12ef8e42fbae6322785bf9bb2b3e89df9abb44.deb
+Size: 371644
+MD5sum: f0e4a5a5ae4516566a467ce3c7d04685
+SHA1: b16a76d1925b162341929aa676a76842804be7f9
+SHA256: c9506a411870d8e036003ed17d12ef8e42fbae6322785bf9bb2b3e89df9abb44
+SHA512: 6d2719631cf0fb331d24c237d5fc55592eee30502afb7877c8e73d46cda6c2d14326d485be5e0f5e46da4665fe0dc4243ac99953b36e0415812ee33e3095f2d2
+Description: Safari浏览器增强。
+Icon: https://sini921.github.io/repo/sileodepiction/icon/safarix.png
+Name: SafariX
+Author: 0xkuj
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64_e317a508c5ce6e8dc31922f4a9aedec38e325a042376c9c3c5f81fd7c620a68b.deb
+Size: 10146804
+MD5sum: b97abfec789d270fef00090b22ce5c9b
+SHA1: 2db7787b9c43166d24fa0eb03f5e1305ec953f55
+SHA256: e317a508c5ce6e8dc31922f4a9aedec38e325a042376c9c3c5f81fd7c620a68b
+SHA512: 1cbe15c94575b3738ed1cd2adbc9b917b6f6436084f5a7d9fc164cc1581214e0dc47989dd0d6950e2f4978f4842d12f6f251820a8d6389fce09689ae968c08fd
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64_eb4874cc28e3a2d2b6d7d06e10e662e96d3ebf3320e7b0268af4177cd162c86b.deb
+Size: 9025296
+MD5sum: be6b614d2fce95a3068a20c92e5c9d71
+SHA1: b86652cde0ad180f8fb9b1b3f7daa1cd9b642936
+SHA256: eb4874cc28e3a2d2b6d7d06e10e662e96d3ebf3320e7b0268af4177cd162c86b
+SHA512: 83862e75fe402d146a70e3164fd3f9f96006bfefe9cba4f2d394edd223748159bef66a96260d0bd3889c31441b13269a4b12c6ef59ca23953c23dadcb9870da5
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-2_iphoneos-arm64_5a859becceacdf058e3030562097f8daaaa8668cf76550f8672875d00953b424.deb
+Size: 8967804
+MD5sum: b00c1a647398a7b0267e9b076c71f788
+SHA1: 59a3a19a3947d7db7a91718886087b55e944a1b0
+SHA256: 5a859becceacdf058e3030562097f8daaaa8668cf76550f8672875d00953b424
+SHA512: 7c7db9b0596b48d781a020c0ff1d3d060ea631cbebcf6e13e64522acf6a6e2db6fe45a04912fb333c143091663a0cb8192e8f887e9e028c8b6cc304246739c3d
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64_425ffa7110ab2f6184a60a9ee3790727c0679ea5eca36f2e76b658e8e414d10b.deb
+Size: 9038128
+MD5sum: 81cfdcfc86d38d126f31a388c6002257
+SHA1: 96d02fce447176f0fb5edd64ca463f5af9d8e6f7
+SHA256: 425ffa7110ab2f6184a60a9ee3790727c0679ea5eca36f2e76b658e8e414d10b
+SHA512: 3162c5b70873936d25e3c99dddfbfc5138691a30de04ab28d238a1d2f8221b7b33adc599dc1c806bb6d43d964574a2652ded40442f7ae993f1cf858f34f96f9f
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-4
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64_54a6a0eaae3bf9ffc10a657d5cdcdc338913452d6b90f50656a3973966fb8988.deb
+Size: 9291800
+MD5sum: b4cb0f07763ff0972899addc5ed067b9
+SHA1: 0617dcfe647ba1e84b507e87df6037ae840cd268
+SHA256: 54a6a0eaae3bf9ffc10a657d5cdcdc338913452d6b90f50656a3973966fb8988
+SHA512: fdbd32977a5bdd3726dddf380684343707af8923a010af4bfa9b4ccebbd33121a676efb87f05b5e835e4441bff4472dd782d562b3e2500216fb36c4687522592
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-5_iphoneos-arm64_7c7cdba01492bd277ebe7d1ad8d4a3fecc936c5d1b06c68eaa88ac09a20db8ab.deb
+Size: 8990376
+MD5sum: 519900e4a7739c084957dc790aea6805
+SHA1: 04e80dcb6f0539acd378f127d69d4eba4fd9a778
+SHA256: 7c7cdba01492bd277ebe7d1ad8d4a3fecc936c5d1b06c68eaa88ac09a20db8ab
+SHA512: 6ceb6d890804c3cdab76339e2efb0af3d26e11e95b62a882afe9633d7b46fe382911b0e8f3f47c63b32c4bf5505ba95b702e76f4fc2215179ceacf83fa084433
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-6
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-6_iphoneos-arm64_1bf5fc4b9a22d20939199456042adefc3027469213603886ccb984677ab82c05.deb
+Size: 9084904
+MD5sum: 607d9cf89f9f8c12b1d6135e0754b5e8
+SHA1: 2bd89fc3cbaa814f1d14c692c06fd918cafdca22
+SHA256: 1bf5fc4b9a22d20939199456042adefc3027469213603886ccb984677ab82c05
+SHA512: c0ff25831115e71a60506db291ac761c4b15f38cad1258cebe7da950320c5a3006bc3a04e8617d1733cc583ccdeb9e46b141852f638f7b7887df261e978c1a55
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-7_iphoneos-arm64_0017285e9a0b0729e8c50d0ecc0a8017aeec769659c216f292be20f852f83b8b.deb
+Size: 6234344
+MD5sum: 80bddf382f1acd59164763da8a316398
+SHA1: 3bd59befa978708ea6142257f5c129859d40ee5a
+SHA256: 0017285e9a0b0729e8c50d0ecc0a8017aeec769659c216f292be20f852f83b8b
+SHA512: 812bb827ece19d76ffcc2ce26a01a47b319f49badf63e01561693ab49314627a89ab5c9f22210bc92ddb6f8c6266acd9429a33c1edaac8c809948016a58a026e
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-8
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-8_iphoneos-arm64_454b26487f69371bc6af7e40d50f581faa867931eaef44e28eb523c3ae1dfe60.deb
+Size: 6273820
+MD5sum: a7e4542ee15d44e0f8b5d086a571372c
+SHA1: ee7b8e55bd848496265553103ccef9252e77d07e
+SHA256: 454b26487f69371bc6af7e40d50f581faa867931eaef44e28eb523c3ae1dfe60
+SHA512: 2f4759aa5cc55e3546bdc5680af5da90080911bdd931c6420b8ab6255f9b9fb19ed61328c10b3775711f7cdcfbf3107544a9a391fbdf11eebe200d3862bbd696
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.8-9
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64_a0eefb1c16150bad1012bc3aaff2f48c221aa1ca2eaee248029c6dfad4efcff1.deb
+Size: 5147676
+MD5sum: 127c817ff671bd72937837aec7f7dd56
+SHA1: 860bfcfbeda88fe68b65cc808b39fcb4bc895bd2
+SHA256: a0eefb1c16150bad1012bc3aaff2f48c221aa1ca2eaee248029c6dfad4efcff1
+SHA512: 34130eecc33e8a3603cf2180573c44da5beeb76a8d083d050f3c4f468c4d9a281a28e2a9c1fef0762499a5c005998804c5b2a82304ad87c829b2acbb24694516
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64_cfdc10c8691ce7bb667afc9b7c19b0f927f29168a45b0abf1e8d294650e7dfe4.deb
+Size: 5141476
+MD5sum: 42bc98aafc6c0cb5449ad6c283318ae2
+SHA1: 74839db30a4e9e81ddce8031b5de1c42407bccba
+SHA256: cfdc10c8691ce7bb667afc9b7c19b0f927f29168a45b0abf1e8d294650e7dfe4
+SHA512: 3dcc6b90c82e43c4154e468355f69648f3e630a63c36ca04199ddff889ec046fcf454ff8f1981869947c30aaf0e5acb936a49e846cd2029abcfe1eec0ac7f0c6
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64_6b2954fa9597d206afe59618e66e7b8f4fa66bb16667da2655a4dea6b866f590.deb
+Size: 5188852
+MD5sum: 9a0db12513ca7027563743f405d36ad3
+SHA1: 7363f4a7aafaa517f37f33c229cd5f54f8f6da40
+SHA256: 6b2954fa9597d206afe59618e66e7b8f4fa66bb16667da2655a4dea6b866f590
+SHA512: cc30854f1de15f996b47f7c3f7fb20f724b3752da0a25d3f390174e938c4038f7b4f63d6f6e5b9c3b9b8796c95b8fd8b0d46200c0ebeebe105f025e2ccef3349
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64_3210ec90164e7c74289bf6858225b1c3ca74bcd3092810078c5c2325e454f10d.deb
+Size: 4123048
+MD5sum: 0fc9d7767d88287037efd081685c271f
+SHA1: 564d23da80444c8e7e9abe0cf9d434f908660ccd
+SHA256: 3210ec90164e7c74289bf6858225b1c3ca74bcd3092810078c5c2325e454f10d
+SHA512: cf8a3271474e84591636324193bc7b163c1c8c61e16f15bd2139d59b7d6d24fa495bdd5817068e791bf7a028590b1b7ce290438f7da0cc29796f2661551668c2
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-3_iphoneos-arm64_8d090d4d3b49e4417241e023dac61cc8f363f7703a2da4fac7c16600427a6473.deb
+Size: 5113392
+MD5sum: 828785f044f4a24755afe30fa6514cd6
+SHA1: 5953e750a6a5051d1c7b3fdda7fd08d6da858aec
+SHA256: 8d090d4d3b49e4417241e023dac61cc8f363f7703a2da4fac7c16600427a6473
+SHA512: 4c2eaea39a985646c557140ae2f88da5853d590bcf845aa7560f88243e542579eb02f5feeaecf22ffe8ed0ad4eec6bafd1b3375f48aa5a19b3c588a11d09606a
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64
+Version: 3.9-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64_2c307ef221b984e63a01d60719c44bd75b4745e55b3c7f39fa4c887631cfca4c.deb
+Size: 5109204
+MD5sum: 90ee0c4aa1875f1890c57d73ca007e90
+SHA1: 8495b99ea94ab663fa9f2867081820ac47a939df
+SHA256: 2c307ef221b984e63a01d60719c44bd75b4745e55b3c7f39fa4c887631cfca4c
+SHA512: 82fa124bacf57cb8c958e9eedfe1fde696a2afdd1ed774d8c8dd07be2de6e6ec462ec956196f476851c4ba4ae8d9fd166328b953fcb020dbe3f6111b49693ef7
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-0_iphoneos-arm64e_43ef922089b13502af0bfb4f5a6369e5461ac6e1804f188d789568b104aec239.deb
+Size: 20124276
+MD5sum: 3becbd254b327401453d2ae5884e8ebe
+SHA1: 216546ccf3eb10014c30f9bc9dda7b7613482b7c
+SHA256: 43ef922089b13502af0bfb4f5a6369e5461ac6e1804f188d789568b104aec239
+SHA512: e4f5d433717dd998d728e3b4135baa7768d3cf98be75c0fad82aecfbf174c7746ae1b726745d54359caea5e12e69e55f1bcf6d458fd578ce71f5c0c354209e5d
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-1_iphoneos-arm64e_e9145ce6de8a41799121c252f48b1bfc5fcca8b10a30bd7f0785b1a972fdd683.deb
+Size: 24679906
+MD5sum: 366bc9a2657f92db4d9c294b0ad6a7d2
+SHA1: 5a1365799713b71594d8fb6396c4efb259226ce2
+SHA256: e9145ce6de8a41799121c252f48b1bfc5fcca8b10a30bd7f0785b1a972fdd683
+SHA512: 14a31ffb0acd80577a54607d9dce54ed43937a6e12d0d8f6e99b8271b51f86833b0aa34f440b558b14e57f955eb91c97352197506b25473910559408be9c9dcd
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-2_iphoneos-arm64e_a5e4231587c6d2f4469e0d8637cd60473ba8624e137cc1f22bea6093156f84cf.deb
+Size: 24494594
+MD5sum: 41f3b5d0fa94458f79bf1df6bf4fd9c9
+SHA1: fa4cfe888c0a88848444ef478c4e1cd38be0d350
+SHA256: a5e4231587c6d2f4469e0d8637cd60473ba8624e137cc1f22bea6093156f84cf
+SHA512: 592781613303ccffc3c92ecfb009068088c0ca28d541359f1dd4e12ef246da493ba845cff5ba95c7afb57a23ff2e54b5d1362aa49789b4476de2aba03ebfa3bc
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-3_iphoneos-arm64e_7491ae8a9daa1ad99d0c9ee2cfbf6442374567e3c2a36996dfee2360e099a7ab.deb
+Size: 24697384
+MD5sum: 7fd04fb4ce343897ce02374776e97e53
+SHA1: 7eed9e799c42c3716215a1d1e278f1494be332a2
+SHA256: 7491ae8a9daa1ad99d0c9ee2cfbf6442374567e3c2a36996dfee2360e099a7ab
+SHA512: 7dd7b37aa0eb413feb348af2adc469441010e3d3813244d14d186a174bf90d048c52385cd02be6324b26c9b223e28a1836445ca2c255bc45632dd36822571b67
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-4
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-4_iphoneos-arm64e_0900b0d8bba4ddc0534438970da88d846e209992761ec063a2ffe32d4c819e36.deb
+Size: 25584540
+MD5sum: d7c9dcf5f7effa7541d11d83c4fdb613
+SHA1: 9123fc62b9b893c5fad9826e882244cd59ab44b8
+SHA256: 0900b0d8bba4ddc0534438970da88d846e209992761ec063a2ffe32d4c819e36
+SHA512: c56baa6203fffde601c902963d58deaac4167e3720bda8be54008949c00177b7a8f3ad373497b91a7a643a231f4c311cb833144e936f5c873ad760df1deed77e
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-5_iphoneos-arm64e_82d4d72681589db32b14ada4e450df66846d5e3df468fe8bb3a30fb5f46d973e.deb
+Size: 24556714
+MD5sum: 3194a4f23d0e56286444252b24fed89b
+SHA1: e96cbfac67c43dc1cc487e5e965049a15767040d
+SHA256: 82d4d72681589db32b14ada4e450df66846d5e3df468fe8bb3a30fb5f46d973e
+SHA512: ba4991dbbf80afe15f0f4d82d93e0b88e7ac50c7b6fcd52c193a4d7e74f9224d8d4a06271b04be49c75e825b9bf0842dfc6e3171c5089f0d20ccdc5c396a2621
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-6
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-6_iphoneos-arm64e_16f5197666100571dc36b3fab4c27c8f8a1b5b5b96605ecbe2dd18e62125fb29.deb
+Size: 24817856
+MD5sum: 94ff98a26da70c4b58f119d5b1607d39
+SHA1: e7327ef7e42d79e9373fc3e7393b461dbec9850d
+SHA256: 16f5197666100571dc36b3fab4c27c8f8a1b5b5b96605ecbe2dd18e62125fb29
+SHA512: def1dcd0a24ada56ed1fe146b8dd61affa1178cbe52c9ba6b7f089600c1407d922ef36ac9729f1cd4a0aab063daafb07c548f97d4c0dcb429ee38e4a03741d57
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-7_iphoneos-arm64e_99b4af301cb4401412aac42b127e65f0f81b40c58d6368ac0f97c7e00ce2c686.deb
+Size: 16625486
+MD5sum: 2854ff0aaac4ddafe9cfdc21bcb364e6
+SHA1: 645c4771c133983a47f8b7a64345e4c63ab14448
+SHA256: 99b4af301cb4401412aac42b127e65f0f81b40c58d6368ac0f97c7e00ce2c686
+SHA512: c4ea09140bfd71a62816f8cde8729f276223135edc9afef3c1ecf3b7300a58500c2733a6009d15f758da504ecb018bfc0ee33118bf2226026abac5182163e802
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-8
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-8_iphoneos-arm64e_073dfc9c1d680cd7c20bf0c16a66b89095b0ba6a29e00b5089d1e3a0add0200d.deb
+Size: 16742906
+MD5sum: 343a5b957613260db55c47e714b7f684
+SHA1: 338076d046758d8956b3d5eb19fd420f9d25c7d3
+SHA256: 073dfc9c1d680cd7c20bf0c16a66b89095b0ba6a29e00b5089d1e3a0add0200d
+SHA512: 14f50ebe6f17f256717aec83c6df99b0c169bc57ed9d143dd562fd0f50fdfeb6cd75da55be25d6195159ab48a1ec5d14f1cb9e0610210b1bcad12a3dc5263d16
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.8-9
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.8-9_iphoneos-arm64e_08deca0ae0e153200e2f3ab6855ff015f7284a3ac343f94be0a58d48233ca093.deb
+Size: 13864054
+MD5sum: 66c289135125892ef8e6b2db51547632
+SHA1: 09ab01ea324f306beeb61a022105ff0246b761ac
+SHA256: 08deca0ae0e153200e2f3ab6855ff015f7284a3ac343f94be0a58d48233ca093
+SHA512: 466567ed707e12ffbf5da1d6f65175759400662add08332b9d59e3bbbbe3bad536e8cdcd85a47c7f874144c637db544119756958037069fabb73b38bb40d17e6
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-0
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64e_c151192ad4df16f08410db8bf2faddc3ba5de0f7d5ab0bbf643b4e7d202f6f19.deb
+Size: 13847880
+MD5sum: af8ee8da92d2aded41fc5f832ab917fe
+SHA1: 7b52eb96e66ff60e331f0d5d11865f9f2ce4d979
+SHA256: c151192ad4df16f08410db8bf2faddc3ba5de0f7d5ab0bbf643b4e7d202f6f19
+SHA512: dd81a306db5495a6bb8ead6a7162f8379efd4e433e57b020609f98278650ecbca53a27812cc04024b146f6761317450e81b0eba7e550dd58bd6560c912f8ca49
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64e_2f02e4e69edd5391154ae2bc035bf7c5420a7db5fb918f970917693084c8bdd1.deb
+Size: 14010812
+MD5sum: fdd07597cf859f05df603006e9bc1431
+SHA1: 3228d614e1613ee5790f38776bd5d31dc1943ccf
+SHA256: 2f02e4e69edd5391154ae2bc035bf7c5420a7db5fb918f970917693084c8bdd1
+SHA512: 79ba4c731f6b0135511269b9906560ace7c1d90419ad7fa42b0367bd6a15e7a9380fa646417b3f69a5a92d44b4709bdf598ce10cd8e89629df9cc84da5d167e8
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-2
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64e_497e63dd4ba12e46df15df1c3d0ca092a1d7639ebdc41da35e7ece3c4dc5edd0.deb
+Size: 11436880
+MD5sum: 3eeb5a541286ecb29b57d61b762f4d1d
+SHA1: f404d30d70bda4f6783a1ed318cc338e1456d486
+SHA256: 497e63dd4ba12e46df15df1c3d0ca092a1d7639ebdc41da35e7ece3c4dc5edd0
+SHA512: 3e129533ea87f98d6032135e9a66bb4641168954e5455c100648abcbbe93c8b4d40f0f691552ad479b7ed12fa635a820e38f9537fc5b2cbea768317b9f2c9961
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-3
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-3_iphoneos-arm64e_87bb6bc65f1c94b057db21aadda11e5aa9363b7953bcb7a029790b3f9633063c.deb
+Size: 13751728
+MD5sum: 8dbe2323c13a6daba287aabfdb39b508
+SHA1: be574a195ef32938e988b4434e5c504dd929d3ce
+SHA256: 87bb6bc65f1c94b057db21aadda11e5aa9363b7953bcb7a029790b3f9633063c
+SHA512: 10ccedb06523f37eefd524cd9c844916eb04e7e5cf5f7f9924463f7ea619e96f1b0fbdeceeb7eabba8456477953434ba1bfad302082d249dfa1c6e4bedf1ad96
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.miyou.rootless
+Architecture: iphoneos-arm64e
+Version: 3.9-5
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.miyou.rootless_3.9-5_iphoneos-arm64e_3ec305e838b27dd07bf97c8a0ea55159f7179a14fd9c28add9871f81bf97f58e.deb
+Size: 13762702
+MD5sum: f41d77182076602b141cdf439ece0004
+SHA1: bcc856a9288c4b09e3a2f1d24242cca56a0eb00f
+SHA256: 3ec305e838b27dd07bf97c8a0ea55159f7179a14fd9c28add9871f81bf97f58e
+SHA512: 48465ee53aa8172a32c5638cad55c764362ed4f161100478d4b61515b8777cf35afc35292b982193e4520004cee26b31e0e4c34fa74d9652e2d3f33f64de6373
+Description: 微信助手
+Name: 微信助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64
+Version: 1.0-5.1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.msgfilt_1.0-5.1_iphoneos-arm64_45b9386962cb27244c656abfe059d6eaa5d7bc9a7e1997fff3e1df49ff31e63b.deb
+Size: 122280
+MD5sum: bd9bc14c9da34f21531dae7122fa8866
+SHA1: b9248eee5246bbdccae927c5dbc2dd084d2a8563
+SHA256: 45b9386962cb27244c656abfe059d6eaa5d7bc9a7e1997fff3e1df49ff31e63b
+SHA512: 7a6a302c35ec5b17eec8031d74d3e4020554bd85305e357bd873f66355350f6c416277896e03d32230133af13a7cb4fd397f8fb3843f5333f85758a60270af55
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64
+Version: 1.0-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.msgfilt_1.0-7_iphoneos-arm64_a84f32c42e52af6cf74578ac4bc35ca9f743e7efa058d992c1eab205cba9ddea.deb
+Size: 144996
+MD5sum: e53a7051ef33a1bdd97c72bde3885419
+SHA1: b5b5148f924f4e92c93059210475d7a23ced32ae
+SHA256: a84f32c42e52af6cf74578ac4bc35ca9f743e7efa058d992c1eab205cba9ddea
+SHA512: c810bd4c4cda275e6ff9bebc1abde245ab311a5e412a78c84abcfa9300dd9224c980f0a735364bc6265f822cd2c3de0cab1f12c2d7c795e2798b3c11eef48f3e
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64e
+Version: 1.0-5.1
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.msgfilt_1.0-5.1_iphoneos-arm64e_d5127e13743c7293f5ee82e57bb1e0566aae3ed367823c009e87f16ca13b6355.deb
+Size: 123260
+MD5sum: 4d923af7ee2fc6551992fea51a6f633f
+SHA1: 4bf593522c66107e769cb62fec5ed345d297e5da
+SHA256: d5127e13743c7293f5ee82e57bb1e0566aae3ed367823c009e87f16ca13b6355
+SHA512: a66fb393cb62dbc86da2f9a2a520f873291e09bf0936cd107e7497ea5749a8f24189b4da6e1df005791dbeb4feb1b93083b81fc7298c3157d7608c24e79c5279
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.msgfilt
+Architecture: iphoneos-arm64e
+Version: 1.0-7
+Priority: optional
+Section: 微信插件
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.msgfilt_1.0-7_iphoneos-arm64e_ec42cdf39ea4306c94822454875e8614df1afb2a64a29d710a9f67fe758a96c4.deb
+Size: 190432
+MD5sum: d128008710ce213e7f875a4e5f449037
+SHA1: eb5d72669ffd25067062d44aad8b0b6601eecb29
+SHA256: ec42cdf39ea4306c94822454875e8614df1afb2a64a29d710a9f67fe758a96c4
+SHA512: 776259b7022872e896e9c7ca18c21f3400d4482e3cd4e1fb40539088751bfbd17f2b9947d512982a276eef9ce3b6acda778152e836bb608abb465f276fd0c8c6
+Description: 消息屏蔽助手
+Name: 消息屏蔽助手
+Author: Mao
+Sponsor: admin@25mao.com
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64
+Version: 0.1-3
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.wcpluginss_0.1-3_iphoneos-arm64_6e532fe08a8ee77d39959526c892a0c131aba7fdac319f5bce9bf656e420bc19.deb
+Size: 23328
+MD5sum: 8965279f9b2df2b170ba7da5327c2157
+SHA1: 140b44b94516542c99cb3976dddd7a126119e0f0
+SHA256: 6e532fe08a8ee77d39959526c892a0c131aba7fdac319f5bce9bf656e420bc19
+SHA512: 0e17071dec79768ce6898fc550cd1def12af0414b0271b23f248a9ed8cff499fa7324ae93c93b1e6b61c97ccedbbae6062a1221ca864f8b771ccf4dbedfd866f
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64
+Version: 0.1-3+
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64/com.25mao.wcpluginss_0.1-3+_iphoneos-arm64_8cb93fefabf775796cb7dc95587a00ada6bdc9ddd162f2caf44805cb72fab64e.deb
+Size: 19704
+MD5sum: 1cc464d82654a4963717e3144da19e63
+SHA1: 16f1d158499e7ca8c77bb72d00989a7451a00f92
+SHA256: 8cb93fefabf775796cb7dc95587a00ada6bdc9ddd162f2caf44805cb72fab64e
+SHA512: 33d58ac8ca1cc8ec5ba3f040544fe28fd59830d68b72695b612388e65da3d3c3d342af4520c11d8ea0c3f92e319b93d19d48ea6628ba0ed32022a93924adb9c1
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64e
+Version: 0.1-3
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.wcpluginss_0.1-3_iphoneos-arm64e_c707d6f00fa22f2ed6feccbf5ca21ea9a057df7c294e376559ef4b60456d5bfa.deb
+Size: 31546
+MD5sum: 3358cd3510c5b24c1510f6a081c3937c
+SHA1: 6b68a6d9d902d119df74effcbaa5b6227073b524
+SHA256: c707d6f00fa22f2ed6feccbf5ca21ea9a057df7c294e376559ef4b60456d5bfa
+SHA512: 1bebe25a6914bbf773c8b9ee523c5795e009f062bf396ec6dd3efaa2b349a9835e211a7dcae800782249fc029aee3e95b57b8a5457384cd2226abf40584fb905
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.25mao.wcpluginss
+Architecture: iphoneos-arm64e
+Version: 0.1-3+
+Section: 微信插件
+Maintainer: admin@25mao.com <admin@25mao.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: debs/iphoneos-arm64e/com.25mao.wcpluginss_0.1-3+_iphoneos-arm64e_2a4598c8ed958a4931081a323ff56aa9988e9073a06fae091cfe5660e1f1fb06.deb
+Size: 26420
+MD5sum: 47249ec58ba5485b9916bdb93b731b44
+SHA1: 3c03ce8dd3c42a67280f66fca6cb41baf78fbd47
+SHA256: 2a4598c8ed958a4931081a323ff56aa9988e9073a06fae091cfe5660e1f1fb06
+SHA512: 4c05fdc31484d95e50403f2d93a3913e2796350bc497ca91493d55ddb51f46211302cf4112a104bdcb1fba7e110c867a5f8eac70691c3716003d3e14d8bd54a8
+Description: 插件管理，长按插件图标可开启密码隐藏。
+Name: 微信插件管理
+Author: Mao
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.7-8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.7-8_iphoneos-arm64_11ec0b6d417afa04b536597f27f1fe21c3c205b362cb3ca5cea81ff16cc2c10a.deb
+Size: 11212748
+MD5sum: f6deb8cb20fbf1fc318d5c5c9f2a6e02
+SHA1: 3bc0b66cbbdec97d9fc7e681622d8a5deb30b56d
+SHA256: 11ec0b6d417afa04b536597f27f1fe21c3c205b362cb3ca5cea81ff16cc2c10a
+SHA512: fddc21e9144d424b11d605cdb3d1ea59334cf655bc26a4cc4ab5279cb2a68b6f54c6ef34c5c374682505b1f87f9daa3a52c88def27fbbfea49cf7853fab50da5
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.7-9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.7-9_iphoneos-arm64_c98cf93db5a8cbe544684727453bc969914b9929d67d5d6f55dd4934b29de026.deb
+Size: 11097880
+MD5sum: f17e596e93e34cca2cb19a4a844a91e7
+SHA1: 162ea779b68736593af25e401a0a45a04d587f96
+SHA256: c98cf93db5a8cbe544684727453bc969914b9929d67d5d6f55dd4934b29de026
+SHA512: 23b9b701987405738ea32a4c001a520506c07c7657af03083096459cb077efb6180b4059e229af128411ee462bad60a8cfd7f08019e689c5e381505b4d3fc075
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.0
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.0_iphoneos-arm64_953a04908c85e8e5a9efcf32642edb7623cd55df47f45f6b11a8d9f28b5ada9c.deb
+Size: 11208472
+MD5sum: 7763bc5f3d622b1b14847c08f5b1ae61
+SHA1: a356f2729084f598385b9812d77928c4c71bf0c8
+SHA256: 953a04908c85e8e5a9efcf32642edb7623cd55df47f45f6b11a8d9f28b5ada9c
+SHA512: bd88a496ab2cb76c19a1e3263f5dcbb91f80e293faf56ec268ee2ed8084b2436078e00cb0756f46b5535e5e99cb19a2209ddccd59640604a0515789fcd038f0b
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.1_iphoneos-arm64_1c1e8195c9086adfd47122b78355e7e0b5851e8d42db766149a2ae67ca826715.deb
+Size: 11166196
+MD5sum: 568fb2b6d6f0945dcc366e28a4449e26
+SHA1: 10b466057cb4ca625db182185fb46fb5c6a60e20
+SHA256: 1c1e8195c9086adfd47122b78355e7e0b5851e8d42db766149a2ae67ca826715
+SHA512: a5e9d7a4c5c9943d0c1f6846653bca8a08d98cf8edcd368803fa6b9b54f4c47fe89219481b3d6d6e7c7de4e024ba2646ea18d76a875aa02ab3bb2877642d43be
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.2_iphoneos-arm64_08a652be51be0914afb89fc2101a759a7b7ffc436b01ca3948795e6d94da0c6d.deb
+Size: 11091700
+MD5sum: 1cba9d52e8d141694be771f73cba8849
+SHA1: db6603fdbfb7cfd3ccac96c38c3f854941d87bb2
+SHA256: 08a652be51be0914afb89fc2101a759a7b7ffc436b01ca3948795e6d94da0c6d
+SHA512: 37f9d8700dbd92e8476978c2422a475f108fdc1548141dec38c1dc76aea06ea13e058cf1dac3762bf0d85db6e9b8d4a5222ab2146d46c7bccddfd913ec7e789f
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.3
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.3_iphoneos-arm64_bffca9b19f0e92f94c251d2b388612d9c47d480464c68e9fe9b0ac5fe168a1df.deb
+Size: 11052392
+MD5sum: a662dfaa2d7a4ff5ba279cdad724ce67
+SHA1: d88dd3e3e4b089fceaec08f714a5c80b9defda6b
+SHA256: bffca9b19f0e92f94c251d2b388612d9c47d480464c68e9fe9b0ac5fe168a1df
+SHA512: 79bc8d4edd80ed753ba0891678d5b98ec3e113d7c382187e88c36b0d218b7fa264da60fe408812875747191af097ad16809fa6d623cc6e9d8f6a18dc997d465e
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.4
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.4_iphoneos-arm64_1b657687b356faff3a425d4f1824214a41cc12d33577b0642e7447dfda4577d0.deb
+Size: 11155444
+MD5sum: 04113a7ce638e5bb87e42eae9b706726
+SHA1: 2b9b716aca7357673d901ce01716a145835b0cdd
+SHA256: 1b657687b356faff3a425d4f1824214a41cc12d33577b0642e7447dfda4577d0
+SHA512: fbe006847e6eb5ed1c40a4e11026712a75f5c4071c87e172edd176d8f13eb91631a2980b0b60482874b565dee79e9c6c0b2b1f141839a90dfb052cadfa9065f3
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.5
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.5_iphoneos-arm64_73b8ae4e240dd2ef0722205c76c0c553a165ddeb9c8450beb18d631e9f99117e.deb
+Size: 11192100
+MD5sum: b85ac437e1ccbc61b7f127199b594105
+SHA1: aabc88fec14304dff17c2f948aedd95c730e0460
+SHA256: 73b8ae4e240dd2ef0722205c76c0c553a165ddeb9c8450beb18d631e9f99117e
+SHA512: e0a910b1e736b74c5f3397ab4eb304a0f5a96e897160a8bcee67be41558f85de1383a683afb3e82488c064028d19d3444995b4771334d9f84464af3fd4eb80fa
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.6
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.6_iphoneos-arm64_0ac588cb623a78e798942d66c4aaf99073da40000fdb3e38007c706d445426a4.deb
+Size: 11725420
+MD5sum: 18190191001562ab40c8ba3a6d948477
+SHA1: a23e814d798e947d55bb32f3addc66474ca1fe9b
+SHA256: 0ac588cb623a78e798942d66c4aaf99073da40000fdb3e38007c706d445426a4
+SHA512: ade115d9f00ee7870fde536e6ed612f8117caab0610d4054441d5fc2fb5f49e3aa982fa5161d27351ac30ea49c59943a9e1c035c183f2ee71205424b076453c6
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.7
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.7_iphoneos-arm64_db67a99ba4e14d91d1eff1b556f699215b89c13b9c02f2958a5c9e077b31e357.deb
+Size: 11343612
+MD5sum: a931aa8ff72536791583bd86cccca68e
+SHA1: 7315319260bc211fa5169792ad7f464c62348696
+SHA256: db67a99ba4e14d91d1eff1b556f699215b89c13b9c02f2958a5c9e077b31e357
+SHA512: c77e92ae4fc7196ba504da8e34e311e4b3fb9c275b733ce2653ba01dbc4c1bf813c843f21011f6ef8e4a8ab25858e7f1850c15e816227af52edf588f51205023
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.8_iphoneos-arm64_c2d479ee254961d53bb64fb1231588aae2661ad7d21b1195502c13dbe2c0db9b.deb
+Size: 11552040
+MD5sum: 11d453cac3ad468418e0ae98a9c93b42
+SHA1: 4c7abd2ea89979ceda5442596ac5f09c4484322e
+SHA256: c2d479ee254961d53bb64fb1231588aae2661ad7d21b1195502c13dbe2c0db9b
+SHA512: a568d0557e65ef602e76e7f9beb679ec4e70a7921b50276138ca7f5ce8f7d72e1230553e1523830ea790c0528ccf11460b1114a1d64cecf6d41b49f4b8f31c49
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.8.9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.8.9_iphoneos-arm64_6f804dc1bf74387c8ddd4df9f52861683d369c33ea551092f07a110d60c1b130.deb
+Size: 11536076
+MD5sum: 70f3a1acc44035d2e6cacb3fa13a0063
+SHA1: f9b9426e922c8ee038d546a45c549942bf002470
+SHA256: 6f804dc1bf74387c8ddd4df9f52861683d369c33ea551092f07a110d60c1b130
+SHA512: f833e92ab20b3aeb3b63bdf49eb59a26fe2f7b8594ccae6a09ad07a2661db50cf814aaed151fe3c020a70838ecc5f931a871cbabc861c118f3e1768734453ce2
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.0_iphoneos-arm64_5ebd96718e26ecc6da63e385fc92f1e3a86bd397e819dab065c92ac43c918ffb.deb
+Size: 11829072
+MD5sum: e292ca2fdfc96d8b58827ac9c70fa347
+SHA1: e1f6e104dd695a44a43804c3e68ea05e72a322c1
+SHA256: 5ebd96718e26ecc6da63e385fc92f1e3a86bd397e819dab065c92ac43c918ffb
+SHA512: 3f750dacc616548a127990eb6c54e6d6255686bc825a095a7d2a5e590aa1bfbd355c1e0e8ade2daaa60febff1937866d56292a1b901c7d56bfc5933c7dd357ce
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.1_iphoneos-arm64_f0268cc3d9279d5034391aad7551eb12a21e33cd634c1aa986ee176c79e0d404.deb
+Size: 11583132
+MD5sum: 246524cbe25b7a3722789a78982b8ed8
+SHA1: 4ddf4ff09cd48df8059647c3ceead592c52df792
+SHA256: f0268cc3d9279d5034391aad7551eb12a21e33cd634c1aa986ee176c79e0d404
+SHA512: 9fdf47b5eeeb103f4666993195760dbaca689e89044831eeb9c9c08487d9a3890ec2d6056536359aa4c81f3e3007486ca5363b74cc368931d78b42e201a02c15
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.2_iphoneos-arm64_af49d6a818c91971fb8a153d00680c55b9ae9183b47320e0034cc444b803a9bd.deb
+Size: 12052864
+MD5sum: 3f84419980fb6fe4fdc59cef0037ea7d
+SHA1: 85800efb469e28e617f849d85ce6601d4dc41fc1
+SHA256: af49d6a818c91971fb8a153d00680c55b9ae9183b47320e0034cc444b803a9bd
+SHA512: 9249b23956d8f23395477b09ecb10418e07b371e70812f11976f365b73209d0487ecda2d40f014b08bf79b3adc75a071e353ebbe6b834f9bdc73fd022c841fbd
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.3
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.3_iphoneos-arm64_8473121a45041f4376e22f22cd128226b834fbdf1c6e6ec607e309b7b8263961.deb
+Size: 12233124
+MD5sum: 063a658630ac62d25a35bf01642bd852
+SHA1: 94faaf968f210bb34eed11df985a0e8cb680511d
+SHA256: 8473121a45041f4376e22f22cd128226b834fbdf1c6e6ec607e309b7b8263961
+SHA512: 2c38e767cd2293c727134c1daa17cc3d27be3f4bc44f8b7e40d1682094fd752f7f10bb891f181a4c352b6079421a47868a38bf6b26f5d9158183f4c673e08d6c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.4
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.4_iphoneos-arm64_195c9b1bcc6840f68e3ffb84135d8604217578b06e94ac8f2b059dc0eb57b7e8.deb
+Size: 12147152
+MD5sum: 56188c764b9a7ce9fdb8627b085e3ce3
+SHA1: 57f81f7cef00f61b5b98c04c7acb043a7457c176
+SHA256: 195c9b1bcc6840f68e3ffb84135d8604217578b06e94ac8f2b059dc0eb57b7e8
+SHA512: 4da949b2f7cf75345a189c8fa43cc93d763f50b3e8a0a027467c8e5f280214e7672ce4bee93775b1eac1e05e20ec4467095daa64f842cb40bbc4142077745721
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.5
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.5_iphoneos-arm64_b00b67d0e43ad5df33359dcecf62905cb011d581485f5df9ea63c2b5f42f9825.deb
+Size: 12416204
+MD5sum: e9d50ea14250a8914a6d7aff45d822c1
+SHA1: 0dc5c9b0feb30e9ef1df9d251d023b0a38bbd6e6
+SHA256: b00b67d0e43ad5df33359dcecf62905cb011d581485f5df9ea63c2b5f42f9825
+SHA512: 55f2f0644f0ff6856569224e3dd82a21d2e8d5d5961d14ed0016679d56bfc84721a09bf9511555fb6920de60ecfe54c5cbace9141a98672361504ce8ff169234
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.6
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.6_iphoneos-arm64_8cf5790226408911a3f5e9038842704a206dac6c00f8b28c3e0112937a467e48.deb
+Size: 12411700
+MD5sum: d6f7d326d4deaa66290f5a2d36ddf4f9
+SHA1: dbbccc314d8d89e4228b9d5f81b9604fa642dc73
+SHA256: 8cf5790226408911a3f5e9038842704a206dac6c00f8b28c3e0112937a467e48
+SHA512: 60159958f7906ce72e281354deb285bf76405cf5f6a7ab443b455327f23b139f1b7c4ba1fde5f08e846e341184ead5f3aa090ff424b800bf2c752c2349c72d8c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.7
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.7_iphoneos-arm64_d33a2a5a574e0dffa510c6a46d545bf5d346a061a79e10d9aafb7cad26673a38.deb
+Size: 12802292
+MD5sum: 2954cf1250dceedb3166073a9be2b7ea
+SHA1: 075f1a183eb765eb46781b28f30690e32be6d881
+SHA256: d33a2a5a574e0dffa510c6a46d545bf5d346a061a79e10d9aafb7cad26673a38
+SHA512: 19ce8f4e2e0d20944f3a6c54ee6c228c30291fc6e4499f37042530ecafe51236a20003a93ff57b3ef1b895921848eecef6439caf3c6486160bb9b21fe058cd8c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.8_iphoneos-arm64_7e0c70e19018ef1eceedf3fe7fd985087245b03e13074720e2209f5718e0cd11.deb
+Size: 11884800
+MD5sum: ee27c4698ff6bdd85512162bd787211d
+SHA1: f8935efb18abe52259113d2400ee2b32983dd147
+SHA256: 7e0c70e19018ef1eceedf3fe7fd985087245b03e13074720e2209f5718e0cd11
+SHA512: 8deb4622822d861a486304457df2cb7334f9dcc11b377c2e2d351c07391d9a31cb20824ba77d0c5ffe91468bdd809e5c22712dd946b3387725d9bb69cd29b28d
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 1.9.9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_1.9.9_iphoneos-arm64_f9099883323aa81aecf11880ca3b4fa2b9122df3eef47452e3f99cb217f1e5d2.deb
+Size: 12755440
+MD5sum: 5f23f253b99eb44bf17701c31b52a00e
+SHA1: b749b650c707039c8d8020ff613b69955b4a4d79
+SHA256: f9099883323aa81aecf11880ca3b4fa2b9122df3eef47452e3f99cb217f1e5d2
+SHA512: 85ced8c05e8e5eab85323755dee06e571d476629d0aa3ce34b1330f361a61f6484f98011669cea6b01514d60ecf7461d98c20c4b4a65e103cd52c759395b6c4c
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.1_iphoneos-arm64_af5e579d2962b9d4d18dbc1691c99f32a6050ab3e5d3b853f33df90c9baab297.deb
+Size: 12777316
+MD5sum: 093d0e12d10555a8e4d9051533c9946f
+SHA1: fa63e09d42be231c830f3fd03aadf4c71779140c
+SHA256: af5e579d2962b9d4d18dbc1691c99f32a6050ab3e5d3b853f33df90c9baab297
+SHA512: 6de68ad8dd8e62a479e663202966415870d4b1c32ea15b2d4c599273e13acf58438269317ecb785a87d34455f5bfc30f9c450a86577d287fb87765a63347a0b1
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.2_iphoneos-arm64_dd26780239f98f7ef7bd46650b5756a7a8617d362561b9469a66b5c9055325a8.deb
+Size: 12905692
+MD5sum: b823430c7e6c13e262a021db786272e9
+SHA1: 3e514e78ceabc1306e80b58a5f4248cd121eda43
+SHA256: dd26780239f98f7ef7bd46650b5756a7a8617d362561b9469a66b5c9055325a8
+SHA512: 3894cc777be29321def9868085a1aaf9751e75d26eb0e73fed7836e74cd4d07be50ac82f337de2e9e1604de617c07d11bd691052385d5b76086a001820c571b3
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.3
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.3_iphoneos-arm64_1927a9869a8307de51bdb4ea58390ea7f01553e016c30b1ed8a312532b11e70d.deb
+Size: 13145464
+MD5sum: 5caaef761e47e310e38c9274a84752c4
+SHA1: 503afbad3ee07968372543556c0315228667bc24
+SHA256: 1927a9869a8307de51bdb4ea58390ea7f01553e016c30b1ed8a312532b11e70d
+SHA512: c632ab9430de3c6aeb91a3b4777774c397fb4df490d21a483677bc0765cbfee88b3adbba3fedce49ff2e0bb7fec30f95a7840da64953de9a048fe741969484ef
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.5_iphoneos-arm64_864b7687c5d3cfe889cc98286fb1bb755144ba3d1e5f8dc845c23777dcf3d540.deb
+Size: 13078824
+MD5sum: e0c8324cca62b100f04cc09f7e492d90
+SHA1: 1b594779199df104d9df5e52e22e3776eacf3b33
+SHA256: 864b7687c5d3cfe889cc98286fb1bb755144ba3d1e5f8dc845c23777dcf3d540
+SHA512: 8945e314c8b57c8174ec475f61715a8d76dd18a1c52e238295682ee614e854ed44a550c76c90dc4bf99d2922ecb21b5ac099683e6fdb5a7440a88fc0f87550e4
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.6
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.6_iphoneos-arm64_d72f4c97492c1546e78c4144f5400e5df621839e94d2978f1470ca60fd4baa04.deb
+Size: 13537092
+MD5sum: f4459f1669826c94f9e2e36ffe0aee26
+SHA1: 4d047e2d37a06739dc72f0c98007550690961348
+SHA256: d72f4c97492c1546e78c4144f5400e5df621839e94d2978f1470ca60fd4baa04
+SHA512: 6f796958a139b2e4c549fc3adcb4e0f0b959aec5dba8bcaa0e37d27f20349ab4f6a7e4c1e15df98f4d306de70fdd7598814e65ebfe6758ad5d9b762b49159ba7
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.7
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.7_iphoneos-arm64_f5e9b1c0f0677899aa246efdd576012630321ce9a79abd4fef7fef2156e5e260.deb
+Size: 13427464
+MD5sum: 58827abbb938e4e2c14496e5a6a1da0c
+SHA1: 18d130f3e34037f2a28265b4c2a43d2a8a643a5b
+SHA256: f5e9b1c0f0677899aa246efdd576012630321ce9a79abd4fef7fef2156e5e260
+SHA512: 1b26ff508adbb25446d2f9ca9ae60b4edbc1f7674e31598701be01efb8a3abf8093c9b50ab6ad7cd4b985a27b36711c73b19a8be12b3367d53489d4fe1c3bf00
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.8
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.8_iphoneos-arm64_39cdf46410c13d34d5376f0107803566e23decbab2235d6f1214f51adfd3648d.deb
+Size: 13963972
+MD5sum: a80551c910d130b3e4430e2157281e50
+SHA1: 0599cfe2d61c307ffb4b1aa15f3a3a46e5d2d2c7
+SHA256: 39cdf46410c13d34d5376f0107803566e23decbab2235d6f1214f51adfd3648d
+SHA512: b2da8a68d7c3f04c155adf4f57c0445f7f11c71538228f7e7dc4978249b5e488620c8bfc80d955bb9d73bb92cda2d674317742311bee795121995148b0352a7d
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.0.9
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.0.9_iphoneos-arm64_4ab0be5aa544fa64b466099bcd8fe632c9c16c724f0c260260239d3add77c5a5.deb
+Size: 13848884
+MD5sum: bb652fe6f78aad26fa9079a52bb20f9f
+SHA1: d438390abd4f9a864f543a8ab95242a576d99c9f
+SHA256: 4ab0be5aa544fa64b466099bcd8fe632c9c16c724f0c260260239d3add77c5a5
+SHA512: 7bdef3fd7166054adfc4cba7ca113dee3ff17c539fb179426f205567e38505d15911dbb36a91b05eddd6f937598dc1eba544f28ea098ce0c69e7c5f67d2fb381
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.1.1_iphoneos-arm64_6fbec9c60f71f3c009826afb99aad233d8bb93ca8b92b5df72f62e4dbf441aed.deb
+Size: 13978668
+MD5sum: 7ae3c92c17e662d48c8aad54e4bf7801
+SHA1: 3dd561ac0bb59c3cd9cadbb0ed5e0e691ba27049
+SHA256: 6fbec9c60f71f3c009826afb99aad233d8bb93ca8b92b5df72f62e4dbf441aed
+SHA512: 8e58a86b48d453268b7221919293a84b89340b2002b0f8efe31fd0804b2846540c3e29afba126a93c5e98509a811e4da8dea48a36492ae9d30071274eb195f9d
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.1.2
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.1.2_iphoneos-arm64_e7c17d65aad312046355563d6ae5838f6fccbe05ce78324e09b2b6abc8259b53.deb
+Size: 11024600
+MD5sum: 7dbc29f429472f9fa4dffae6ab77604d
+SHA1: de29bc52d81a32814158f1a90ea46f0a0fa49f60
+SHA256: e7c17d65aad312046355563d6ae5838f6fccbe05ce78324e09b2b6abc8259b53
+SHA512: d3c403c60f747536b9606bf318546876a01d5ce5d22db839dd2fd65d6f748cac3004ed196a1ecb177f4cbc66d6a1a17819777b55f403e14466e3823f16319e55
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.HBWechatHelper.ailun
+Architecture: iphoneos-arm64
+Version: 2.1.4
+Section: 微信插件
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.HBWechatHelper.ailun_2.1.4_iphoneos-arm64_2fa10776a8f8190602acbe195f18b6b39ecc9ec48d5f90fd4c37f0fa61e8bfa3.deb
+Size: 11813076
+MD5sum: a54edb7a45047daf0ac981b71667d9a1
+SHA1: 3576f61165428e997e5682c0269aa50f5c59c624
+SHA256: 2fa10776a8f8190602acbe195f18b6b39ecc9ec48d5f90fd4c37f0fa61e8bfa3
+SHA512: 9771307f324a204153cde58301d1998cbe1c50bf662581c45cc2c9ff98c85cb7b98585a2d629615d3d14852e64052ab84eac5d5485aceaee02886f288a7f3b27
+Description: 点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况Live图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载dylib文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能。上架备份。
+Name: 黄白助手
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.Purifyads
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 微信插件
+Maintainer: null
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/com.Purifyads_1.0_iphoneos-arm64_996a4a67ce7ada5c167acb007a60bb8d63f7120de642c70e0a737f4d4105f2c5.deb
+Size: 5244
+MD5sum: e642e1a44ebf2f55f5f082b459d21c6c
+SHA1: 2f93771ea43218e5d41a8a10688de2afd511f3cd
+SHA256: 996a4a67ce7ada5c167acb007a60bb8d63f7120de642c70e0a737f4d4105f2c5
+SHA512: 0e8bf6f170cd7e3b8dfd5071d5534dba1920415be98abf66c3bd84a60aa141443bd26eba8205bdcf823629a4f7f03df1f703eb4a7629a59f1c4845d8217bed72
+Description: 31/33版本去广告的友好版本。（只针对这俩版本）
+Name: Purifyads
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.Purifyads
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 微信插件
+Maintainer: null
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.7000), firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/com.Purifyads_1.0_iphoneos-arm64e_d08b2744ce107c8132b283aa80707d28033b58965a84f7cf3b21e83665759f95.deb
+Size: 6618
+MD5sum: 968e73a3659f79e28830db6324ac5241
+SHA1: 5b75cc3702370cdcda73aa9e71ab8dd45290da7f
+SHA256: d08b2744ce107c8132b283aa80707d28033b58965a84f7cf3b21e83665759f95
+SHA512: e9b508eb4fe2bae950290a3824b07eae1576b9892a1bd8fa92f84fa71f9803eae1e99d116b51017112f2d6df91f26628359047b9b27456ded462392fdd9867e7
+Description: 31/33版本去广告的友好版本。（只针对这俩版本）
+Name: Purifyads
+Author: null
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.RestoreFont
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 插件配置
+Maintainer: 灰灰
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64/com.RestoreFont_1.0_iphoneos-arm64_af95d345c90d40a9feb5c6b434b0a2b66cd31bf2aa868d6ae8c10b0a5b13a96b.deb
+Size: 2592
+MD5sum: b1a9a9bb165f57bea47f665d0a79aa40
+SHA1: c6de4a3e51ae894feff1a58faad6f500cdad5c89
+SHA256: af95d345c90d40a9feb5c6b434b0a2b66cd31bf2aa868d6ae8c10b0a5b13a96b
+SHA512: 44d5058592d5e37f45259c6c6d11bb8057e0403abe086c02fd148ebf70d931714562169865d604e10ed18c7eb7e2cf585a01353c5f1435d61367ede415869a7c
+Description: 
+  * 下载后脚本文件在/var/mobile/Documents/RestoreFont
+  * 先挂载字体目录/System/Library/Fonts
+  * 再把RestoreFont脚本移动到需要替换的字体目录里点运行
+  * 最后重启用户空间即可
+Name: 字体一键替换
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: com.RestoreFont
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 插件配置
+Maintainer: 灰灰
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64e/com.RestoreFont_1.0_iphoneos-arm64e_e1ad934f7677999f4d8d394587b33e166774ff24996e17af4dc8dbaf47b9c106.deb
+Size: 3316
+MD5sum: df513f2d33244ca9be5c4cd1bd94e7be
+SHA1: 75ced04a8750a27a6a8e48aec8b7c82fba7407af
+SHA256: e1ad934f7677999f4d8d394587b33e166774ff24996e17af4dc8dbaf47b9c106
+SHA512: a45c8a1b320d46757e98d7768dc224cfb341056776abb2474e9c0add15f7ff34e23ee7c23e3f0670bb9871629e06ecd2f199cc551afa7eed1a884322716a55dd
+Description: 
+  * 下载后脚本文件在/var/mobile/Documents/RestoreFont
+  * 先挂载字体目录/System/Library/Fonts
+  * 再把RestoreFont脚本移动到需要替换的字体目录里点运行
+  * 最后重启用户空间即可
+Name: 字体一键替换
+Author: 灰灰
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
