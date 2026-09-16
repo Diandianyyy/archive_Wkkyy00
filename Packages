@@ -7550,3 +7550,1856 @@ Description: Picsew Pro 不支持注入。
 Name: PicsewPro
 icon: https://sini921.github.io/repo/sileodepiction/icon/picsewpro.png
 Author: x✨
+
+Package: com.picsewpro
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: 插件
+Maintainer: x✨
+Installed-Size: 120
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.picsewpro_1.0.0_iphoneos-arm64e_da47bf5f3c531c0e11e060ab09a3dd7597013221a4236b1037e7806724e040bc.deb
+Size: 25976
+MD5sum: 40ac108979910965a153e5d72756fa9f
+SHA1: ff18cdee1bdedefd00d9745efe1c553b7a536462
+SHA256: da47bf5f3c531c0e11e060ab09a3dd7597013221a4236b1037e7806724e040bc
+SHA512: e1357cc338ded426172cfba7912945df78dedc10660f3b0f6dbb9bdfcaa76a0792ef9c4a1c5b0c8e9da52c544591621e4b2fd2fc0957e4968fa8d3c29b2e5eb9
+Description: Picsew Pro 不支持注入。
+Name: PicsewPro
+icon: https://sini921.github.io/repo/sileodepiction/icon/picsewpro.png
+Author: x✨
+
+Package: com.pingfan.wechat
+Architecture: iphoneos-arm64
+Version: 2.2-1
+Section: 微信插件
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.pingfan.wechat_2.2-1_iphoneos-arm64_812e8989f311516d64f794f33775408f216664b3c3ec3757b274d53cb7dbfa4f.deb
+Size: 1657552
+MD5sum: 54b248bf1bde3f9d48ad623542ba4c54
+SHA1: 3c8c87b47bfb9dd09715721667886dcff29b5ea0
+SHA256: 812e8989f311516d64f794f33775408f216664b3c3ec3757b274d53cb7dbfa4f
+SHA512: 60fb9336f146710ec99d91b275a759b624b11555bda142a6ccbad0809d743b56e56387086361fe55588ffe7bdd80c3cd96628093a4a2e24e451d9ed382c22549
+Description: 备份。稳定版。
+Name: 虚拟视频
+Author:  平凡
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.qwq.wcautoclaimhb
+Architecture: iphoneos-arm64
+Version: 1.0
+Priority: optional
+Section: 微信插件
+Maintainer: qwq
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.qwq.wcautoclaimhb_1.0_iphoneos-arm64_96ecb72b3053e3cbf57261636c4c804f734862edfd86a51db025a6ca39ba3ff8.deb
+Size: 14720
+MD5sum: df29394fcb49b66d252033739276e14b
+SHA1: b5e8c3c4714c8a02818e5f5d8670d275654178f9
+SHA256: 96ecb72b3053e3cbf57261636c4c804f734862edfd86a51db025a6ca39ba3ff8
+SHA512: e39161c31364279f93647d55d3d983f78bc24958e52d598264439a68caeef05bde66729d1fa36cdc4503eeb633cf0c17ba57ac303969740bd465f93ee791c1ec
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Name: 微信自动领取私聊红包
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.qwq.wcautoclaimhb
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Priority: optional
+Section: 微信插件
+Maintainer: qwq
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.qwq.wcautoclaimhb_1.0.2_iphoneos-arm64_cb03c5c37720e6690c3ac27d8311fe84f3e8148e438f32d67291f7c57a796ff1.deb
+Size: 15836
+MD5sum: 49e10a1d00d94813dae757b72471bfd7
+SHA1: d37cc63e6d3418cc9e5fb8a7b90f8642fe4801d4
+SHA256: cb03c5c37720e6690c3ac27d8311fe84f3e8148e438f32d67291f7c57a796ff1
+SHA512: b296a245bd7274d3412f6c7cc68c3ac119d91faeeac6d4e81bc71c5c9cabdd06b613fc9dc4c1432112af01ffec1d7a14ba796bac1251a5e316f18a3f3c9790cd
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Name: 微信自动领取私聊红包
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.qwq.wcautoclaimhb
+Architecture: iphoneos-arm64e
+Version: 1.0
+Priority: optional
+Section: 微信插件
+Maintainer: qwq
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.qwq.wcautoclaimhb_1.0_iphoneos-arm64e_61865a6119b0c85d3e4c6abf4d9c39484f9948f6eebb8ddc5a15da82320cf17f.deb
+Size: 20116
+MD5sum: 7bf6b44796ec10576d624864508a81e1
+SHA1: 6efdaf61e513e84b2031b751bc40703af3495979
+SHA256: 61865a6119b0c85d3e4c6abf4d9c39484f9948f6eebb8ddc5a15da82320cf17f
+SHA512: f90be9b2924781490c13f419fc142986dd53b1da2b0637e258d33a70e4b9c2fedbad687c38e8d0c9e29af835fc7b1f7c2d2158e75a6793f7b2ba1ed29b0ab007
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Name: 微信自动领取私聊红包
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.qwq.wcautoclaimhb
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Priority: optional
+Section: 微信插件
+Maintainer: qwq
+Installed-Size: 188
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.qwq.wcautoclaimhb_1.0.2_iphoneos-arm64e_2c6fca4f8ccf6b0ecf84b671dbffb8405fcc4c1afe0e0bb47a374d8f72f8957c.deb
+Size: 21514
+MD5sum: 93dd1fff1f8513b6dac2c7eedf3025a9
+SHA1: 6ecd2002d586306e25b4328e017a274b0accf517
+SHA256: 2c6fca4f8ccf6b0ecf84b671dbffb8405fcc4c1afe0e0bb47a374d8f72f8957c
+SHA512: b442b38a98c09eb82ee47d35212608b2bfe37672fdc0d10dd52072f2bbc4d547a56970b9242d5a6f012e572c3c4c3eb5924285f1f8c2198151bc2daf597b6ce9
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: qwq
+Name: 微信自动领取私聊红包
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.squidforce.snapper3.plugins
+Architecture: iphoneos-arm64
+Version: 1.2
+Section: Tweaks
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 232
+Conflicts: com.lclrc.snapper3.plugins
+Filename: debs/iphoneos-arm64/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64_dcd22a97a3f9712fa0d3b5c4470edc33148ed08f0f458be3801c4a34f0dab52b.deb
+Size: 42216
+MD5sum: 7cae293ce7df6b0b9c86ad37a5e8b1e6
+SHA1: b87ba4beccb538000ee9898f2bb8ea2ec35b507a
+SHA256: dcd22a97a3f9712fa0d3b5c4470edc33148ed08f0f458be3801c4a34f0dab52b
+SHA512: e92a33009cc6a6d310fc2f6f4ceea5fb5832e94c10315486d2869b41bfd862bf3da196fa27b6332abf6abeefd0496be12c32dbc9fceeb406e1def203f82b4ac6
+Description: including iMark and Piiico for now
+Name: Plugins For Snapper3
+Author: SquidForce(乌贼力量)
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+
+Package: com.squidforce.snapper3.plugins
+Architecture: iphoneos-arm64e
+Version: 1.2
+Section: Tweaks
+Maintainer: SquidForce(乌贼力量)
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: com.lclrc.snapper3.plugins
+Filename: debs/iphoneos-arm64e/com.squidforce.snapper3.plugins_1.2_iphoneos-arm64e_4cf9bd381a9d57761e2c1fad258d8cfa0576210f4c0462472b8410a9827c4d59.deb
+Size: 46364
+MD5sum: dd25e089cc080134a23651de8a09c129
+SHA1: d21316ee0b1686102c9cb65ca6cf15d4b8db063c
+SHA256: 4cf9bd381a9d57761e2c1fad258d8cfa0576210f4c0462472b8410a9827c4d59
+SHA512: 06ecb72febf2b37141d2c3ce77bcd4cb87e7bb5a2e5449783fe03f0752a1bafefece45d4e0cbda83ee2451c46e3f47649c2c0fafe1694bc19f4968d03e7b34ac
+Description: including iMark and Piiico for now
+Name: Plugins For Snapper3
+Author: SquidForce(乌贼力量)
+Icon: https://s1.imagehub.cc/images/2025/01/01/6649d33bb5c1426f31fa0d05bddce392.png
+
+Package: com.starry6.lunanoad
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 去广告
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.starry6.lunanoad_1.0_iphoneos-arm64_5cc151395871274b548d3988ca80e3bd47c87389f934e72db5e9784d4819a51a.deb
+Size: 4552
+MD5sum: ab087daa09edb744fde9aa36cfc1ffcf
+SHA1: 42f79cb33cc6ece11535ecb4de2c6d818a2d95d7
+SHA256: 5cc151395871274b548d3988ca80e3bd47c87389f934e72db5e9784d4819a51a
+SHA512: d9c0cc3a2e08f22be77c7c480617eefdf59aabd2e3faeb841ad5a2c13db247e6445c7094d310be01e511e930f45f62a111359d7da0ea3d67893bbd4e6f22bffa
+Description: 去开屏广告，秒过激励式视频。
+Name: 汽水音乐NoAds
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+
+Package: com.starry6.lunanoad
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 去广告
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/com.starry6.lunanoad_1.1_iphoneos-arm64_14a857e7e8d78998a5859fcf0c891b547aba7880db706957d438b65a9a64f01a.deb
+Size: 7688
+MD5sum: 4d4b618f1a52e3d329623e5692aadd62
+SHA1: de5b51f251c25c1a0881e7ce254993c7c4f7f91f
+SHA256: 14a857e7e8d78998a5859fcf0c891b547aba7880db706957d438b65a9a64f01a
+SHA512: cebc7a453c9810cb32994f21f3d95f9da312c6e61aeb9efc4de2ee6ee7e92c6ea4cd8683c7a993d03822e7f4e1c7f08467d47b2bc628a6797a80da12ecf5dbb7
+Description: 去开屏广告，秒过激励式视频（汽水版本请保留在13.5.0）插件对抖音、极速版、火山版等版本也支持秒过激励式视频。
+Name: 汽水音乐NoAds
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+
+Package: com.starry6.lunanoad
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 去广告
+Maintainer: liwhs
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.starry6.lunanoad_1.0_iphoneos-arm64e_4bcbcd8804775fac6baef45956aa6f326fa47cf618788db397e2e2b86d17dada.deb
+Size: 6110
+MD5sum: 7a61a8ddaed3453b3425e612009f0c0e
+SHA1: 15a610e4dbf609eafc6237cdf9a3f1dc95fe27d1
+SHA256: 4bcbcd8804775fac6baef45956aa6f326fa47cf618788db397e2e2b86d17dada
+SHA512: e17928cf2ac0d79114d70be45e6ca6d87735349905bbdf071f088e043d1fa2877c6a22621e152309fb4e37a6bd5fd404a170f5596b0ed407216d40a508092871
+Description: 去开屏广告，秒过激励式视频。
+Name: 汽水音乐NoAds
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+
+Package: com.starry6.lunanoad
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: 去广告
+Maintainer: liwhs
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.starry6.lunanoad_1.1_iphoneos-arm64e_8dc917ad1fd619a784be46597357d27fee0dd8ad55f4180ba4a44e199e04566a.deb
+Size: 10154
+MD5sum: 636ddd3668b547be37b42ad08b551006
+SHA1: 38880278dc1684a802c503e71cda7a81d1ce690c
+SHA256: 8dc917ad1fd619a784be46597357d27fee0dd8ad55f4180ba4a44e199e04566a
+SHA512: 9afc39fbd6c841a79e715da5df8e55f868b441f0775706484236b54f975deae1b47baadb0c88e3c8d8fa943283b7b840035fcd893a07ed3b49d72d71dce083cb
+Description: 去开屏广告，秒过激励式视频（汽水版本请保留在13.5.0）插件对抖音、极速版、火山版等版本也支持秒过激励式视频。
+Name: 汽水音乐NoAds
+Author: starry6
+Icon: https://s1.imagehub.cc/images/2025/05/24/565d1c832919445be395db0b02f6a39c.png
+
+Package: com.susu.snapper3.picta
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: SuSu
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/iphoneos-arm64/com.susu.snapper3.picta_1.0_iphoneos-arm64_c0b4a418f76cdd53ac2124c7e174576dfc2522a80e0ece8935e4c2901fa7f784.deb
+Size: 10600
+MD5sum: 3efe9330315ab80f8204f1724c12abc5
+SHA1: 1a9f8bdc5f90a1bcdcaaeffd82633aff9791ae5c
+SHA256: c0b4a418f76cdd53ac2124c7e174576dfc2522a80e0ece8935e4c2901fa7f784
+SHA512: e69253578e3c5a10d3a08e0c2454ed7c85a0b3ed3ec6e6a39d5bf7429e730f559901402f2d5ffb0d222acfc76a8fe307fa82f9cedcf51059a30364d574910165
+Description: Picta适配 Snapper3 的插件
+Name: Picta
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
+
+Package: com.susu.snapper3.picta
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: SuSu
+Installed-Size: 180
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: debs/iphoneos-arm64e/com.susu.snapper3.picta_1.0.0_iphoneos-arm64e_0c9b8d5e688aadb587b1396e8a9da63dcfd10c782fd0cd7038dc67c9a9efba32.deb
+Size: 11608
+MD5sum: 76bd3ba80b8adafd3703f6040610c548
+SHA1: d2fe029ba0ed80d5db8fc18b194130006dd50fba
+SHA256: 0c9b8d5e688aadb587b1396e8a9da63dcfd10c782fd0cd7038dc67c9a9efba32
+SHA512: 8c099369128d58f7aa54c839e856b25f783fba85509767c4b36e6f01320982b6c009eb7f4b7a84673bc1967788c5567da390296cc30e348800c7509ae8f93d5f
+Description: Picta适配 Snapper3 的插件
+Name: Picta
+Author: SuSu
+Icon: https://s1.imagehub.cc/images/2025/12/13/f934f840753cc376919f03e706ab50ab.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.0.8-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 5856
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.0.8-1_iphoneos-arm64_a41406ff2974dec404737a8a319d620618c8b6efb1ff814ff03f001836cb6f40.deb
+Size: 2610888
+MD5sum: 7d28118bb35c823f195c80bf404fd1aa
+SHA1: 9e70dc2f1f59e2f64b4eff9532aa05a4ffb859de
+SHA256: a41406ff2974dec404737a8a319d620618c8b6efb1ff814ff03f001836cb6f40
+SHA512: 05e9679b4be4aa9b15f66508609409f5ceedadbbe44e0dbbf646bd4d4e02ce58a8b7ec12dd09e2901df08665f51f51540a5c12af73cbf7bc6dc098f00313fe4d
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.0-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.0-1_iphoneos-arm64_a2950a74403269215caf7d4f7e84d6f93084587d1495ace4ccaadce1e7fd4f98.deb
+Size: 2732744
+MD5sum: bf297bd0b6e857563890caa9498c9cb5
+SHA1: 75b9793a224b1a89dd73d7f714da8d416d5ed5cc
+SHA256: a2950a74403269215caf7d4f7e84d6f93084587d1495ace4ccaadce1e7fd4f98
+SHA512: 718b1786988895b6aff54a41e84a1431a8ccbe62fe895b85b3ba75e40ab9e678822f0aff27704182aa781ca2d27dd43e63ce84cf050439bb239bb9625c834c32
+Description: 微信主题盒子，目前感觉没什么bug，上架备份用。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.1-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.1-1_iphoneos-arm64_d0a7a9f573af81384c7f3bbd8a454a32dfd835affa1b47654376cf0340e5486d.deb
+Size: 2730056
+MD5sum: 847e66d561c8322981bfd4a1482655c9
+SHA1: f1d5952ed4f98fe8e6bcfe30902e30dee866808b
+SHA256: d0a7a9f573af81384c7f3bbd8a454a32dfd835affa1b47654376cf0340e5486d
+SHA512: c5f7aa9296c8e99358b9d3d9d93a948abcb6721cfe46e3576408a14e1ccb1657d7f467d3293a63a13fdd29a1476efdfe3e182d459d7ee93ca2f98cfca592c7dd
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.2-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6148
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.2-1_iphoneos-arm64_9366664289b69bb9f122745a55f62fb25a52c12a2879b4990862c99c2a6c69da.deb
+Size: 2740980
+MD5sum: 70c3f352c473c6b10cd803ff725e0261
+SHA1: e59546ffbad0c00d4e540ed07ce0805350935cd8
+SHA256: 9366664289b69bb9f122745a55f62fb25a52c12a2879b4990862c99c2a6c69da
+SHA512: 82f63615bd50383c69584654ac34a1f6eac75f7b96a41d8e12184f795026db84a6234f69f4f0cc535b8232fed59951476080b18413f7fea888488f5983a16c46
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.3-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.3-1_iphoneos-arm64_031d56d8fd697c8a89c441d23a25abc362a39b9e467c24df52a115ab904ae04d.deb
+Size: 2784612
+MD5sum: 9f6304b37c5f7a587227974183b2393a
+SHA1: 47215da89b7ebe9eb6db1cfa0eb8047d7e793d82
+SHA256: 031d56d8fd697c8a89c441d23a25abc362a39b9e467c24df52a115ab904ae04d
+SHA512: 59fd0008dfe94fd88218840621e1fae9ddd85ce5f8dc42df60c88332bf0b798ee676f4e6cb04ef5b0e5783cc2608b57da491096e49e236d82af4a06e6fe7e28e
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.5-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.5-1_iphoneos-arm64_48b5dd81e06d1f60438c1c16a5fcf8b679b1e905f30559a13427ab860ba55b28.deb
+Size: 2986824
+MD5sum: 04e5c248d0a5b9e835ce2001e871bc13
+SHA1: 79be79fa1f118138afb9cb20e79334f233f94215
+SHA256: 48b5dd81e06d1f60438c1c16a5fcf8b679b1e905f30559a13427ab860ba55b28
+SHA512: c8cdbdff4b59d55d2b07b71ab32421c4932dce2f3728a0912c2def65413caf129f8e9fada68a868347afcd67b4cd543c90dcee89c9f384e7e43b2db86186e089
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.6-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.6-1_iphoneos-arm64_b503088ab9626e57e19de76eb174197924d23ec60af7fad6bca98e1e7218fda1.deb
+Size: 2985132
+MD5sum: 8d9bd91b450960dd62a52801872f3ffc
+SHA1: db28380737ed648b0a049e6c9d244041ff8aa9bc
+SHA256: b503088ab9626e57e19de76eb174197924d23ec60af7fad6bca98e1e7218fda1
+SHA512: b299289bf77c75aacc6db81ec0be56a115b83e6745275bca12dde31a94d3d5d6a81e5220b2a82931671d4ebf5c512a87fadd7bfb0fd39fa6ca6642a3cc3e1ff5
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.7-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.7-1_iphoneos-arm64_68f8d5383ab66d270ebd8b903fdb2a273328cfa2bb9a6ffd606a20aeb7200a89.deb
+Size: 3029044
+MD5sum: 6d4a45a7bb6099c5be261ed3b3c5acdb
+SHA1: 480504eae2705f0c377507855ed84fc5f876102d
+SHA256: 68f8d5383ab66d270ebd8b903fdb2a273328cfa2bb9a6ffd606a20aeb7200a89
+SHA512: 7a587a01ccc4328b7b279705cc8b37948b3bfc9bcc711b176e6cc087c39982a264f3b6aa170d8e78d2a9dca616c337684e0be5096d25bbb51570fe140c93a1fa
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 1.1.8-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_1.1.8-1_iphoneos-arm64_1ab7e381105e9851a8b0e1237622f49fb72ac7648cecffcfcc878457e67a4255.deb
+Size: 3025636
+MD5sum: 65188522c95b03c8d4ede2c3983e5ae6
+SHA1: 84d27bc098b233e58fe75e9805dd0edd765d7108
+SHA256: 1ab7e381105e9851a8b0e1237622f49fb72ac7648cecffcfcc878457e67a4255
+SHA512: 756b8c332a38e07eea58f0b5c8b7d4c2f47e56336de7ed50aaa2370ff82ec7dee00b99e9d30ad848a845e87da23d196a4406cef2b85aafdf93d6f027fd458db0
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.0_iphoneos-arm64_1cf5a99c8f7ebf21dcb3b25dc55d89630276ae10d056cfa83eaea7f9e59eebe8.deb
+Size: 3584936
+MD5sum: 5d1a11eca4515656698d6b1e40d53dc5
+SHA1: 48c8ccf245e750c5cc545ef5bffe77ab158e40eb
+SHA256: 1cf5a99c8f7ebf21dcb3b25dc55d89630276ae10d056cfa83eaea7f9e59eebe8
+SHA512: 6b1870c9e50b20eb6fbdbeaff9934975ab9bac7da34a53e72c264c93dc59a8ed44de7b53945e2857a57f02a3709200af220ce7c967428706e5cf7c681b2e8d39
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.1-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.1-1_iphoneos-arm64_cb8dc8fe7f7d273c49bec427c0aed63757f50d38c46286bdaacc5a33d9d26119.deb
+Size: 3619580
+MD5sum: 90b2ce08831cff13c1c7eacf5160507e
+SHA1: befd45389c1e9dc849a053f3e26de34548949716
+SHA256: cb8dc8fe7f7d273c49bec427c0aed63757f50d38c46286bdaacc5a33d9d26119
+SHA512: 39cf1cacd25cd0c8e864517d6699b96362703142ba7ff5cb009ee606ea1135cf4737e476bd959749a0207ecc56733d9735672433a9ff6bcd07de8fb3f4c9b198
+Description: 备份。
+Name: ThemeBox
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.2-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.2-1_iphoneos-arm64_48eecda7a4558c27a21edd24ec9d2eb15f56cecdc3de1f9363f265dd2d94481a.deb
+Size: 3646660
+MD5sum: e848b9927093836aae7ca0e0664760e6
+SHA1: 78bd305d796c7fb8ece2e0f1f5b1d9d69d83c156
+SHA256: 48eecda7a4558c27a21edd24ec9d2eb15f56cecdc3de1f9363f265dd2d94481a
+SHA512: 7df3fdce618fd2648ab04aa44da6722c8aa8a7fed52c6738c127a48b507f424ea1548d13b11d3eca973673c38cf085b84c3a0e50d63367ab7deb76ea2634dfda
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.3-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.3-1_iphoneos-arm64_1a55e3ef2c276db19391730c069267923b15fd6fddd09040607069fcce08a24f.deb
+Size: 3765848
+MD5sum: 819339012a09f27732668f8ae7866cc5
+SHA1: 1f36e63b6da4d5671d0d02428c6ead0734b2da7d
+SHA256: 1a55e3ef2c276db19391730c069267923b15fd6fddd09040607069fcce08a24f
+SHA512: 1f167cbde8ba3c1fac47d18b178b25892adb173ef98bdc422219e2e068904b168c51f7b0e9ac766322f1df5954cb0d6965a419420ba3d197d6db792a6d4762f4
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.4_iphoneos-arm64_0d7594f26425a7062a7d268b898ed90f7cf7619f282ad9d924457c6dcb9507bc.deb
+Size: 3809864
+MD5sum: c203f6337cfabf8e26c38af7ab9f70ab
+SHA1: 874879dbb29c65c8d1e0f8c915eb6d9505ad1bfb
+SHA256: 0d7594f26425a7062a7d268b898ed90f7cf7619f282ad9d924457c6dcb9507bc
+SHA512: f83b69190a2a1f023b0c4f41ae28cfa37812c3af3b08a672824d7aa6fc6be2613fb8798c60426e7c41d2f1e9aea4ae9de342c54a3c6543aa856cd0592e1bd2d3
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.5
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.5_iphoneos-arm64_85aaf0c0d64d594bae66707d071a27a67d4a69f972e304952e0689c4bec1b61b.deb
+Size: 3863848
+MD5sum: 14e9321bb21da583119a6b50044b0010
+SHA1: 3ccb7c7f8f365458e7dacdc1384a0dc9a611be6b
+SHA256: 85aaf0c0d64d594bae66707d071a27a67d4a69f972e304952e0689c4bec1b61b
+SHA512: 577f6b01acd41b12d2326c2b3478cf8e46ac509615320a6f8a9a4ef7a9b990649287aa8d096e7c9b49728573c12ac386f2e181dfdc01687ea0cfeb1b21f19d45
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.6-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.6-1_iphoneos-arm64_879d79720ea7c799922ffd116bb0bb24a22201ea31c24bdd464bfeb26312dc8e.deb
+Size: 3970644
+MD5sum: 69893eecd758c139f33f9677a8b632b0
+SHA1: 491575829d80ee09fb8be9828e682bda23e57199
+SHA256: 879d79720ea7c799922ffd116bb0bb24a22201ea31c24bdd464bfeb26312dc8e
+SHA512: 4fe508ca054a33f9dd56f4359dead1c7cff8e8def10f5ea56cf713610f3c9b94cc42820008a0c3ecc0d25c4c4c5514bb98c4d26648e5e52e5174788aaf1cee91
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.7-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.7-1_iphoneos-arm64_41a2edd2a2a165e6d9e8e7fc61f45d17aa4fea930107f5db52caf8e53d09ecc2.deb
+Size: 3978752
+MD5sum: 37fab7f85141fefcd03e872d839e52b5
+SHA1: f4ab1c66b2db0dcc4b13ce95ae1fa7f1b6c97dfd
+SHA256: 41a2edd2a2a165e6d9e8e7fc61f45d17aa4fea930107f5db52caf8e53d09ecc2
+SHA512: b88507e62d20905e4bc192c55be40d4f5c16e0cefbe22663c681925f0bcb68f4d86a702725f065dfd3d741ee7474fd1aba296e760253d2a8db18866b41ea342e
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.8-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.8-1_iphoneos-arm64_3a563eb304e8a0d64c58492a0e5489e78a33a9ff9e3e3084ca0f77e330022d58.deb
+Size: 4006540
+MD5sum: 64c87520e28a300cbe7f86c18ac71f9c
+SHA1: 2da89fc7ac9e8378427a148616ccff788637690f
+SHA256: 3a563eb304e8a0d64c58492a0e5489e78a33a9ff9e3e3084ca0f77e330022d58
+SHA512: 86031efefcd1895549e342561ff9eff7a5c82c6ae2082fbfad938b704c1b1a7d43fccf6ea99268193a44bfcb60f5c3be04819c3a3de0269943d631d6c9e2e418
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.0.9-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.0.9-1_iphoneos-arm64_fb54769d7e38983e41f07dac0c362dd6624d4dfbd383ae87a9c2d66899776f60.deb
+Size: 4175988
+MD5sum: 501c40f8417cf74a4d16e9c2b31c3805
+SHA1: 2ed76a3f85cc60bb5c76e2f3c9368052ec5d1093
+SHA256: fb54769d7e38983e41f07dac0c362dd6624d4dfbd383ae87a9c2d66899776f60
+SHA512: af431ac2a07014892bfc958d16016eed1acebe7164a4d3b190935c56afef6eb8a61ebea5b446aee89c6b28226424a459bc59d36ae88803f2e69b71cc84dbe2a8
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.0_iphoneos-arm64_294b3cfc71252d1966c8b54fc54cbcf7bfa005c31fb533fc191955ae493b2f82.deb
+Size: 4023092
+MD5sum: f0eac9b5b79bb4177e3dc5ede76e55d1
+SHA1: 7116466ff0cffee65fd91141854e92af659babe2
+SHA256: 294b3cfc71252d1966c8b54fc54cbcf7bfa005c31fb533fc191955ae493b2f82
+SHA512: bf6a447aa61f8461ba5aed580bb29ad13817e234a93ba20b9bc349132e07d8a9a686d9d3a46d10724a41887a837af4b19b8e188abd7420146b3c006cf8c08414
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.1_iphoneos-arm64_326649b485c65355d80933c2843a3f76fa1e37108e402fbd1bd2aa553ef4f826.deb
+Size: 3978340
+MD5sum: 63b59a2948d5d697bae0935034e01a63
+SHA1: 9dfa6775291cc43fb7468fd69139a465efecf80a
+SHA256: 326649b485c65355d80933c2843a3f76fa1e37108e402fbd1bd2aa553ef4f826
+SHA512: 025847c97905d8dedd153bebae4a03a51fd4788fdae920f4d9956ba2795deab245ca89ac68d04d2b1c0f4a9bda39da8fe7d15a416213badc6692237fd465735a
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.2_iphoneos-arm64_de22226fdcbc897c081837a7635a327c3c9ccdfe7ffc2ad9aef72b9a83c139ba.deb
+Size: 4318012
+MD5sum: ce2ce63767df0c5091ce26e7da9106a0
+SHA1: 36ed79c6c3252bc81bf178de4f4453ce84fe0cb0
+SHA256: de22226fdcbc897c081837a7635a327c3c9ccdfe7ffc2ad9aef72b9a83c139ba
+SHA512: 262ee797736ab59433b7f815fdb43eeb27fb5362e469d536b06fa8c85fd6d4eb66a204ac9bf316287e7a8274d15f6becae2e1bcc1f919876864d0f67ad5595c1
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.3
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.3_iphoneos-arm64_2af6a09a4249ff826b8afbda2d505f1fcf2cc1ca8bbd52a0db8b40a9d8bc3a17.deb
+Size: 4546684
+MD5sum: 7835b22826ecfa63ec20b10c746a1d80
+SHA1: 6f6b4469744fd613a0f44e23e1ee54d14b06380e
+SHA256: 2af6a09a4249ff826b8afbda2d505f1fcf2cc1ca8bbd52a0db8b40a9d8bc3a17
+SHA512: bed897373e3e950409c31094853f93a2051874e8659579ff6ff34a61b90aa56081391eaa1116f47dd8576bca95b9f5f08ae777ef39b0ca3fa13362a1b90a6e2e
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.4_iphoneos-arm64_778b1114f728f98104d77010355b40704e5004cedff3b0a83a7a475c48067a89.deb
+Size: 4669884
+MD5sum: d3ee38ebfa01380deb59914348c80a2e
+SHA1: bbcb606636d5e1eaa0c900c472a2b32d494f5f96
+SHA256: 778b1114f728f98104d77010355b40704e5004cedff3b0a83a7a475c48067a89
+SHA512: c48eeb6209788a407ab812d90941f01933ece487825fe09f7178131cd1a7c031e5e1c128e62400db11bdbcfffeae1f611694fee4af97b217b688a630c15c060f
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.5
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.5_iphoneos-arm64_92a99e15ac2ef7bd85edf79b9ea2a6a8724388529d628c19205c8f2f80f24883.deb
+Size: 4726284
+MD5sum: 8e19f3448caeef5c1e55353fe7487e8f
+SHA1: 96e36bf13fde1e2d5890c3250aa099c1c4519119
+SHA256: 92a99e15ac2ef7bd85edf79b9ea2a6a8724388529d628c19205c8f2f80f24883
+SHA512: 05a5c98af5582d523eddbcea5b6d39a3d0baa3d9681883cef80b687bc1dd26be2ae2e91f6dc7d0ac3e1d9aa830388c0fbdbed475dc0c4bfa316e7e8a3f63a300
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.6_iphoneos-arm64_19c304a6021ac49723e6855a79ea84687bc07f160314ac894bca771fe7c72b54.deb
+Size: 4734072
+MD5sum: 72c5076c10de5968ad9d68ea8514645e
+SHA1: 9e1a4390f1ae2eb41924722fadc0f8f5fc4c3372
+SHA256: 19c304a6021ac49723e6855a79ea84687bc07f160314ac894bca771fe7c72b54
+SHA512: 28a2dc5f9ee08197dc7a3bed1df19b38fb9a4279af5584a07357dda3eba8d3e9e30410944ea0c2c1c8e872fd0aa9dc0e1b9343817dcccc494db577040f8eca2f
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.7
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.7_iphoneos-arm64_cac68bc2be49b68b2ec5ddb8ce964974f9fcd166c92b2a37c28eb5579c913f7c.deb
+Size: 4765392
+MD5sum: 1d0f5204fc9d379974fb4ef9b78b2d3e
+SHA1: 0a29e4bcc7de0d87235b0ab4c72427bff62f6f47
+SHA256: cac68bc2be49b68b2ec5ddb8ce964974f9fcd166c92b2a37c28eb5579c913f7c
+SHA512: 4b08fcdf35ebc55aa5afca8418c57e4521a1db0a0a6cdc5811742ec24a3f945d153f038432cee436f5eb3a087609065e2935c4d8088102bd774a45103f669db1
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.8
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.8_iphoneos-arm64_acf88d493064512a6c515749dbe226866ee1b5e6c81ab92cd340e35824cdc08e.deb
+Size: 4782644
+MD5sum: 5bfc45da8f54668bb2be710c2f1be9d2
+SHA1: 77e8a76021e81629e14b0092dc8c91ad865b8109
+SHA256: acf88d493064512a6c515749dbe226866ee1b5e6c81ab92cd340e35824cdc08e
+SHA512: 2ae51cdb7b688bd59b2f627f22bfd7400a526fd416a15fbc0483d76ec4608151a858f8f7e59aad6289ed47d2d2bf1a1ef71ae05000335c9d2714b1976d7b9eab
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.1.9
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.1.9_iphoneos-arm64_e2a69f039df4f229946ded8cf31c9c1020a8deda042b8dc405e62a9a1944df3a.deb
+Size: 4826160
+MD5sum: 421e6f0c9eaf3ea412707ac9c6496347
+SHA1: eb59d0eedba7ac529907ddffe02f27119e97f3ba
+SHA256: e2a69f039df4f229946ded8cf31c9c1020a8deda042b8dc405e62a9a1944df3a
+SHA512: 9d20c30a82812007734665e26fc4d2e6b93f331387b542535c9d226208ed219a0be45c8bf50e978538093b84f1cb83e8499fe8c2054d804cb36ba9e2253fccff
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.0_iphoneos-arm64_c3506839111d29dc7888032ef896a5a759c6ddbd8211fa2ee49e4230f3c64e2d.deb
+Size: 4812016
+MD5sum: 950caeb9c95c26e1f654d317b2b36f12
+SHA1: fd2f9ae813578365351228a5761e1731357e5d8e
+SHA256: c3506839111d29dc7888032ef896a5a759c6ddbd8211fa2ee49e4230f3c64e2d
+SHA512: 41a6db70995e06eee0dbb6bfe23caba0247d374eddca71df8d2d89ede93ff589bf167c8f5335a794e49b6737928b2ea47b9753205fd9e27e8aedfca8dfa006fa
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.1_iphoneos-arm64_a457929a7ef2f076a24dd9f0ecb5149e298e1d5a79430f9363f1dbbcf0aeeeee.deb
+Size: 4808796
+MD5sum: 576616647fefa43452ee488e37b4da4a
+SHA1: 43927058e42ecf3acf5ab0be833a6c2a99cc32c2
+SHA256: a457929a7ef2f076a24dd9f0ecb5149e298e1d5a79430f9363f1dbbcf0aeeeee
+SHA512: d4e394ba142b25f80c3463f920fb87abb5808c4adf1e585fe1146ed108a0c0b8fcf8c3df1d05974c16a2418d1fd45d695dec9d82a0bea3bb9258c88916e4277a
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.2_iphoneos-arm64_c081d0aed9aa5012966ee7b29be716de2cd51719a455ee57619adc08f622b0b1.deb
+Size: 4963996
+MD5sum: 268b63c6f3dc476a50a3f5c3f54ba208
+SHA1: cdd15b864e5dc597971505e48ae1b5ed81f678a2
+SHA256: c081d0aed9aa5012966ee7b29be716de2cd51719a455ee57619adc08f622b0b1
+SHA512: f7e1cb6eb1a03af253456307c4173c94bed43c2152b49b260f47e6f7b77d234f398a595c4aa9838064ea23714dfe8a1d443b6b7d3a6356eddff7018af79a77ee
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.3
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.3_iphoneos-arm64_d27c7843afed77a4b92e4498a9107a108e5a01625f301ec6699488817db0f904.deb
+Size: 4963592
+MD5sum: ddc556e1aba9542db807391f7d8c9594
+SHA1: 69478ac7e109b98362df70140017ef0783258f43
+SHA256: d27c7843afed77a4b92e4498a9107a108e5a01625f301ec6699488817db0f904
+SHA512: 35d174eadce5cdb818d5e1d1ebcb9479d8fa1c5b7d270a8eb01f3fd74098718e82dfb73afa6f588fb54a1c8e4cecc6400508a82ed525c00023957df591e61e5b
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.4_iphoneos-arm64_8aa0498f190649d0c55f659ebf269b15a4e2a190c4a7c5574248a04a2a409501.deb
+Size: 4996444
+MD5sum: 8423bcbc12c08813bad52031e9ab7c51
+SHA1: 7cfd931bdaca19f655284e95f9841a7bdca860d1
+SHA256: 8aa0498f190649d0c55f659ebf269b15a4e2a190c4a7c5574248a04a2a409501
+SHA512: d85e809a6837c7854c772a26dde9c3db4d7391da24ce58e7f652937e6ef0fa412a3de98175649fd1774dab568240a966496637cef4de562e36d80864bcccc532
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.5
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.5_iphoneos-arm64_d2e79fd932f73c54875a8fbf5e7a72534cda68268872d43153a393454021cde2.deb
+Size: 5023876
+MD5sum: 829706559c4a391d4cb27c30b7e2b7d2
+SHA1: cb8d191459ff58513b43fe1c4590e8a05ec52446
+SHA256: d2e79fd932f73c54875a8fbf5e7a72534cda68268872d43153a393454021cde2
+SHA512: 49213bd7e6e3fdeb47df190d1daa5483e5bfcb4abe2f93de4b3480760e7cf99e2a23bd5fa758df63837459d290fb94bbac3dc20520d0049ef2291fbe15620de2
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.6
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.6_iphoneos-arm64_be723afed953f8cec9426d6a50dc185a42cdafb4fba358d50a4830a979d8fd8a.deb
+Size: 5192372
+MD5sum: fdbd48e0f290e713731bc1dbd0576e69
+SHA1: ff2cfc1bd41d696959db35a965af8f74b78dcf55
+SHA256: be723afed953f8cec9426d6a50dc185a42cdafb4fba358d50a4830a979d8fd8a
+SHA512: e40d86498eb24b0b7ef5db605a73f59a4ab13f7dabdb97c1c3f38464ac43b201e08c964966658f4a586890fb196e89f73a4b6d0612e6e3d7a6ca7f973562cb0f
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.7
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.7_iphoneos-arm64_605c56a591442d455845b3b81095adb1519cc3ea310688fef94a32a0fff5af2a.deb
+Size: 5302048
+MD5sum: e1f672dfe927f7324e1d092bb50bec4f
+SHA1: 77c34fe62625cbcd7cd50d698e036f3e97842f76
+SHA256: 605c56a591442d455845b3b81095adb1519cc3ea310688fef94a32a0fff5af2a
+SHA512: 859419458b1ce85c3b8edd81faaa70318baa2cf498d9d832c5a47f3ff44adf83a632778b94f7afa10a46d9a648211b04c155e3b5841e3d6c1a741f1a1faa2aa3
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.2.8
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.2.8_iphoneos-arm64_50929429f97f8f23c7748e1b07d39bda2ad636fe11a599b3b2eb97576d31f878.deb
+Size: 5330204
+MD5sum: 01d1a52831afdb89091ffd3ccb9ce02c
+SHA1: 469c8b36780841c85a8b79e546558a32539db6c9
+SHA256: 50929429f97f8f23c7748e1b07d39bda2ad636fe11a599b3b2eb97576d31f878
+SHA512: 760e5f9274bddef96d6a90dd071d2a9aa456431d779b580a18a7f39610a82dee623a09183c21b48bfd77f9c85552b1f10e055bba97f2366750aa71591ec63bc9
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.3.0_iphoneos-arm64_c13a351eec9df5f1ae0c518a432866de8c4244dc0884e1c940e78754d05f8ccf.deb
+Size: 5384876
+MD5sum: ab8c5001fc6a732d6acdd7fbbdf48bd9
+SHA1: 15fb0af91d7bb24d46476c38e8f6e7fe75fef7cf
+SHA256: c13a351eec9df5f1ae0c518a432866de8c4244dc0884e1c940e78754d05f8ccf
+SHA512: dbae18a8b1611e348cead04267adee5307e55d972227cd4b3f9d6fc8201a1ee3aae55f258b2e65523cf929b89bdc5343fb5f1a18a78e1cbf4779962df34e3a16
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.3.1_iphoneos-arm64_b12794dce95658cb27f530c01ee35448f9cf5e5c6a2b05d017f38710fae06298.deb
+Size: 5417624
+MD5sum: 2d60e0bc427dfdcb64e09aaec5e5a36c
+SHA1: 727a2f729b36dc5365d4d37660ef516c57b2ec34
+SHA256: b12794dce95658cb27f530c01ee35448f9cf5e5c6a2b05d017f38710fae06298
+SHA512: c811d7e1c7c2da03fda66614c2731d648484ad7f5561dd82579ff40b8ffa2436239d6828ab45456fee706546b9bd2377b40b855c72e356fe4f955c3328192042
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.3.2_iphoneos-arm64_9d4ec7433bdfca837e3e619ca598b57e05c3a3fd77ef5d4f29f364af25ce797b.deb
+Size: 5530216
+MD5sum: fe7dac56b68465bc79dd225c03e5f309
+SHA1: db5e6603970cef6a6579f5b16d5b1345a57d79e0
+SHA256: 9d4ec7433bdfca837e3e619ca598b57e05c3a3fd77ef5d4f29f364af25ce797b
+SHA512: 96ab8a44784a52c7c154b8b7c74f996f5fdd8e9397281ae9cff8ab2e99497ad15f8a44f8aa084f6820d2e30b383aa0dc3883588f411ce837d352a512022938ca
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.3
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.3.3_iphoneos-arm64_0e229a580ebc4a60e0e83fea57da327949aec155e6ca580b5ddd1b66186bc223.deb
+Size: 5576456
+MD5sum: e810f866920835054b55aa2f45bbc72f
+SHA1: f15be1cfa9140d23b9ee4bc095de262e4c04f7dc
+SHA256: 0e229a580ebc4a60e0e83fea57da327949aec155e6ca580b5ddd1b66186bc223
+SHA512: 540b5badcac0f31b09676f870c53bf72be48ca6df0b41a258d57810b7754a34f2c22404a4ba14471b30caac9339b225725d7578196eefab08ef0860d55664f46
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.3.4_iphoneos-arm64_4a7e21a0b0fba8c3d6cd01c486f4e32f36b1486ee9e594c10db2aad82c12f79a.deb
+Size: 5837632
+MD5sum: 0cbf4de3f77f7da337b0f64ca9d980c9
+SHA1: cacefc03038fe4162c0cd08a0fb741e7915de2e3
+SHA256: 4a7e21a0b0fba8c3d6cd01c486f4e32f36b1486ee9e594c10db2aad82c12f79a
+SHA512: 1ebef6a9b0949778d2277dcc301b9a5daff6128499572e3209e4b28c345821db4cfbbf56471671946e7ab62fcba1fc39b1c8165dc7eb38764a5409cf85c351e2
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 2.3.6
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_2.3.6_iphoneos-arm64_82459a006fef72cc1e1b12dfbe92c019614c64caec3f053e79652226b996a334.deb
+Size: 5872064
+MD5sum: aa3410c79e62e416ce4095281efcf972
+SHA1: befa362e67f478f92c37745440a69ae0d3e7aee9
+SHA256: 82459a006fef72cc1e1b12dfbe92c019614c64caec3f053e79652226b996a334
+SHA512: 0d8e29fa2818b0b749642a2d73435017de6e7a21963b2be43dfd7641e535080ac0c13f7d0873a3b04b42884b38f46db021a1dcf21563ac1faf67b4f78b25ea37
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64
+Version: 3.0.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.tencent.themebox_3.0.1_iphoneos-arm64_88fede9f8df201326d86392f4d6e084b71f205312f2e9c0940866c5e588c760e.deb
+Size: 7285616
+MD5sum: 97ccc202823a92885a0b6dc0bff98abe
+SHA1: b7fe18514f359abc8e40e40f2fc96242e03cb7ee
+SHA256: 88fede9f8df201326d86392f4d6e084b71f205312f2e9c0940866c5e588c760e
+SHA512: 0ea28a567b3cc47e2546f845f86b1af9eef3454238019c4ce5355af784526b48cea61e7b9e1ba92198e446c775cf397f71480abaa345b52ad3a0902e1eff15be
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.0.7-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.0.7-1_iphoneos-arm64e_70932ff248449d93917a1b782a270bc6fa1a7a0e6bb3f48bd270bd799e197b44.deb
+Size: 10641378
+MD5sum: 9b6031be75343a5ffac50fbef35fbdee
+SHA1: 1c06759cdd63e49544c984c25bede0af1d341f3b
+SHA256: 70932ff248449d93917a1b782a270bc6fa1a7a0e6bb3f48bd270bd799e197b44
+SHA512: 65aa6cb4f360d2800bf3e0d2250e8c871e0eb54a5477bc37d5fe02d6cfe1cad09a91869014768b0ab61653e4df1abe49fb6d6532f24d6afd120bcb43c44c3225
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.0.8-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.0.8-1_iphoneos-arm64e_a1843671c1c4cb814f35a3305453c3bbaf19df233992c3f9879994a0d7883b39.deb
+Size: 10713408
+MD5sum: a4ea4c573ab586d3cec3b5f5a3625c41
+SHA1: a638ccf1702ff72fb8d16ea7520f042f9e0e3bdc
+SHA256: a1843671c1c4cb814f35a3305453c3bbaf19df233992c3f9879994a0d7883b39
+SHA512: de49e100105585ac36803d1ca7c5333567b2db8bac082d691f43c4379de8b9e5c8083bf1c7377347fa5528e24608495c36e3c9b61ce4491250e3b3fb43b27cd9
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.0.9-1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.0.9-1_iphoneos-arm64e_8412217709e2ebe48db07c5338773f676995ae0160b8d7fe9512ae6d063a60d7.deb
+Size: 11145896
+MD5sum: 3791713ddcb3ec3d11d4d448d094d5a2
+SHA1: 3bebcfca45b3424a006aa462f884b103c62c0781
+SHA256: 8412217709e2ebe48db07c5338773f676995ae0160b8d7fe9512ae6d063a60d7
+SHA512: e29ec5dcb7380783d6155e014005011c09f9e0a6f878ac93ca2ab53d01725b1c8dc905135485040c6d9ff2063f2f53ecd9bedbe3b499cb4a5de814f4975c5344
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.0_iphoneos-arm64e_ce7d4f7279c851857818bfa94abd16bc7e99692a0fa9285312d6e6dc9c53f71d.deb
+Size: 10869018
+MD5sum: f6f0dcfaf59d6009f10210ccf17afc99
+SHA1: 18098f47ff7e6221f30d84063473ea93c1080047
+SHA256: ce7d4f7279c851857818bfa94abd16bc7e99692a0fa9285312d6e6dc9c53f71d
+SHA512: 46f8887dcb276e5b5d230d7fa6aca569a6a9adc9b3e503d130996cd7efe144eb65968b867b25c47cd14b0bf644ef894675b03ce88b65b9001a8d53f4b3599b0a
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.1_iphoneos-arm64e_022a2adb8b4b86d678484a034a61deec595db4a872814df9b3b1f2247714e05d.deb
+Size: 10722734
+MD5sum: 28bae29999a0ea7495b06a732c26360e
+SHA1: 6af3bd32e8a2dc43a4448447de5cb13f32ee4694
+SHA256: 022a2adb8b4b86d678484a034a61deec595db4a872814df9b3b1f2247714e05d
+SHA512: b94d2e4a576468c52d1a2c15d93dbe0fe51223acc895ff69e60737a56fa83a9d9bf656804022d8270bf3ccf40decf3479ea348f9cb78c1c94c62314a66f6501a
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.2_iphoneos-arm64e_3bfc81b0c77cfdd76145b20ce463b402515da1f0dc67b59ee514ebd1a8fc3032.deb
+Size: 11592756
+MD5sum: 8f097e0075c244beb358e441c7daaec5
+SHA1: 00dccb16bf6a5148e0dd6a4a917cc0233745ff34
+SHA256: 3bfc81b0c77cfdd76145b20ce463b402515da1f0dc67b59ee514ebd1a8fc3032
+SHA512: b1d8eccde1c2188b74a19c8032bde367dcbc97cd3a0fcf4de5e39d2a0d0d26686588394b3bd3adeccea10ac7ee721ee52f58f56df827691a209bfd3b0f1bb0fa
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.3
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.3_iphoneos-arm64e_9ca51f90d644acd792c238b97f0431b13c27a09122758e3b9048d7fba84167a0.deb
+Size: 12280054
+MD5sum: 5c7a5f8c376959863486c7adfccf4ab3
+SHA1: a746cab2de5abb392e7126f54d943d849e781fb9
+SHA256: 9ca51f90d644acd792c238b97f0431b13c27a09122758e3b9048d7fba84167a0
+SHA512: 31d95787c0ab07fd2e0f0c51073c8dc7b1a7c05c2b1e5c83b07e6873f122f0a80a25a7f0fe6557bbd5d74026d99dc31039acf12737ba4a5419d742c9a88fbd1c
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.4_iphoneos-arm64e_6c1c90c7ccb41a0e60b6ce3716ac605d72f4bd2bb7306f7ed89289250eac5d3a.deb
+Size: 12660094
+MD5sum: 2a9268dd5a942da25f4d81feb767a31e
+SHA1: 387a94da2821d030212e015970340a3afd5de024
+SHA256: 6c1c90c7ccb41a0e60b6ce3716ac605d72f4bd2bb7306f7ed89289250eac5d3a
+SHA512: f7ab3d8e550e97c6f12fff808253d9a0da3e303733de5ce4aec537e9c770cc7e3e78734f93d07250e41f573b4a745e8d32d8c6bc0d37e53e2c45c19bdda858ab
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.5
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.5_iphoneos-arm64e_b4eb7716f7729a8e66f9345b6409e7e5887ef36445374fb8953b3da1d410f360.deb
+Size: 12812366
+MD5sum: e58e679aceb38ff5237fd6b99be40587
+SHA1: 94159047f745f72ce307395ae7a8c068f8dc33fe
+SHA256: b4eb7716f7729a8e66f9345b6409e7e5887ef36445374fb8953b3da1d410f360
+SHA512: b680d753da2a44aab9883cdf7f3ae1d4193cfd3106554c41307465a4714c73724d712770041210764334e551c28dda7b5dc4b41fad9d10fa6ecce5996063d591
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.6
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.6_iphoneos-arm64e_7e743a2cc3933db654d12950ca614149e1ddbe73684106fed8ada01f69c05951.deb
+Size: 12815408
+MD5sum: afdd4fdf847123bcd8e9e1f5457dd169
+SHA1: 57930f1548b65807190de66fabf20f76369afc2b
+SHA256: 7e743a2cc3933db654d12950ca614149e1ddbe73684106fed8ada01f69c05951
+SHA512: 27b0ed87718135dac47b7cc3f8048678a805fa36610b82eac277fafe67abdac704ec8180026130e4d2fd52d3b45a6dca8fbb257d5f84437995e32e1c3b3d8f7c
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.7
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.7_iphoneos-arm64e_60de2741b1b6d08e5d454fc1421720b5d78a3f72285fed070b86f1f91439ceaf.deb
+Size: 12822552
+MD5sum: 0afb548bd7172b92124504b3cf1c06a3
+SHA1: 0cf9c0ff0a4cb874f1fcc79268efe51f0fb1381b
+SHA256: 60de2741b1b6d08e5d454fc1421720b5d78a3f72285fed070b86f1f91439ceaf
+SHA512: 598b26564a86405e5e2f7551608f8e75f8e2a043890b0f94c7e4dd7277b9861c89b7a7e07d8280f7a13327b108ffa50c42e98564a4f0e5e272d06147f9498075
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.8
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.8_iphoneos-arm64e_184408576b8fc537067bbdc9c70e22184592f54d2f1e704e7d81df59cee3bdea.deb
+Size: 12805196
+MD5sum: e1011b557ba9f965f935bcca85092140
+SHA1: 2ac7c756b06ade0080077088f07dab26388a3cec
+SHA256: 184408576b8fc537067bbdc9c70e22184592f54d2f1e704e7d81df59cee3bdea
+SHA512: f43deec1ed8793ac5f587405db329b162ac9c8411fc032018af323925769610c118bdb2638f1a34a400afb1a9dd47f74922255f27670b471a3264bb2e90dab68
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.1.9
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.1.9_iphoneos-arm64e_626b6f1beb47df4f453911fc1c940eb1f5a15eef297d86f137d72eaa3f2408d0.deb
+Size: 13046706
+MD5sum: d62945956eca901bddcfdcb08b4eb815
+SHA1: b511725adca9eeb73779efb24f681fb5cdb2bcac
+SHA256: 626b6f1beb47df4f453911fc1c940eb1f5a15eef297d86f137d72eaa3f2408d0
+SHA512: 6e1d6afb9fccf08dda38fad73a413ba4fbbb8c61fd1fdaeaa21d85ecb1fff1023cc8bf4ca5e2f2acd7831ae56876c45963b8729dc58bd5a3df1cad3825a16735
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.0_iphoneos-arm64e_7a64b579992a67ab8ec26269b36268ef46732ccd83c8e53f547a3da6fed5d649.deb
+Size: 13062056
+MD5sum: 281b8af7e3946ac39fb181bc6fb36b47
+SHA1: c17fc4e7e76246c75a86b73993afd352314c9f89
+SHA256: 7a64b579992a67ab8ec26269b36268ef46732ccd83c8e53f547a3da6fed5d649
+SHA512: d7d31924281317f988e69aa98c334a5ef0c887a565601e6d0bb86ec3ec1236becca842f19b24bb9fe0b697ede2630ffe1edb6100cfaf2bb21083cfa631f7044f
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.1_iphoneos-arm64e_9c31822e6cbfc3ad7173b712214b71d2b18a6c9091ab4ca564bd238b68f9a048.deb
+Size: 12981620
+MD5sum: 7def4f37a594385ec542de43bc0f95ce
+SHA1: 7216158200676caccf4083247a7095ff12fff85e
+SHA256: 9c31822e6cbfc3ad7173b712214b71d2b18a6c9091ab4ca564bd238b68f9a048
+SHA512: 28d98a179f276599b6bb87a0829a546f31bab6157a4cbb35b747b0efae6a7aae19b4c17ae05073889dd84f42627ec0df8c523148cbeb61737ae8ce71c4eff887
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.2_iphoneos-arm64e_476ef5b7daee39d554b0e0db194df2c55e66e7a964a2a1aaaf3da0acab83e274.deb
+Size: 13437654
+MD5sum: 42d446a311b14114c1aa57913ba325db
+SHA1: 70566ba1a3a011b0ffaffc875f14a9a84c5a6a38
+SHA256: 476ef5b7daee39d554b0e0db194df2c55e66e7a964a2a1aaaf3da0acab83e274
+SHA512: 46901e21f569d01add03c31a445bfe4c07c328780dfed7856b610fce82b24fd296221e2e5c2cf512eab0b6e3b5f809e6561d403b51ae378a62a18487c40fcb0e
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.3
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.3_iphoneos-arm64e_3faee39a4ab47874fb3930a6ce28a82657f82d8ba959bcfdc65ab0cb26182107.deb
+Size: 13381508
+MD5sum: baae9ba1213a8202a9afeae9c7c4a68b
+SHA1: 487b30264acfa9a71ca8e6865eb5969ee1c6e56a
+SHA256: 3faee39a4ab47874fb3930a6ce28a82657f82d8ba959bcfdc65ab0cb26182107
+SHA512: d247e61aa76a23fcf6f4af30ac606090084b556244d7a85485c88ab816e87b20a6f5846a3e7629da14cd679425923abed4d65c0316f10a5873fa0b3dcd6cd380
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.4_iphoneos-arm64e_1382efe973b3a5e64d0d01f40fc1045603afd3f3e366f06343a608274b1bd9fd.deb
+Size: 13531086
+MD5sum: 3715b4c7af3af92744e16eba3e4d12d4
+SHA1: c3815c857c52eb8503b49054a60e07a54c417a8c
+SHA256: 1382efe973b3a5e64d0d01f40fc1045603afd3f3e366f06343a608274b1bd9fd
+SHA512: 3041441970bc48439e7b9b2da63f93e777eda0c9be293863c5a83a4c5527e878ff8ea6cc6c50ecc2ffbb7024fcbaf0949106fd98cdea0dd5861d5c29390f56ab
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.5
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.5_iphoneos-arm64e_eeab07ae1a5d09ad399b1e32c436d43c7fe1817a58dc9cf1971dd861a858cf3e.deb
+Size: 13525272
+MD5sum: 36d443913226788f5ee67357b589f3bb
+SHA1: 4b005487a4eb4b9d7bbea22d470575277f0abab6
+SHA256: eeab07ae1a5d09ad399b1e32c436d43c7fe1817a58dc9cf1971dd861a858cf3e
+SHA512: 43e87ce3935168df3dcc5f5de62568e30c5b2618aa076ce4554095c8a1901e9dcbd8a644e967502ad5a4bce754291c344a515783cb7062dce264fa71d5a07844
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.6
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.6_iphoneos-arm64e_43306510c70ad19695d69659308832fe568bdd083458df4250547a0352ce2e4d.deb
+Size: 14026500
+MD5sum: a40d0c9d0c7fc0cfe55965126ff2133d
+SHA1: a671abb98d45f3edc88f89ae45130325372213ad
+SHA256: 43306510c70ad19695d69659308832fe568bdd083458df4250547a0352ce2e4d
+SHA512: 7f692e22858309de551ce2669bce1be743f25bf5f1f837ceb6a3ce7e69a8751a7a3a4f696ff8031b089714def49a6d8701f14d95e561f85ac6141a2ea875ed67
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.7
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.7_iphoneos-arm64e_aded37c8c410ec06300f4c2d483c8709a5f503c195fcaf90eef660eaf0bf8dcf.deb
+Size: 14194992
+MD5sum: 33b62d42c7c7aedcfd27c8d97de28d85
+SHA1: 1a2f65016073233ce668c5353c7353f1cd4a51bc
+SHA256: aded37c8c410ec06300f4c2d483c8709a5f503c195fcaf90eef660eaf0bf8dcf
+SHA512: 3c6bc35ea0b37f6eb7c53bf690b10165fc76eb581c9c7756f96f5e67c0c579f9286c7f501fec0c115d3f3596f60a5c7cb4d421fe656a39ed016f9cc32d7a1bd4
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.2.8
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.2.8_iphoneos-arm64e_1769ebd8f28a781290a5e32c21928f789c61ef9f6a0e2708fb2871ad28d56676.deb
+Size: 14376554
+MD5sum: 57b47c7565692374e1b2d4b98f765e9c
+SHA1: f6b37e355c506aba1d31b6a67dc3fa203855c969
+SHA256: 1769ebd8f28a781290a5e32c21928f789c61ef9f6a0e2708fb2871ad28d56676
+SHA512: 1faee852d42b40b4d79c87944a55c749cc146eef31ea601cf0afa01287eef323bd49bf8c252320b602c1c5a62ba4945680d8f745c9db99b8438f3af2f61ab343
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.3.0
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.3.0_iphoneos-arm64e_6d8964cf7cbbc1a0267c22db931f2b2e910886f178393fe4f074a21d8b733abc.deb
+Size: 14533268
+MD5sum: 82afa409bc40c359a9e35355d5540f54
+SHA1: 942a7dfbad8160feba76995a9c15955883dd72a3
+SHA256: 6d8964cf7cbbc1a0267c22db931f2b2e910886f178393fe4f074a21d8b733abc
+SHA512: ad51bef78378d6a7ecd25dfe0c6624e4ed4ebe298248b1a1c8cd9eca8fd49ef379c1951111dcd6c5e9248b37f7dfd583e4105b3e58b02944831a6e8b24176612
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.3.1_iphoneos-arm64e_fde17f248820ceaf290860fa9b0d9739cfb689a7e948788d5627746407b1b93a.deb
+Size: 14597714
+MD5sum: e8a18f0038daa83bc74d6a5746f291b2
+SHA1: 0b4f1585b403bbf676c70975a24bfd5a3a87ef02
+SHA256: fde17f248820ceaf290860fa9b0d9739cfb689a7e948788d5627746407b1b93a
+SHA512: 97111971d89c2de8c4ceb534f9a479918cddfe52dc3e7232d532ad97c464335b6d59a1964f70a4e029a13c369121f44c295a0efdfb703b86811af2d35d45ce8b
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.3.2
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.3.2_iphoneos-arm64e_6765834264a774aefa8a3beea404c21d54bfc48fb3a67069ab91462f20b86813.deb
+Size: 14968906
+MD5sum: bc7b0221240ee6999c6e101bd8e8ec36
+SHA1: 18bd2a88d0d3e6b5764670db03adb51f0a2f7164
+SHA256: 6765834264a774aefa8a3beea404c21d54bfc48fb3a67069ab91462f20b86813
+SHA512: 9b09735c952a7f70663d0a46d94bed2f43460270adfae362feb7b8abeffa5ebe403288d3b21943203beee5ca2e252dc82aa757c69cd67892a05ac921f4a69ae1
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.3.3
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.3.3_iphoneos-arm64e_d29672dd693ce0670860ef554aad236e1297bff72dce65e48afce4a5c80df908.deb
+Size: 14934372
+MD5sum: 4be7893a96fca66114c239eee5c0d8f1
+SHA1: 607821e76b8d697127e7284d81610c9e49239738
+SHA256: d29672dd693ce0670860ef554aad236e1297bff72dce65e48afce4a5c80df908
+SHA512: 0621ca8664f153682c65f9180e991618d56c698a83197f20aa48180c3a3872b9f63a64bf84f696e952509208035295ef6ebdc31525d952b590c1f935cc79133a
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.3.4
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.3.4_iphoneos-arm64e_293158e0613a3038fbed0ec3bcaea7f59507a53ed58c1a67c5a4681dc5ab24c9.deb
+Size: 15772656
+MD5sum: 519f3a3f94bbb706c79164b14f3b9b24
+SHA1: 6308cb3542a7994b7db0eea9927fd082ea373306
+SHA256: 293158e0613a3038fbed0ec3bcaea7f59507a53ed58c1a67c5a4681dc5ab24c9
+SHA512: 8af397979a790f256e026ec6d989626c6acb396f7bfdae7824c3d3d0f92cd1310fb9853ee000608b153befbfb847ab7055c62e37a0936a3f1e8df3cbcca5cc87
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 2.3.6
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_2.3.6_iphoneos-arm64e_8e0b9de4e45a23f003815c834ca9ab31712c554f0996da652f094f7ac0e7e1cb.deb
+Size: 15843116
+MD5sum: 6a2b70c7b15a38a8494052bb23e0e2f9
+SHA1: 8079b7eeb8e579e41ce4a0361f5cafa1475b3614
+SHA256: 8e0b9de4e45a23f003815c834ca9ab31712c554f0996da652f094f7ac0e7e1cb
+SHA512: ac78975c764eecadd13b74095e4c6d7cfb6bfde27a0c0747c8402c459a9a811b85344d22550fe7d6c8d3ff34015e72e32c04ce9cef064ef696f714374e034166
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.tencent.themebox
+Architecture: iphoneos-arm64e
+Version: 3.0.1
+Section: 微信插件
+Maintainer: WeChat
+Installed-Size: 6132
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.tencent.themebox_3.0.1_iphoneos-arm64e_57c4b98a3bccd98487fdf9052a317d389d718f53cad4d88b55f6db067f1dd774.deb
+Size: 20084352
+MD5sum: 06fe4c4c4e1ec61137644c532c223f73
+SHA1: 4a0c73671fbb4e2796cad0703b2717a7b122ef90
+SHA256: 57c4b98a3bccd98487fdf9052a317d389d718f53cad4d88b55f6db067f1dd774
+SHA512: 5f80f967a8644f137d45fb8fef74906af006c04c6edd6f09c755d25156d564385f03d40fc9ee290dd4aed22050d28217754c5ad34c31b5eb7dde8711f98fcedf
+Description: 学习交流。
+Name: 主题盒子
+Author: WeChat
+Icon: https://s1.imagehub.cc/images/2025/01/08/1ee095d96d881bfc55f902bac0a52161.png
+
+Package: com.thermal.hook
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: ash
+Installed-Size: 100
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64e/com.thermal.hook_1.0_iphoneos-arm64e_d3c84a5f67df87fbff9400bd3364a8198982f83ad55c2a6dfc1ea5c91a1d8e72.deb
+Size: 306556
+MD5sum: 0c6f0ff9cb6d0eacd485287f6b1ab63c
+SHA1: 89b41404e3b63907131b36f92790e656df57917e
+SHA256: d3c84a5f67df87fbff9400bd3364a8198982f83ad55c2a6dfc1ea5c91a1d8e72
+SHA512: 468b09d445bab68027c0d2e2300cfbd393fe6e48898681e81493cb2cb1aa3b062b03e851b0475ec83ec9028d63e19221bbd2bc6204a5f7bed9aed5544d0733f9
+Description: 无感去控温。
+Name: IOSThermal
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: aodmin & zqbb
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.wechat-push-msg-page_0.0.1_iphoneos-arm64_95a91a3947708232ce6578403bdb75bdfaebd8f61712bb2b5d6f38ef14875400.deb
+Size: 23248
+MD5sum: 10749336ea8352304455941f1b0e418f
+SHA1: 41bb03cc629cb3a4cef7ce3dcebeccf485d70b9a
+SHA256: 95a91a3947708232ce6578403bdb75bdfaebd8f61712bb2b5d6f38ef14875400
+SHA512: 913770dbfbabf58904aa2e1774f49915d6379eb75f69c814798d2bc048247b777102706833d68cfc171688cf1aa55b985d038d92e218b0166155bca327c12d99
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）锁屏可以，多开微信也可以。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.wechat-push-msg-page_0.0.2_iphoneos-arm64_1f9145571c628bb383940dc583dc17d723c7e6fc6b5f55d32f25f1e5f92ea7cd.deb
+Size: 23344
+MD5sum: 9f1bf4fc982a6fc580670c4b51b98126
+SHA1: 57d5c1a4362e8b6761d5d2f399a134ae0e666201
+SHA256: 1f9145571c628bb383940dc583dc17d723c7e6fc6b5f55d32f25f1e5f92ea7cd
+SHA512: e64ad6ff260081b2b1be3d5a671983a8b75862bb1c1426bd40db27170966a3cc9d29807d67ae1cb1b5a32826f863e622f2aaa93709bbd048850ed29afa261911
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.wechat-push-msg-page_0.0.3_iphoneos-arm64_14cb309668a8664e6695cb669a187fb0d5df67bbe61c1d9b6f4a8e820f3ec431.deb
+Size: 23328
+MD5sum: e9265efa24dbdacb5a27be52b0e3ffef
+SHA1: dc93ef56a3c9c2d287a6b35cf3577890f2c5d142
+SHA256: 14cb309668a8664e6695cb669a187fb0d5df67bbe61c1d9b6f4a8e820f3ec431
+SHA512: f8e0ffb2bd0b37c91fc91345906fb90375a3abab6942de43e03796ca7eeea6101f2f3397aa0f7e09a9fa128dcc8c1772b86b369fa4dc117a6069c599c3e300f6
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.4
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.wechat-push-msg-page_0.0.4_iphoneos-arm64_e610a1ad44b085a4c91d97e0d859dad31aac386fece6101ed526ca272c8823cb.deb
+Size: 23448
+MD5sum: 9ebe4b093455abb17e64036509556706
+SHA1: a8b89fa1f8b707bc166fd4e94b4975e45c0ad244
+SHA256: e610a1ad44b085a4c91d97e0d859dad31aac386fece6101ed526ca272c8823cb
+SHA512: 6ae31796990c888672b59dcc02fb24924d8f3d146230f188ac1d17e61e0a0fd0243389ef1dc24b3c1e3e84724e70b3e55994e69ad88dcc9b19b6e3273236bae3
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64
+Version: 0.0.5
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.wechat-push-msg-page_0.0.5_iphoneos-arm64_b7eba5515ddf527cbf938492d89b7cc605033627b4d867c1e840053e64a61e73.deb
+Size: 23404
+MD5sum: 5c42c46506d0501a8f5768d196871305
+SHA1: 6fd505af9806017ae6f8c57bd204fa2d3ec91d74
+SHA256: b7eba5515ddf527cbf938492d89b7cc605033627b4d867c1e840053e64a61e73
+SHA512: ced29f65215d9f64abaaeeb3bdc1f5a4277d1d8795612b108c654dd1a75e36ea8e8641aedd670ddf5374cf389bef732115110b41a5acebd42049845551ab3200
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.wechat-push-msg-page_0.0.1_iphoneos-arm64e_a64fdda1313487e9ba09fec8e82ed63e4f07ae52e4931acaff9bd76398e72b52.deb
+Size: 22776
+MD5sum: 15ad75734c2ec6069e40f58f1529566a
+SHA1: 0b3539e7676dfb4e611290995ef39f4195878eac
+SHA256: a64fdda1313487e9ba09fec8e82ed63e4f07ae52e4931acaff9bd76398e72b52
+SHA512: a5fa5323f8fde2ba8d59848f1a28998d898b9a181f2946bcc61ee23c34895d79d0e0201ad264cfd03fd8a1c75bca7562068d774b0238985ef516b8bb604cd1ff
+Description: 微信插件，弥补点击微信通知无法跳转到聊天界面。（已测试只有一个bug就是无后台第一次收到消息会进入其他页面，不会直达，后续有后台测试完全没有问题。）锁屏可以，多开微信也可以。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.wechat-push-msg-page_0.0.2_iphoneos-arm64e_be50452f32f58c73128f68b8aad51ca97598f1bbac0eef7513ed3cd281012be8.deb
+Size: 30874
+MD5sum: 07ee5d5a40bc6ed0ecefbc423a8285e8
+SHA1: ea0674846bcf012757fe645c0a16021571b2666a
+SHA256: be50452f32f58c73128f68b8aad51ca97598f1bbac0eef7513ed3cd281012be8
+SHA512: 0913902096d65f2ddb46202d26d7087449d86686d46596f94c1410ca238854a192aa8de68ecff47a48a023eba86d58a2e4ff3e1af7a975b96c62d76110454990
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.wechat-push-msg-page_0.0.3_iphoneos-arm64e_2a0415798e2cbb274256463abf637ed9a0a49a0e1dff26a760cf7f8cfb0e8eb4.deb
+Size: 30784
+MD5sum: d1e0b0831bafbecb598eece94219410b
+SHA1: 2a4b4af9ae1010284c83b04a0184486f769b0ea7
+SHA256: 2a0415798e2cbb274256463abf637ed9a0a49a0e1dff26a760cf7f8cfb0e8eb4
+SHA512: 1d1ee745d0cc31870dee06acf5d45dbb86d937da9f9c829e439d166bd2637c311ec8a3eb788700c0e3e233834e7da348c427f984379db04d9292862c54d69140
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64e
+Version: 0.0.4
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.wechat-push-msg-page_0.0.4_iphoneos-arm64e_9e048ad9ebd6ee70802d0c1dcba8b000587e7ee2fcd2953bc1a07030d6f66896.deb
+Size: 31058
+MD5sum: e354737be9b0e7535e7e7635812aea41
+SHA1: 699c777ef975047fbce31e0b3cd1ecc5d50d0372
+SHA256: 9e048ad9ebd6ee70802d0c1dcba8b000587e7ee2fcd2953bc1a07030d6f66896
+SHA512: 99335d8d2fc6ffd34ac28a306e938f5b60487210ab1de071bf087e29e45a6b7f3a580c63b55fbdabc9a6028a8eebaecf7b8a381eda86dafddc48636991207ce2
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wechat-push-msg-page
+Architecture: iphoneos-arm64e
+Version: 0.0.5
+Section: 微信插件
+Maintainer: be-huge
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.wechat-push-msg-page_0.0.5_iphoneos-arm64e_ef26864462016e270bdba1df6cc364015d7a62e7cb7d61841e944d77b7dc0c80.deb
+Size: 30970
+MD5sum: 92b28127e92a1bb929d3eddee4187a9f
+SHA1: 1ad7e6b8a52c4cef83ec1d188edae4f636f60004
+SHA256: ef26864462016e270bdba1df6cc364015d7a62e7cb7d61841e944d77b7dc0c80
+SHA512: b275d58f3e5c7907d6a3b02095c0bbde68d5aa967a3502ab725104e181c5de9763f3fcaf4bcdd401bfe1f3df148e60eacb9f2d4fec3e6494c82aab8cdd4f0962
+Description: 弥补微信通知不足，支持点击微信消息通知横幅，跳转到对应的窗口。
+Name: 微信消息直达
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+SileoDepiction: https://be-huge.github.io/repo/ChangeLog/Wechat/WechatMsg.json
+
+Package: com.wkk.-1
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: 插件配置
+Maintainer: wkk
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: debs/iphoneos-arm64e/com.wkk.-1_1.0_iphoneos-arm64e_573482c151810bd5ff00bbbf39e21087411d78b0ea7c8078f2291621e397b65d.deb
+Size: 1890
+MD5sum: 37fd78814c9cd5cb09aeaefcef7e47a3
+SHA1: bad9dc33d145f1654d85d7b3f0f3fad3ebb9f861
+SHA256: 573482c151810bd5ff00bbbf39e21087411d78b0ea7c8078f2291621e397b65d
+SHA512: 2e181720f229e2ce4bc1b4ed080be0b31e7b53c0591f0e3f2d7417bb7e12f998bc9acc8e6b7497b761da089c5004e412201cb148083c0640f7f38115836c24be
+Description: 如果当前目录deb文件前是(1) (2) (3)... -1 -2 -3等，点一下脚本去除这些多余数字恢复原deb命名。
+Name: 清理deb后缀(自用)
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
