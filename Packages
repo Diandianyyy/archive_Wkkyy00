@@ -3870,6 +3870,24 @@ Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.
 SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
 
 Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64
+Version: 1.6.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3360
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64_aea9be45ad93a769531245fef9a54c69375094a4478bf67a32cefa88fe14beb9.deb
+Size: 661092
+MD5sum: 3f5b2988677fe4fc1a7d1664da62c59d
+SHA1: dff7682cbcc335ce0222bdc006d3aaf889a4e2ee
+SHA256: aea9be45ad93a769531245fef9a54c69375094a4478bf67a32cefa88fe14beb9
+SHA512: c66f905de50dc413d84b6b2704b30c48bd49c2c685684c0a634725f6c9160f0bc3c08b1fdb6f2302a1626f882c068f6ae85ecc18e7663f6b9407d5ff7b1fd1c3
+Description: 分屏，不必太复杂，一切从简即可。（无验证免费了）
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
+
+Package: com.be-huge.floating-view
 Architecture: iphoneos-arm64e
 Version: 1.4.6
 Section: 插件
@@ -5949,6 +5967,25 @@ Name: floatingView
 Author: be-huge
 Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/floatingView.json
+
+Package: com.be-huge.floating-view
+Architecture: iphoneos-arm64e
+Version: 1.6.0-6
+Section: Tweaks
+Maintainer: be-huge
+Installed-Size: 3360
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: debs/iphoneos-arm64e/com.be-huge.floating-view_1.6.0-6_iphoneos-arm64e_c8a8723deffd4d2ad2e70a67dd2bb53c74cbace6a0b6e99c77d5b4adb11ca334.deb
+Size: 1771916
+MD5sum: 3bf0931839721cdf0a57e710ac19f07e
+SHA1: 3e59a5af613221264077546eba35ed7c45bf74c8
+SHA256: c8a8723deffd4d2ad2e70a67dd2bb53c74cbace6a0b6e99c77d5b4adb11ca334
+SHA512: 166ceaafa8072dc9e36e1114ca45d6934b541b2f891c4c77fb5b15882b3211b2e092719baf60c50a5305ac004e1c226e1c88090a3e10a7a646e086af1b947263
+Description: 分屏，不必太复杂，一切从简即可。（无验证免费了）
+Name: floatingView
+Author: be-huge
+Icon: https://s1.imagehub.cc/images/2025/01/11/a6ee9b7d3555d062c59b68c2c71c7406.png
 
 Package: com.blbl
 Architecture: iphoneos-arm64
