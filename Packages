@@ -6024,6 +6024,40 @@ Name: 哔哩哔哩净化
 Author: 狗哥
 Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
 
+Package: com.crctdd.stayalivelite
+Architecture: iphoneos-arm64
+Version: 0.2.9
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 1376
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/iphoneos-arm64/com.crctdd.stayalivelite_0.2.9_iphoneos-arm64_92015b1605a214a027a2a23cec9a593b001eda22e7e087b97d942a58c2e8b647.deb
+Size: 150412
+MD5sum: c1c31d9e036cd08d0c025f8413522d0d
+SHA1: 749d96095f91ca2146304006a17498166d8733e2
+SHA256: 92015b1605a214a027a2a23cec9a593b001eda22e7e087b97d942a58c2e8b647
+SHA512: 1e632b46b41e581f9acc4e1508c0343735398fe749b694d6cf65f3356522672147d77ab57af103bdafc7d24a47bcffbb8d7416e563ac58e10916349b814535d5
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Name: StayAlive Lite
+Author: crctdd
+
+Package: com.crctdd.stayalivelite
+Architecture: iphoneos-arm64e
+Version: 0.2.9
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 672
+Depends: firmware (>= 15.0), firmware (<< 17.4), preferenceloader, com.opa334.ccsupport
+Filename: debs/iphoneos-arm64e/com.crctdd.stayalivelite_0.2.9_iphoneos-arm64e_45c5b28f28a18c902e9cbd17e8cd382c0b93c0e46edd53b3a28c54ac2bee6253.deb
+Size: 106548
+MD5sum: 333c54611ae154be823b386dac18281b
+SHA1: 8be617ddf460e0d40f265c9eab36245776679454
+SHA256: 45c5b28f28a18c902e9cbd17e8cd382c0b93c0e46edd53b3a28c54ac2bee6253
+SHA512: b954503e385b9892f481c0d60fa1d58f98b58fa19bf2f30bbcae83a1da2957156e2eeb6d86798a5d138e612faa016128d637c1bf62a8072802c53136386d6366
+Description: 轻量后台守护插件，支持多种运行方式与任务角色性能控制，让app后台运行更稳定。(支持ios15-17)
+Name: StayAlive Lite
+Author: crctdd
+
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
 Version: 1.5.8
@@ -27582,6 +27616,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
 
 Package: com.wkk.wechatx
+Architecture: iphoneos-arm64
+Version: 2.3-8
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 8708
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64/com.wkk.wechatx_2.3-8_iphoneos-arm64_d58166daca9ccaab7af372b909af44467afa129c76d0f161afbd4ad4f342c25e.deb
+Size: 3057386
+MD5sum: 3d74a3b91fde6095bddbf744098e2c7e
+SHA1: 9cce2847a270cf62cb995a3da7b13a6174c7d3b7
+SHA256: d58166daca9ccaab7af372b909af44467afa129c76d0f161afbd4ad4f342c25e
+SHA512: 48e9277ce7067358495317613eb139f6b14abe9c9315c70358940152b3c4a3e27c027acd8c625d930da18b9990594c9b85903b7d54c4a8812d7f35bc90c19c14
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，功能180+，自定义程度拉满的WeChat 插件，实用功能直接拉满占比百分之95，任何功能都可以提/定制皆可，单独授权50，进付费群依然可用。如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Name: WeChatX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wechatx
 Architecture: iphoneos-arm64e
 Version: 1.7-0
 Section: 微信插件
@@ -28548,6 +28600,24 @@ MD5sum: 2976f97945d6c73affcfc53d03f2735f
 SHA1: d4eb040f24ce8961c4e2dc1f79414bfc17c47f7a
 SHA256: 3f3d42493009100e220e36946d3c5d1fcd3c35e28958b1384d84564c72525b87
 SHA512: b473e911444e0a4686861911fc3f00be48eeaecd6d61b24336cb5e2bd7723522e01be736ad9f9983f64ae9296fc4f7ccd74bd224cf0b91c0bb61bd32729d2469
+Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，功能180+，自定义程度拉满的WeChat 插件，实用功能直接拉满占比百分之95，任何功能都可以提/定制皆可，单独授权50，进付费群依然可用。如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
+Name: WeChatX
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/01/01/95a2f7dd7e6f2a540e2f53f95ae214d4.png
+
+Package: com.wkk.wechatx
+Architecture: iphoneos-arm64e
+Version: 2.3-8
+Section: 微信插件
+Maintainer: wkk
+Installed-Size: 8884
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/iphoneos-arm64e/com.wkk.wechatx_2.3-8_iphoneos-arm64e_838030b6b8da0d6a8f610f2959b895c9db015c4a8b2ec2e8574bb806c21ed82e.deb
+Size: 3071476
+MD5sum: 8ce894051eb4e02ac922fcef0835bc13
+SHA1: 3a4663a956320e3af3776563c6c0e02d7bfeaed0
+SHA256: 838030b6b8da0d6a8f610f2959b895c9db015c4a8b2ec2e8574bb806c21ed82e
+SHA512: b9c7035444c26189987e6b3c2d0d933a6e73755538bf5c4a43a25ef4da350bd7bb3ebd41c22489473bd07346b83faf27cf13ddce83522df05ff3397d24ea7179
 Description: 一个新生代的插件，主打自由定义与实用为主，更多功能由群友集思广益，功能180+，自定义程度拉满的WeChat 插件，实用功能直接拉满占比百分之95，任何功能都可以提/定制皆可，单独授权50，进付费群依然可用。如果你想实现自己想要的功能，有更好的想法，欢迎来我的付费群玩。wx号：chn137
 Name: WeChatX
 Author: wkk
