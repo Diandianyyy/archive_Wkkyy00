@@ -6024,6 +6024,76 @@ Name: 哔哩哔哩净化
 Author: 狗哥
 Icon: https://s1.imagehub.cc/images/2025/09/05/b463e2993da2fa068dc77f032aa30071.png
 
+Package: com.crctdd.disablecutpop
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64_52cb325607a9eb788f7d43ae49a6d5ed46dc221c01df0c0fd2a338dfc00d1864.deb
+Size: 4074
+MD5sum: c1403b9e1a1785c9de6c94d87b749b5e
+SHA1: 46e8669863563bf437e25d5e2752792c903f971c
+SHA256: 52cb325607a9eb788f7d43ae49a6d5ed46dc221c01df0c0fd2a338dfc00d1864
+SHA512: ebb98d0fbb5f7a0b2bd58058507667f6d2f7c143ebc9e4d4482bec1a27a538657aba2d45c1c99f1d9205bd3bcf7045876c89c54aab31fa5acc9bdc779714b22b
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Name: Disable CutPoP
+Author: crctdd
+
+Package: com.crctdd.disablecutpop
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64e/com.crctdd.disablecutpop_0.0.1_iphoneos-arm64e_8233155936c8762ee5c7fc1615bbed05639bcd799d3e3ac6486dfd9b5782bd4b.deb
+Size: 3284
+MD5sum: 058717c716637bfe2fa1f3f06df0996a
+SHA1: 4dbd0533d5d6aef8dad14e98559e132024724839
+SHA256: 8233155936c8762ee5c7fc1615bbed05639bcd799d3e3ac6486dfd9b5782bd4b
+SHA512: 4a6f89dd052e360d17358b64e26cab1af4886d3dc2c063612883ebb0bdd1c79e344943f208504004ba3481cd8561a9cfbd785ef8c485a3309798587bb9cd6bd3
+Description: 设备互通粘贴时禁用弹窗，无设置项。(支持iOS 15-17)
+Name: Disable CutPoP
+Author: crctdd
+
+Package: com.crctdd.memtrim
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 820
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64/com.crctdd.memtrim_0.0.2_iphoneos-arm64_24d6babe21eceacfffd06c4c26bb36e5f9077408f12b22cd8e53c5fd5baf1db5.deb
+Size: 125198
+MD5sum: 37a2f6b78bad2d98266bd577b816aa97
+SHA1: 832c2a0d172b83fe1cc49b2bcfa25950d4080738
+SHA256: 24d6babe21eceacfffd06c4c26bb36e5f9077408f12b22cd8e53c5fd5baf1db5
+SHA512: 402bd1a9d38fa162f6b7972f98d7584cff641e8e5b738f03f9f651cf2c0bef24fc676ae8f256f78d72c50422816dec3a87de5fe5a7ad8922ac8b31a4e7d2174e
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Name: MemTrim
+Author: crctdd
+
+Package: com.crctdd.memtrim
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: crctdd
+Installed-Size: 388
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0), firmware (<< 18.0)
+Filename: debs/iphoneos-arm64e/com.crctdd.memtrim_0.0.2_iphoneos-arm64e_2bb22166f174bb72bae2d0487d6dffcb475fc3f847c43ae5961a9125478cfc97.deb
+Size: 71676
+MD5sum: 13868da5467edc7ebef48f4887a8f14b
+SHA1: c4051eeb9b5a21c1533871afb252185b66c806a6
+SHA256: 2bb22166f174bb72bae2d0487d6dffcb475fc3f847c43ae5961a9125478cfc97
+SHA512: 56115c12efd09c8cda350c2f61dc3f571ca42fa16d4d25ad6268b188b6c714af214661fe4f0a4ed56c6c5a38e3130c642e8c40fc46f4e3ab015a7171be0401f6
+Homepage: https://crctdd.github.io/repo/
+Description: 优化并释放部分运行内存。(支持iOS 15-17)
+Name: MemTrim
+Author: crctdd
+
 Package: com.crctdd.stayalivelite
 Architecture: iphoneos-arm64
 Version: 0.2.9
