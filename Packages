@@ -7524,6 +7524,42 @@ Description: 支持录屏/截图套壳，水印以及区域截图、长截图、
 Name: SHELLX
 Author: iosdump
 
+Package: com.jkclub.app
+Architecture: iphoneos-arm64
+Version: 1.0.3
+Section: Utilities
+Maintainer: JKClub
+Installed-Size: 1680
+Depends: firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.jkclub.app_1.0.3_iphoneos-arm64_873b8cc9a5a207645d674935084bd48e0ce291e50e310e87bb9466844831aaa8.deb
+Size: 1031470
+MD5sum: 95be09f2368f19601127b3154a3c068d
+SHA1: adb14fd1789c2b0f782217e8742def8d9f98668d
+SHA256: 873b8cc9a5a207645d674935084bd48e0ce291e50e310e87bb9466844831aaa8
+SHA512: 4398f0d1114f139ae0565635cb159fc42addd9ec0b0d195ee84a8232f04d35b4a546ce29214f4abd4b82e64953286b441a0a52ee27b919bfae33e16ac40ea0ba
+Description: Private device-bound package library for iOS 15 and later.
+Name: JKClub
+Author: JKClub
+Icon: https://repo.susubaby.cn/icons/ojbkclub.png
+
+Package: com.jkclub.app
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Utilities
+Maintainer: JKClub
+Installed-Size: 1680
+Depends: firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.jkclub.app_1.0.3_iphoneos-arm64e_f7f3d060bc97aab0e5e26e3fb01e7a01ae8718e6f830aadd1821d7284e1d4f37.deb
+Size: 1029720
+MD5sum: 89849a8f5ca43b6bac1248d5873967c1
+SHA1: adb6520406d8781c5b1bd5dfd2f3b8e60ce4d09a
+SHA256: f7f3d060bc97aab0e5e26e3fb01e7a01ae8718e6f830aadd1821d7284e1d4f37
+SHA512: 1823e191fb206047f77ac5a66d10486cc30264a3e4ebbb9a134543230c29a133c82b4ee18384e9f7ea6e47c118904a5b9be7145089e20f07e4c76fb27c862306
+Description: Private device-bound package library for iOS 15 and later.
+Name: JKClub
+Author: JKClub
+Icon: https://repo.susubaby.cn/icons/ojbkclub.png
+
 Package: com.lhyee.wcfix
 Architecture: iphoneos-arm64
 Version: 1.0
