@@ -14468,6 +14468,24 @@ Author: Netskao
 Sponsor: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/29/79018e0c97a38b0c2da262e3bf40edb1.png
 
+Package: com.wkk.cctimermemory
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 17.0)
+Filename: debs/iphoneos-arm64e/com.wkk.cctimermemory_1.0-1_iphoneos-arm64e_d5656724e725daa781530f4ca0c69ab2130182c179d4555ba4ae84afac755ab2.deb
+Size: 7636
+MD5sum: 8711e6804e97507f097254db6db661d8
+SHA1: 54733ffea7fce8f68178fc0daa534d7c6fc4c2a6
+SHA256: d5656724e725daa781530f4ca0c69ab2130182c179d4555ba4ae84afac755ab2
+SHA512: b25563a91d8083fc4c9a1f6d1d508d0949f09c5c10e92597bb9859a00caefe86a8498688009f92f64543e842fce0c8b87fc9b44c1928a20f9e5b459cc5249b5f
+Description: 控制中心记录上次倒计时时间，点击直接启动，仅适配 iOS 17.0–17.3.1 relaxin 越狱。
+Name: CCTimerMemory
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.cctunneltap
 Architecture: iphoneos-arm
 Version: 1.0.0
@@ -24331,6 +24349,42 @@ Description: 去开屏广告，版本：9.87.4
 Name: 顺丰速运NoAds
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/23/68af2a96e1fa8dcfb7935b2eb407ffad.png
+
+Package: com.wkk.sileofaststart
+Architecture: iphoneos-arm64
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.wkk.sileofaststart_1.0-2_iphoneos-arm64_8fa362c1ddf4e2514491f14434d4e52d3b85f4d0e0aec2a4b6dcde417ea7588c.deb
+Size: 21928
+MD5sum: d3251dade1a4fdc674c004e2f0b62bb9
+SHA1: f5f6deb229e2fcdc0c560501cb36d9a67a031144
+SHA256: 8fa362c1ddf4e2514491f14434d4e52d3b85f4d0e0aec2a4b6dcde417ea7588c
+SHA512: 52e38f244e2f7fac8d5a9cf18906696f16366922f0f9af23b4ea438b660577951c03aa006c08b3790ff6c3d6fb6c59e68adea02429ba249603ed7fd71e6ad251
+Description: 禁止 sileo 每次进入都自动化刷新拖慢用户的等待行为，以便于更高效的管理与加载已安装的插件，便于用户卸载/安装插件，支持Dopamine 与 relaxin 所有的越狱设备，需要刷新源与插件需手动刷新。
+Name: Sileo Fast Start
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.sileofaststart
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 208
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.wkk.sileofaststart_1.0-2_iphoneos-arm64e_fb44b853a460ed7e909ee63b18aa8c92472053c0812c732eb887c4740ae5d568.deb
+Size: 21848
+MD5sum: 5d9e96e5de372ec40312431ca022d39e
+SHA1: 32a6b6879c0dc39facd8cbe5cb20f9005a10d611
+SHA256: fb44b853a460ed7e909ee63b18aa8c92472053c0812c732eb887c4740ae5d568
+SHA512: c6fc31300a6957931c40c4438283a4d7746f7362bbc14df70248a6d596d3e1b2a611eaaef212b030f28942d2f6cabedd43d62c6907b6fc22328c96cbe2982102
+Description: 禁止 sileo 每次进入都自动化刷新拖慢用户的等待行为，以便于更高效的管理与加载已安装的插件，便于用户卸载/安装插件，支持Dopamine 与 relaxin 所有的越狱设备，需要刷新源与插件需手动刷新。
+Name: Sileo Fast Start
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.sileomh
 Architecture: iphoneos-arm64
