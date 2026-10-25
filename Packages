@@ -32139,6 +32139,45 @@ Author: Dhinak G <dhinak@dhinak.net>
 Name: PreferenceLoader (Top)
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
 
+Package: re.frida.server
+Architecture: iphoneos-arm64
+Version: 16.1.4
+Priority: optional
+Section: Development
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60116
+Conflicts: re.frida.server64
+Filename: debs/iphoneos-arm64/re.frida.server_16.1.4_iphoneos-arm64_85cf1906a303768978c4486db127d44b785b3584ba8002e11850bff4253a7429.deb
+Size: 17824532
+MD5sum: d044aa5cadd516201ed2b2f0fc454aa3
+SHA1: c9bcd73e65aaf96681b0e6f0e6fbd3c5e24b6f0d
+SHA256: 85cf1906a303768978c4486db127d44b785b3584ba8002e11850bff4253a7429
+SHA512: 9333f4f4cf9e7e0b3403333f9d4958888e42e02faf465f9ffe4eb9aedd5fa44b7470baaef6d9a606ba73463e75ff1d38d67f054548a86a7f7244337f23a69af9
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Name: Frida
+Author: Frida Developers <oleavr@nowsecure.com>
+
+Package: re.frida.server
+Architecture: iphoneos-arm64e
+Version: 16.1.4
+Priority: optional
+Section: Development
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 60116
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: re.frida.server64
+Filename: debs/iphoneos-arm64e/re.frida.server_16.1.4_iphoneos-arm64e_c94325f1032e6307544b0ca0385260df3a826c9fe1f443f0b295604083cbb595.deb
+Size: 53241442
+MD5sum: 54c33bd5d1391cc13fa95c9689366457
+SHA1: 0f3009babcc3f7f81517e37adb5acc386a311a8e
+SHA256: c94325f1032e6307544b0ca0385260df3a826c9fe1f443f0b295604083cbb595
+SHA512: 2d4bc811fb2183746d87299e14c0667a39f93c9c77ee30df1b234ccc2b2e112210b03f47abd83883b9ca93f122279c1c746d451d06c71b1bcfff6cd12fe9e46b
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Name: Frida
+Author: Frida Developers <oleavr@nowsecure.com>
+
 Package: ru.domo.cocoatop64
 Architecture: iphoneos-arm64e
 Version: 2.2.4-2
