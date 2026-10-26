@@ -113,6 +113,23 @@ Author: bswbw
 Name: FixSet
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: cn.llld.screenprivacy
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: 微信插件
+Maintainer: laileld 来了老弟
+Installed-Size: 196
+Depends: mobilesubstrate
+Filename: debs/iphoneos-arm64/cn.llld.screenprivacy_1.0_iphoneos-arm64_689253edb8ba176ea18acef4c0c82a2d87fcd140559d253a64e4a001ae0fdf00.deb
+Size: 11196
+MD5sum: 5d27ea2dc3e4214dc1dd100111d9909c
+SHA1: c7cd03dfa06fc39406b991aa2c75aa39b5ed9cf7
+SHA256: 689253edb8ba176ea18acef4c0c82a2d87fcd140559d253a64e4a001ae0fdf00
+SHA512: 1a96a18d47f4a7469deb08751a4dac920ed1e8b610a1aa00eca926ab1c0942257493c25fd7e52bbf1afb165bd8d8975c907b9bdfb340744214d86e1122af0ff9
+Description: 长按让指定会话在录屏时隐藏头像与昵称和消息，其余正常显示。
+Name: 微信录屏隐私
+Author: laileld 来了老弟
+
 Package: cn.sunshinesong.split-view-pro
 Architecture: iphoneos-arm64
 Version: 1.1.6
