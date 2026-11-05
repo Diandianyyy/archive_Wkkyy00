@@ -24129,6 +24129,24 @@ Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/02/28/f304f3a0a6ed71e8fb336e7ed1c09996.jpeg
 SileoDepiction: https://raw.githubusercontent.com/Wkkyy00/SileoDepiction/refs/heads/main/roothide.json
 
+Package: com.wkk.roothidealertsilencer
+Architecture: iphoneos-arm64e
+Version: 1.0-2
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.wkk.roothidealertsilencer_1.0-2_iphoneos-arm64e_f02f5654351ae6437b98cbd4e456ad1d832e69511713e20af87fb68adac134b5.deb
+Size: 4432
+MD5sum: 3014584548e9db461a13157273ffee4d
+SHA1: 9474d8b69981530f5cb14117ff0093031fe2f7ab
+SHA256: f02f5654351ae6437b98cbd4e456ad1d832e69511713e20af87fb68adac134b5
+SHA512: f2d3bc21623f5d40ddbf0135df40fde1cdca1e6b27f385bea5fd95a26927dca40c51f9ee73f5a660a5ab79036e036797e87eaa6e85f674f2feeb09897b9f782b
+Description: 屏蔽 RootHide Manager 中的 ssh、Dropbear、Frida、未知 Bindfs 挂载和 VPN/代理检测弹窗。
+Name: RootHide弹窗屏蔽
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.rose
 Architecture: iphoneos-arm64
 Version: 1.1.0
@@ -24545,6 +24563,42 @@ Description: 去开屏广告，版本：9.87.4
 Name: 顺丰速运NoAds
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2026/02/23/68af2a96e1fa8dcfb7935b2eb407ffad.png
+
+Package: com.wkk.sileodebbackupx
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64/com.wkk.sileodebbackupx_1.0-1_iphoneos-arm64_b01b5f5d2fe8a58001994da870d655a83e9c8f8f5716010d28b7cd511ee1e80b.deb
+Size: 5210
+MD5sum: 0eb8346b2ef7a4d97f5222761d057207
+SHA1: 5ee4a72c2850bf112763ef89b5edb93bfa0829a6
+SHA256: b01b5f5d2fe8a58001994da870d655a83e9c8f8f5716010d28b7cd511ee1e80b
+SHA512: e263b22ec52137f84975b71ce52207d19b9905f67cd23dd0c31a66ca5328db85199ff9dbfa9f4f01a1ad2541ede8fc9a817acb86c4fca2c92c3b5bc34fcbf58d
+Description: 自动备份 Sileo 从软件源下载的 DEB（包括依赖和更新），保存位置：/var/mobile/Documents/SileoDEB。
+Name: deb 保存器
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
+Package: com.wkk.sileodebbackupx
+Architecture: iphoneos-arm64e
+Version: 1.0-1
+Section: Tweaks
+Maintainer: wkk
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/iphoneos-arm64e/com.wkk.sileodebbackupx_1.0-1_iphoneos-arm64e_daecf2fd6444e0c4a63ccdad5df87369ffcb0d0811b6dc5dbc2c5d1bcc29a1bd.deb
+Size: 5136
+MD5sum: 51495aebdf137b2d15fc56187ab52652
+SHA1: 62495a25e4f07cc60c370a899e0e7a2ed34134a4
+SHA256: daecf2fd6444e0c4a63ccdad5df87369ffcb0d0811b6dc5dbc2c5d1bcc29a1bd
+SHA512: 200b946f5f712932f0c443f0124c0189e0d47fa6a83359cf0da810a3cbf7b49c46a008c95938f6326e351961080254d63f794dedf67269b27b527d60581c9793
+Description: 自动备份 Sileo 从软件源下载的 DEB（包括依赖和更新），保存位置：/var/mobile/Documents/SileoDEB。
+Name: deb 保存器
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
 Package: com.wkk.sileofaststart
 Architecture: iphoneos-arm64
