@@ -20557,6 +20557,24 @@ Name: 仿 iOS27 弹窗
 Author: wkk
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: com.wkk.ktck11188
+Architecture: iphoneos-arm64
+Version: 1.0-1
+Section: 插件配置
+Maintainer: wkk
+Depends: sudo
+Filename: debs/iphoneos-arm64/com.wkk.ktck11188_1.0-1_iphoneos-arm64_18e6d84605ff0ea8ac4f7d3741928859b8d7fb1015945e9af6ca94f390cc5b3d.deb
+Size: 1176
+MD5sum: fa09881d9211c70586c6386bb39ed9d6
+SHA1: 0743dec5ec987470ba627551641c2aa6d22e73df
+SHA256: 18e6d84605ff0ea8ac4f7d3741928859b8d7fb1015945e9af6ca94f390cc5b3d
+SHA512: 24bfdda6468d295d628cca71bc16504f8fb5dd9d385c6ee15290040173d77a6ce57248eaf165e927f6f0b4f479c9106af98ad73214943059b801ec3e8f1cc4a1
+Description: SettingsGroupX 可以把手机设置里的越狱插件、应用和系统选项分类收好方便查找。可以给越狱插件进行自定义排序、隐藏、以及修改插件名称和图标（无视插件更新与防篡改逻辑）以及可以自由更换设置页面壁纸、账户头像和首页横幅（图片/GIF/视频 都支持）等诸多自定义项目。单独授权20💰/人，联系微信：chn137
+Tag: cydia::commercial
+Name: 插件归类
+Author: wkk
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+
 Package: com.wkk.kuanhook
 Architecture: iphoneos-arm64
 Version: 1.0
