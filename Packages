@@ -32481,6 +32481,25 @@ Name: Frida
 Author: Frida Developers <oleavr@nowsecure.com>
 
 Package: re.frida.server
+Architecture: iphoneos-arm64
+Version: 17.26.1
+Priority: optional
+Section: Development
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 78484
+Conflicts: re.frida.server64
+Filename: debs/iphoneos-arm64/re.frida.server_17.26.1_iphoneos-arm64_84411ac3b6b67aaa981462c41f9f886f0a61733e2b004133a7561a7816e63ade.deb
+Size: 23544228
+MD5sum: 39f1bc29031944805d5b02a5d4efa65e
+SHA1: 4871a157e8a29158b6f5357d45c99b980ef36971
+SHA256: 84411ac3b6b67aaa981462c41f9f886f0a61733e2b004133a7561a7816e63ade
+SHA512: 1b6b9846dab61ea5c0df580d529630b4400957a50578068e7126ffae1dea7572e13bda5f421d3d0c3540aa81be7ca6f86b9cb3e261f26b9c36f654aa8c317580
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Name: Frida
+Author: Frida Developers <oleavr@nowsecure.com>
+
+Package: re.frida.server
 Architecture: iphoneos-arm64e
 Version: 16.1.4
 Priority: optional
@@ -32495,6 +32514,25 @@ MD5sum: 54c33bd5d1391cc13fa95c9689366457
 SHA1: 0f3009babcc3f7f81517e37adb5acc386a311a8e
 SHA256: c94325f1032e6307544b0ca0385260df3a826c9fe1f443f0b295604083cbb595
 SHA512: 2d4bc811fb2183746d87299e14c0667a39f93c9c77ee30df1b234ccc2b2e112210b03f47abd83883b9ca93f122279c1c746d451d06c71b1bcfff6cd12fe9e46b
+Homepage: https://frida.re/
+Description: Observe and reprogram running programs.
+Name: Frida
+Author: Frida Developers <oleavr@nowsecure.com>
+
+Package: re.frida.server
+Architecture: iphoneos-arm64e
+Version: 17.25.1
+Priority: optional
+Section: Development
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 78466
+Conflicts: re.frida.server64
+Filename: debs/iphoneos-arm64e/re.frida.server_17.25.1_iphoneos-arm64e_fe9f71535a7e99d28c2e62dc4cb8fa966ffbb84246fcece7ec9ebac5fd815027.deb
+Size: 23526852
+MD5sum: 0384d04d2ad3074f966759e50eb47fe7
+SHA1: db7280dbe1c26cca6daa3fd358bbb2bef82973d8
+SHA256: fe9f71535a7e99d28c2e62dc4cb8fa966ffbb84246fcece7ec9ebac5fd815027
+SHA512: cc97444d2dcc5c134f1e0f43cb073c7bc7b72489b301c442da98986d3ee8d44a515270e2a16560ab709506aa9a088e5223955e40690fc70911a26a7603ded733
 Homepage: https://frida.re/
 Description: Observe and reprogram running programs.
 Name: Frida
@@ -32629,6 +32667,45 @@ Author: Saily Team <support.0xa1@qaq.wiki>
 Website: https://sailyteam.github.io/Saily/index.html
 Depiction: https://sailyteam.github.io/Saily/index.html
 Icon: https://s1.imagehub.cc/images/2025/01/10/0458f7f83190b2b17070085595312c2b.jpeg
+
+Package: ws.hbang.alderis
+Architecture: iphoneos-arm64
+Version: 2.2
+Section: System
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 2528
+Depends: firmware (>= 15.0), uikittools
+Filename: debs/iphoneos-arm64/ws.hbang.alderis_2.2_iphoneos-arm64_da2d801af4b855a3ee6858547964fd3006874246640bfa9617d0bd8b334682ab.deb
+Size: 218084
+MD5sum: 4b8e82d10d55618ce092e98932ab90fc
+SHA1: bee12cd9f3dac39b148593af3d3f749c1391850f
+SHA256: da2d801af4b855a3ee6858547964fd3006874246640bfa9617d0bd8b334682ab
+SHA512: 0e1b8953214ed95f7e947e49c82e143c83516b93abdaacb864434df0a4e75472e742de630bca11af7e5354026dcc16f7cf80d7d9c5dd2344b7e8ac16f046141f
+Description: 颜色库
+Name: Alderis Color Picker-Rootless「颜色库」
+Author: Acreson
+Sponsor: Acreson <342080124@qq.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
+
+Package: ws.hbang.alderis
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: System
+Maintainer: Acreson <342080124@qq.com>
+Installed-Size: 2528
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), uikittools
+Filename: debs/iphoneos-arm64e/ws.hbang.alderis_2.2_iphoneos-arm64e_335155aba027c73b5dd06cc003f1ea744eb0615eef4e34f189caba198a2ce038.deb
+Size: 292406
+MD5sum: 1af59174989202bb931bc95d55d65458
+SHA1: fb4b67470574d1288b884028c346e5caa31933c2
+SHA256: 335155aba027c73b5dd06cc003f1ea744eb0615eef4e34f189caba198a2ce038
+SHA512: d808c5fdfb089b188fbb7ef2cb39630f1a43e0bf1f3d660cedf095a9018aa9927bfd2ae7729fd0f3a61536578440d7649fbcdd628d6bf687059feb83f7e7ad61
+Description: 颜色库
+Name: Alderis Color Picker-Rootless「颜色库」
+Author: Acreson
+Sponsor: Acreson <342080124@qq.com>
+Icon: https://gitee.com/acreson/repo/raw/master/icon/Acreson(RootLess).png
 
 Package: ws.hbang.newterm3
 Architecture: iphoneos-arm64
