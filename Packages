@@ -113,6 +113,42 @@ Author: bswbw
 Name: FixSet
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
 
+Package: cn.llld.ql
+Architecture: iphoneos-arm64
+Version: 1.3.0
+Section: System
+Maintainer: 来了老弟
+Installed-Size: 1028
+Depends: firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/cn.llld.ql_1.3.0_iphoneos-arm64_8a160164d7ced047874e13a9c388767aeb39e5bcdad48fc524f6f77ea3681e0f.deb
+Size: 380572
+MD5sum: 9d8e804d746231ab8dc4e1eafba4bded
+SHA1: 2aa7ab8bb4ab1d16c0883818d37182df7bc6c070
+SHA256: 8a160164d7ced047874e13a9c388767aeb39e5bcdad48fc524f6f77ea3681e0f
+SHA512: 19703f93a21c31925ca9ea4efe3efdf602d3425a1f155a54cc1e0db1d917819139c4a1621b4be505c51b55070020c14967e15d64fcbb9c7dc0c1c342b07b5d80
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Name: QL 清理
+Author: 来了老弟
+
+Package: cn.llld.ql
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: System
+Maintainer: 来了老弟
+Installed-Size: 628
+Depends: firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/cn.llld.ql_1.3.0_iphoneos-arm64e_08d44d433638c5fdf382d962f928de24f527fe1da36b06d81d44a43e1e5700c9.deb
+Size: 326942
+MD5sum: 27da3e4f092030d63faad8e21a125308
+SHA1: a5ff5d59a40ade9b4d8aaa1a77b33949d0cd44ce
+SHA256: 08d44d433638c5fdf382d962f928de24f527fe1da36b06d81d44a43e1e5700c9
+SHA512: 27c0702c62fede5ee6d3aa19d4d3c63e0ee044eb046829f28bbe4fe1a331e2f5556bed3227c8effd1c931318f8975f5ce1e73ad4ac30aa56f5af365fbdd4f468
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Name: QL 清理
+Author: 来了老弟
+
 Package: cn.llld.screenprivacy
 Architecture: iphoneos-arm64
 Version: 1.0
