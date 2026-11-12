@@ -18135,6 +18135,24 @@ Section: Tweaks
 Maintainer: 0xkuj
 Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
+Filename: debs/iphoneos-arm64e/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64e_51de155b4e429044a041b1bb0dcc859e34b8c3474c3193f86a735becc6e7257a.deb
+Size: 48010
+MD5sum: 570ab834161b6a71e9dca2d187078e36
+SHA1: 508a1753da70ec1174c36ba64fe196856d5ca7ee
+SHA256: 51de155b4e429044a041b1bb0dcc859e34b8c3474c3193f86a735becc6e7257a
+SHA512: df17fa18686409bf0b006298d2fd8e6ef12d4a2de41568c6516357e55db559a9c092239b4bf89ff72a207de8a0d58a1aa60b8b58b1870b10e166d8793c4aa4cb
+Description: 计算Filza里文件夹大小。
+Name: FilzaDirProbe
+Author: 0xkuj
+Icon: https://s1.imagehub.cc/images/2025/04/02/754b2bb601bad95dca5cb982e7d926af.jpeg
+
+Package: com.wkk.filzadirprobe
+Architecture: iphoneos-arm64e
+Version: 1.7.3
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 240
+Pre-Depends: rootless-compat(>= 0.9)
 Filename: debs/iphoneos-arm64e/com.wkk.filzadirprobe_1.7.3_iphoneos-arm64e_a5f9ef1914e2165e738aac0c4efafa0c8c104bb3eeb9eb8ff918e12af72caad7.deb
 Size: 48030
 MD5sum: 290f26969250ebea7804dc7e8c6fb82d
@@ -21260,6 +21278,24 @@ Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.
 Author: Mao
 
 Package: com.wkk.leftpan
+Architecture: iphoneos-arm64
+Version: 2.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: debs/iphoneos-arm64/com.wkk.leftpan_2.0-1_iphoneos-arm64_61514b357901a6aec96d3df66fce4cd593997d3ed48defbe2ea0a33c695d67b0.deb
+Size: 32556
+MD5sum: bc355eb6860207225a7f00d7066fa03f
+SHA1: f186ede2e19fb42861d1650476ea53a63a186c27
+SHA256: 61514b357901a6aec96d3df66fce4cd593997d3ed48defbe2ea0a33c695d67b0
+SHA512: 204ad8466948ae8cad315f60ab594581d269da717154fae68199444184210af58e018bfc5d0c446fcf78351bd859ed96201a66905e62c428cf631ecef4ff3fd3
+Description: 左滑返回上一页面
+Name: 左滑返回
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: Mao
+
+Package: com.wkk.leftpan
 Architecture: iphoneos-arm64e
 Version: 2.0-1
 Priority: optional
@@ -21272,6 +21308,24 @@ MD5sum: 43f62c6539c6aa5d66d66570c63c61e1
 SHA1: 8ca77bcb21fa4cdd6829a330d912667c8268bfba
 SHA256: 61f1f5bb5dfb42d833fe35f30a45ffffb8bb5c9f67bd7dfe06773776333ecba2
 SHA512: f90ee8ebfe73060789c09cb3dbd02b2037d0962c94f609ea3317e8e1b3cf078c822dbc53042b2d4eab22a15632ffb2c2f35504c39481746ae5cd8bf1eda54bf2
+Description: 左滑返回上一页面
+Name: 左滑返回
+Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
+Author: Mao
+
+Package: com.wkk.leftpan
+Architecture: iphoneos-arm64e
+Version: 2.0-1
+Priority: optional
+Section: Tweaks
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: debs/iphoneos-arm64e/com.wkk.leftpan_2.0-1_iphoneos-arm64e_5a1511bf12e79d6d625f1639373b069683ddf953106dcb3c1b94e9457ab8cb85.deb
+Size: 33020
+MD5sum: e045b43ef5cd3cebb8c20e8a137fadbb
+SHA1: 26e0970da01f37fa5e8c55f3cadb744215b11ca7
+SHA256: 5a1511bf12e79d6d625f1639373b069683ddf953106dcb3c1b94e9457ab8cb85
+SHA512: c39022ef9282f280ee3b47c5d9ef7e73fc347bdacff201bf8aea52f7eba6015b96267fcaf6b5e76f7dec7d367b1a295837d0c79ee487e597943680950e591799
 Description: 左滑返回上一页面
 Name: 左滑返回
 Icon: https://s1.imagehub.cc/images/2025/12/26/29fda3e52ac78c6958ecf3b5dac18673.png
