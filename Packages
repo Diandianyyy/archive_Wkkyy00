@@ -133,6 +133,24 @@ Author: 来了老弟
 
 Package: cn.llld.ql
 Architecture: iphoneos-arm64
+Version: 1.3.10
+Section: System
+Maintainer: 来了老弟
+Installed-Size: 1504
+Depends: firmware (>= 14.0)
+Filename: debs/iphoneos-arm64/cn.llld.ql_1.3.10_iphoneos-arm64_fb90a9cc0d64bea00236d9c1b63e40fdd96744ecb8a11a566fad8292b9ef0a33.deb
+Size: 465068
+MD5sum: c96d28b2a57dffeccfc32c130b3eb015
+SHA1: 5724d173b6ac51d36ab08e8d54e923ef38911246
+SHA256: fb90a9cc0d64bea00236d9c1b63e40fdd96744ecb8a11a566fad8292b9ef0a33
+SHA512: 05affe029f65ebe768d24f72b0ee5f24d952d8b12a564db599ecc4669d2e0673e28a2b9f5c8d50f4a3542dae6749abdf220df6d457a1a41526f8f6b87244bbfe
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Name: QL 清理
+Author: 来了老弟
+
+Package: cn.llld.ql
+Architecture: iphoneos-arm64
 Version: 1.3.5
 Section: System
 Maintainer: 来了老弟
@@ -162,6 +180,24 @@ MD5sum: 27da3e4f092030d63faad8e21a125308
 SHA1: a5ff5d59a40ade9b4d8aaa1a77b33949d0cd44ce
 SHA256: 08d44d433638c5fdf382d962f928de24f527fe1da36b06d81d44a43e1e5700c9
 SHA512: 27c0702c62fede5ee6d3aa19d4d3c63e0ee044eb046829f28bbe4fe1a331e2f5556bed3227c8effd1c931318f8975f5ce1e73ad4ac30aa56f5af365fbdd4f468
+Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
+Tag: purpose::uikit, compatible::ios14
+Name: QL 清理
+Author: 来了老弟
+
+Package: cn.llld.ql
+Architecture: iphoneos-arm64e
+Version: 1.3.10
+Section: System
+Maintainer: 来了老弟
+Installed-Size: 860
+Depends: firmware (>= 14.0)
+Filename: debs/iphoneos-arm64e/cn.llld.ql_1.3.10_iphoneos-arm64e_eb6662b963771f36c8772787deb71b446fbc05114fc9f517fc280bc7776e0839.deb
+Size: 378502
+MD5sum: 758bb3f5c474d5fa442d957e8601cee9
+SHA1: 4b4cceb1113fe94d0eb3b0eb3de661883013651b
+SHA256: eb6662b963771f36c8772787deb71b446fbc05114fc9f517fc280bc7776e0839
+SHA512: 612e8aba0a1ff3b8b541f98cdfdeae7ca1671309c45743d19841dfd4dae05898aa2f4dae71c31b46f23dcc0908022d7d9cc94e37193a75223211d9351183defa
 Description: 越狱 iOS 桌面清理工具：扫描 App 缓存与临时文件、按应用单独清理、明细左滑清理缓存/临时、可跳过后缀、清理短信与 Safari 书签、系统垃圾（系统缓存/相册缩略图/日志/残留数据）
 Tag: purpose::uikit, compatible::ios14
 Name: QL 清理
