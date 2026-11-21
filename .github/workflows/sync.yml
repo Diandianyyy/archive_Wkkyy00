@@ -69,4 +69,12 @@ jobs:
 
       - name: Publish refreshed source
         id: deployment
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait before retrying Pages publication
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 30
+      - name: Retry Pages publication
+        if: steps.deployment.outcome == 'failure'
         uses: actions/deploy-pages@v4
